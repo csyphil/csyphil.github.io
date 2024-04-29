@@ -149,6 +149,10 @@
       logo: 火山写作.webp
       url: https://www.writingo.net/
       description: 字节跳动旗下推出的免费AI写作助手
+    - title: 腾讯混元大模型
+      logo: 混元.webp
+      url: https://hunyuan.tencent.com/
+      description: 由腾讯研发的大语言模型
     - title: Gnomic智能体平台
       logo: gnomic.webp
       url: https://www.gnomic.cn/
