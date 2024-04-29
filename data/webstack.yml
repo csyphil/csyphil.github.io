@@ -378,83 +378,83 @@
       logo: 同程.webp
       url: https://www.ly.com/
       description: 再出发，就同程
-- taxonomy: 新闻媒体
-  icon: far fa-newspaper
-  list:
-    - term: 英文新闻
-      links: 
-        - title: The New York Times
-          logo: NYT.webp
-          url: https://www.nytimes.com/
-          description: 纽约时报
-        - title: The Wall Street Journal
-          logo: WSJ.webp
-          url: https://www.wsj.com/
-          description: 华尔街日报
-        - title: BBC News
-          logo: BBC.webp
-          url: https://www.bbc.com/
-          description: 英国广播公司
-        - title: CNN
-          logo: CNN.webp
-          url: https://edition.cnn.com/
-          description: 美国有线电视新闻网
-        - title: Fox News
-          logo: FoxNews.webp
-          url: https://www.foxnews.com/
-          description: 福克斯新闻网
-        - title: International Business Times
-          logo: IBT.webp
-          url: https://www.ibtimes.com/
-          description: 国际财经时报
-        - title: VOA
-          logo: VOA.webp
-          url: https://www.voanews.com/
-          description: 美国之音
-        - title: The Guardian
-          logo: 卫报.webp
-          url: https://www.theguardian.com/us
-          description: 卫报
-        - title: The Washington Post
-          logo: TWP.webp
-          url: https://www.washingtonpost.com/
-          description: 华盛顿邮报
-        - title: Bloomberg
-          logo: 彭博.webp
-          url: https://www.bloomberg.com/
-          description: 彭博社
-    - term: 外网中文
-      links: 
-        - title: 纽约时报中文网
-          logo: NYT.webp
-          url: https://cn.nytimes.com/
-        - title: 华尔街日报中文网
-          logo: WSJ.webp
-          url: https://cn.wsj.com/
-        - title: BBC中文网
-          logo: BBC.webp
-          url: https://www.bbc.com/zhongwen/
-        - title: 法广中文网
-          logo: RFI.webp
-          url: https://www.rfi.fr/cn/
-        - title: 德国之声中文网
-          logo: DW.webp
-          url: https://www.dw.com/zh
-        - title: 日本经济中文网
-          logo: 日经.webp
-          url: https://cn.nikkei.com/
-        - title: 朝鲜日报(韩)
-          logo: 朝鲜日报.webp
-          url: https://cnnews.chosun.com/
-        - title: 明报(港)
-          logo: mingbao.webp
-          url: https://www.mingpao.com/
-        - title: 联合新闻网(台)
-          logo: UDN.webp
-          url: https://udn.com/
-        - title: ChinaNewsX
-          logo: cnnewsx.webp
-          url: https://www.chinanewsx.com/
+# - taxonomy: 新闻媒体
+#   icon: far fa-newspaper
+#   list:
+#     - term: 英文新闻
+#       links: 
+#         - title: The New York Times
+#           logo: NYT.webp
+#           url: https://www.nytimes.com/
+#           description: 纽约时报
+#         - title: The Wall Street Journal
+#           logo: WSJ.webp
+#           url: https://www.wsj.com/
+#           description: 华尔街日报
+#         - title: BBC News
+#           logo: BBC.webp
+#           url: https://www.bbc.com/
+#           description: 英国广播公司
+#         - title: CNN
+#           logo: CNN.webp
+#           url: https://edition.cnn.com/
+#           description: 美国有线电视新闻网
+#         - title: Fox News
+#           logo: FoxNews.webp
+#           url: https://www.foxnews.com/
+#           description: 福克斯新闻网
+#         - title: International Business Times
+#           logo: IBT.webp
+#           url: https://www.ibtimes.com/
+#           description: 国际财经时报
+#         - title: VOA
+#           logo: VOA.webp
+#           url: https://www.voanews.com/
+#           description: 美国之音
+#         - title: The Guardian
+#           logo: 卫报.webp
+#           url: https://www.theguardian.com/us
+#           description: 卫报
+#         - title: The Washington Post
+#           logo: TWP.webp
+#           url: https://www.washingtonpost.com/
+#           description: 华盛顿邮报
+#         - title: Bloomberg
+#           logo: 彭博.webp
+#           url: https://www.bloomberg.com/
+#           description: 彭博社
+#     - term: 外网中文
+#       links: 
+#         - title: 纽约时报中文网
+#           logo: NYT.webp
+#           url: https://cn.nytimes.com/
+#         - title: 华尔街日报中文网
+#           logo: WSJ.webp
+#           url: https://cn.wsj.com/
+#         - title: BBC中文网
+#           logo: BBC.webp
+#           url: https://www.bbc.com/zhongwen/
+#         - title: 法广中文网
+#           logo: RFI.webp
+#           url: https://www.rfi.fr/cn/
+#         - title: 德国之声中文网
+#           logo: DW.webp
+#           url: https://www.dw.com/zh
+#         - title: 日本经济中文网
+#           logo: 日经.webp
+#           url: https://cn.nikkei.com/
+#         - title: 朝鲜日报(韩)
+#           logo: 朝鲜日报.webp
+#           url: https://cnnews.chosun.com/
+#         - title: 明报(港)
+#           logo: mingbao.webp
+#           url: https://www.mingpao.com/
+#         - title: 联合新闻网(台)
+#           logo: UDN.webp
+#           url: https://udn.com/
+#         - title: ChinaNewsX
+#           logo: cnnewsx.webp
+#           url: https://www.chinanewsx.com/
 - taxonomy: 工作办公
   icon: fas fa-briefcase
   list:
