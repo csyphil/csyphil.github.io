@@ -1,0 +1,41 @@
+baseURL               = "https://csyphil.github.io"
+languageCode          = "zh-CN"
+title                 = "夕岚导航"
+theme                 = "WebStack-Hugo"
+preserveTaxonomyNames = true
+disablePathToLower    = true
+hasCJKLanguage        = true    # 文本处理或渲染程序需要处理Chinese、Japanese、Korean字符集
+publishDir            = "public"					# 站点静态文件保存目录
+
+
+[params]
+    author        = " "
+    description   = "Webstack-Hugo 网址导航 | Hugo 主题"
+    upload        = " "  # 左侧导航栏的"网站提交"
+    about         = " "	# 左侧导航栏的"关于导航"页面(./about)
+    repository    = " "  
+    enablePreLoad = false					    # 网站完全打开前预加载动画
+    textPreLoad   = "银河系漫游指南"	  # 预加载的动画文字, 只有当enablePreLoad=true时生效
+    expandSidebar = false					    # 默认展开左侧边导航栏
+    logosPath     = "assets/images/logos"			# 网站每个导航地址logo存放地址
+    defaultLogo   = "assets/images/logos/default.webp"		# logo图片资源不存在或者错误时, 默认显示的logo; 该参数如为空,将会一直加载对应的logo,直至成功
+    nightMode     = false					    # 默认站点为深色(夜间)模式
+    yiyan         = true                        # 默认启用一言服务
+
+[params.qweather]
+    key = "085791e805a24491b43b06cf58ab31e7"
+
+[params.images]
+    favicon           = "assets/images/favicon.webp"
+    searchImageL      = "assets/images/bg.webp"		# 搜索部分浅色背景图
+    searchImageD      = "assets/images/bg.webp"		# 搜索部分深色背景图
+    logoExpandLight   = "assets/images/bt8-expand-light.webp"
+    logoExpandDark    = "assets/images/bt8-expand-dark.webp"
+    logoCollapseLight = "assets/images/navi.webp"
+    logoCollapseDark  = "assets/images/navi.webp"
+    
+[markup.goldmark.renderer]
+    unsafe = false
+
+[params.footer]
+    copyright = 'Powered by [Vercel](https://vercel.com/), [Cloudflare](https://pages.cloudflare.com/) and [Github](https://pages.github.com/)'

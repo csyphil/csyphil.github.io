@@ -1,0 +1,85 @@
+<script type='text/javascript' src='{{ absURL "assets/js/jquery.ui.touch-punch.min-0.2.2.js" }}' id='jqueryui-touch-js'></script>
+<script type='text/javascript' src='{{ absURL "assets/js/clipboard.min-5.6.2.js" }}' id='clipboard-js'></script>
+<script type='text/javascript' src='{{ absURL "assets/js/tooltip-extend.js" }}' id='iplaycode-nav-js'></script>
+<script type='text/javascript' id='popper-js-extra'>
+/* <![CDATA[ */
+var theme = {"ajaxurl":"","addico":"https:\/\/nav.baidu.cn\/wp-content\/themes\/onenav\/images\/add.png","order":"asc","formpostion":"top","defaultclass":"io-grey-mode","isCustomize":"1","icourl":"","icopng":".png","urlformat":"1","customizemax":"10","newWindow":"0","lazyload":"1","minNav":"1","loading":"1","hotWords":"baidu","classColumns":" col-sm-6 col-md-4 col-xl-5a col-xxl-6a ","apikey":"TWpBeU1UVTNOekk1TWpVMEIvZ1M2bFVIQllUMmxsV1dZelkxQTVPVzB3UW04eldGQmxhM3BNWW14bVNtWk4="};
+/* ]]> */
+</script>
+<script type='text/javascript' src='{{ absURL "assets/js/popper.min.js" }}' id='popper-js'></script>
+<script type='text/javascript' src='{{ absURL "assets/js/bootstrap.min-4.3.1.js" }}' id='bootstrap-js'></script>
+<script type='text/javascript' src='{{ absURL "assets/js/theia-sticky-sidebar-1.5.0.js" }}' id='sidebar-js'></script>
+<script type='text/javascript' src='{{ absURL "assets/js/lazyload.min-12.4.0.js" }}' id='lazyload-js'></script>
+<!-- <script type='text/javascript' src='{{ absURL "assets/js/fancybox.min-3.5.7.js" }}' id='lightbox-js-js'></script> -->
+{{ if $.Site.Params.expandSidebar }}
+<script type='text/javascript' src='{{ absURL "assets/js/app-anim.js" }}' id='appanim-js'></script>
+{{ else }}
+<script type='text/javascript' src='{{ absURL "assets/js/app-mini.js" }}' id='appmini-js'></script>
+{{ end }}
+<script>
+   $(document).ready(function() {
+    var $body = $('body');
+    var $modeToggle = $('#mode-toggle');
+    var $modeIcon = $modeToggle.find('.mode-ico');
+
+    // 初始化
+    autoSwitchMode();
+    hideWelcomeMessage();
+    updateMode();
+
+    // 点击按钮切换模式
+    $modeToggle.on('click', function() {
+        toggleMode();
+    });
+
+    // 点击平滑滚动
+    $(document).on('click', 'a.smooth', function(ev) {
+        ev.preventDefault();
+        smoothScroll($(this).attr('href'));
+    });
+
+    // 无ajax标签页点击处理
+    $(document).on('click', 'a.tab-noajax', function(ev) {
+        var url = $(this).data('link');
+        var tabMove = $(this).closest('.d-flex.flex-fill.flex-tab').find('.btn-move.tab-move');
+        tabMove.toggle(!!url).attr('href', url);
+    });
+
+    // 更新模式相关的样式和元素
+    function updateMode() {
+        var isNightMode = $body.hasClass('io-black-mode');
+        $modeIcon.removeClass('icon-night icon-light').addClass(isNightMode ? 'icon-night' : 'icon-light');
+    }
+
+    // 切换模式（夜间模式和白天模式）
+    function toggleMode() {
+        $body.toggleClass('io-black-mode io-grey-mode');
+        updateMode();
+    }
+
+    // 自动切换模式函数
+    function autoSwitchMode() {
+        var currentHour = new Date().getHours();
+        var isNightMode = currentHour >= 18 || currentHour < 6;
+        $body.toggleClass('io-black-mode', isNightMode).toggleClass('io-grey-mode', !isNightMode);
+        updateMode();
+    }
+
+    // 平滑滚动函数
+    function smoothScroll(target) {
+        var offset = $(target).offset().top - 90;
+        $('html, body').animate({
+            scrollTop: offset
+        }, 500, 'swing');
+    }
+
+    // 隐藏欢迎消息
+    function hideWelcomeMessage() {
+        var $siteWelcome = $('#loading').addClass('close');
+        setTimeout(function() {
+            $siteWelcome.remove();
+        }, 600);
+    }
+});
+</script> 
+</html>
