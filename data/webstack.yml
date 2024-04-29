@@ -773,9 +773,9 @@
         - title: 全球VPS数据库
           logo: vpsdb.webp
           url: https://vpsdb.top/
-        - title: Outage.report
-          logo: outage.report.webp
-          url: https://outage.report
+        - title: Downdetector
+          logo: downdetector.webp
+          url: https://downdetector.com/
           description: 查看全球服务宕机事件
     - term: 站长博客
       icon: fas fa-blog
