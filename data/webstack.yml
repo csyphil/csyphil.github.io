@@ -153,10 +153,6 @@
       logo: 混元.webp
       url: https://hunyuan.tencent.com/
       description: 由腾讯研发的大语言模型
-    - title: Gnomic智能体平台
-      logo: gnomic.webp
-      url: https://www.gnomic.cn/
-      description: 让AI力量成为每个人的天赋
     - title: 天工AI
       logo: tiangong.webp
       url: https://www.tiangong.cn/
@@ -165,10 +161,26 @@
       logo: bdchat.webp
       url: https://chat.baidu.com/
       description: 百度推出的AI聊天对话机器人
+    - title: 通义法睿
+      logo: tongyi.webp
+      url: https://tongyi.aliyun.com/farui/chat
+      description: 让法律事务更快、更准、更智能
+    - title: 秘塔写作猫
+      logo: 秘塔猫.webp
+      url: https://xiezuocat.com/
+      description: AI写作，文章自成
     - title: 讯飞星火
       logo: xfxh.webp
       url: https://xinghuo.xfyun.cn/
       description: 讯飞星火认知大模型-AI大语言模型——星火大模型——科大讯飞
+    - title: 百川大模型
+      logo: 百川.webp
+      url: https://www.baichuan-ai.com/home
+      description: 汇聚世界知识 创作妙笔生花
+    - title: Gnomic智能体平台
+      logo: gnomic.webp
+      url: https://www.gnomic.cn/
+      description: 让AI力量成为每个人的天赋
     - title: Gemini Pro Chat
       logo: gemini.webp
       url: https://gemini-pro.chat/
@@ -181,10 +193,6 @@
       logo: Meta Ai.webp
       url: https://www.meta.ai/
       description: Meta开发的聊天对话机器人
-    - title: Chatmind
-      logo: chatmind.webp
-      url: https://chatmind.tech/cn
-      description: AI原生的在线思维导图工具，来自Xmind
     - title: Ai工具箱导航
       logo: amz123.webp
       url: https://www.amz123.com/ai
@@ -469,10 +477,6 @@
           logo: outlook.live.com.webp
           url: https://www.outlook.com/
           description: 来自Microsoft的个人免费邮件和日历
-        - title: iCloud邮箱
-          logo: iCloudMail.webp
-          url: https://www.icloud.com/mail
-          description: 由 Apple 提供的私密、安全且个性化的电子邮件服务
         - title: 网易163邮箱
           logo: 163.webp
           url: https://mail.163.com/
@@ -493,6 +497,22 @@
           logo: protonmail.webp
           url: https://protonmail.com/zh-Hans/
           description: Secure email that protects your privacy
+        - title: iCloud邮箱
+          logo: iCloudMail.webp
+          url: https://www.icloud.com/mail
+          description: 由 Apple 提供的私密、安全且个性化的电子邮件服务
+        - title: 移动139邮箱
+          logo: 139邮箱.webp
+          url: https://mail.10086.cn/
+          description: 手机号就是邮箱号
+        - title: 电信189邮箱
+          logo: 189邮箱.webp
+          url: https://webmail30.189.cn/
+          description: 爱简单 
+        - title: 联通沃邮箱
+          logo: 沃邮箱.webp
+          url: https://mail.wo.cn/
+          description: 让沟通更简单
         - title: 10MinsMail
           logo: mail.webp
           url: https://10minutemail.com/
@@ -505,6 +525,48 @@
           logo: mail.td.webp
           url: https://mail.td/zh
           description: 一次性临时邮件电子服务
+    - term: 云盘
+      links:
+        - title: 百度云盘
+          logo: 百度云盘.webp
+          url: https://pan.baidu.com/
+          description: 记录每一份热爱，让美好永远陪伴
+        - title: 阿里云盘
+          logo: 阿里云盘.webp
+          url: https://www.aliyundrive.com/
+          description: 阿里云盘，你的数字世界
+        - title: 夸克云盘
+          logo: 夸克网盘.webp
+          url: https://pan.quark.cn/
+          description: 电脑高效拍档 一键存爽快看
+        - title: 坚果云
+          logo: 坚果云.webp
+          url: https://www.jianguoyun.com/
+          description: 坚果云官网
+        - title: 123云盘
+          logo: www.123pan.com.webp
+          url: https://www.123pan.com/
+          description: 免登录，不限速
+        - title: 天翼云盘
+          logo: 天翼云盘.webp
+          url: https://cloud.189.cn/
+          description: 家庭云|网盘|文件备份|资源分享
+        - title: 中国移动云盘
+          logo: 移动云盘.webp
+          url: https://yun.139.com/
+          description: 不限速免流量的云盘
+        - title: 联通云盘
+          logo: 联通云盘.webp
+          url: https://pan.wo.cn/
+          description: 开启美好时光|不限速
+        - title: 115网盘
+          logo: 115网盘.webp
+          url: https://115.com/
+          description: 115生活，一生相伴
+        - title: 腾讯微云
+          logo: 微云.webp
+          url: https://www.weiyun.com/
+          description: 智能云盘
     - term: office资源
       links:
         - title: OfficePLUS
@@ -808,48 +870,6 @@
 - taxonomy: 工具资源
   icon: fas fa-tools
   list: 
-    - term: 云盘资源
-      links:
-        - title: 百度云盘
-          logo: 百度云盘.webp
-          url: https://pan.baidu.com/
-          description: 记录每一份热爱，让美好永远陪伴
-        - title: 阿里云盘
-          logo: 阿里云盘.webp
-          url: https://www.aliyundrive.com/
-          description: 阿里云盘，你的数字世界
-        - title: 夸克云盘
-          logo: 夸克网盘.webp
-          url: https://pan.quark.cn/
-          description: 电脑高效拍档 一键存爽快看
-        - title: 坚果云
-          logo: 坚果云.webp
-          url: https://www.jianguoyun.com/
-          description: 坚果云官网
-        - title: 123云盘
-          logo: www.123pan.com.webp
-          url: https://www.123pan.com/
-          description: 免登录，不限速
-        - title: 天翼云盘
-          logo: 天翼云盘.webp
-          url: https://cloud.189.cn/
-          description: 家庭云|网盘|文件备份|资源分享
-        - title: 中国移动云盘
-          logo: 移动云盘.webp
-          url: https://yun.139.com/
-          description: 不限速免流量的云盘
-        - title: 联通云盘
-          logo: 联通云盘.webp
-          url: https://pan.wo.cn/
-          description: 开启美好时光|不限速
-        - title: 115网盘
-          logo: 115网盘.webp
-          url: https://115.com/
-          description: 115生活，一生相伴
-        - title: 腾讯微云
-          logo: 微云.webp
-          url: https://www.weiyun.com/
-          description: 智能云盘
     - term: 软件资源
       links:
       - title: 果核剥壳
