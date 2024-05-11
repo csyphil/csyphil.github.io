@@ -26,22 +26,19 @@
 
                         <ul class="navbar-nav site-menu" style="margin-right: 16px;">
                         {{ range .Site.Data.headers }}
-                            <li {{ if .list }}class="menu-item-has-children"{{ end }}>
-                                <a href="{{ .link }}">
+			<li {{ if .list }}class="menu-item-has-children"{{ end }}>
+				<a href="{{ .link }}">
                                     <i class="{{ .icon }} fa-lg mr-2"></i>
                                     <span>{{ .item }}</span>
                                 </a>
-                                <ul class="sub-menu">
-                                    {{ range .list }}
-                                        <li><a href="{{ .url }}">{{ .name }}</a></li>
-                                    {{ end }}
-                                </ul>
-                            </li>
-                        {{ end }}
-                        </ul>
-
-                    </div>
-
+				<ul class="sub-menu">
+				{{ range .list }}
+				    <li><a href="{{ .url }}">{{ .name }}</a></li>
+				{{ end }}
+				</ul>
+			    </li>
+			{{ end }}
+			</ul>
                     <ul class="nav navbar-menu text-xs order-1 order-md-2">
                         <!-- 一言 -->
                         {{ with .Site.Params.yiyan }}
@@ -74,4 +71,3 @@
         </div>
         <div class="placeholder" style="height:74px"></div>
     </div>
-</div>
