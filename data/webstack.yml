@@ -539,14 +539,14 @@
           logo: 夸克网盘.webp
           url: https://pan.quark.cn/
           description: 电脑高效拍档 一键存爽快看
-        - title: 坚果云
-          logo: 坚果云.webp
-          url: https://www.jianguoyun.com/
-          description: 坚果云官网
         - title: 123云盘
           logo: www.123pan.com.webp
           url: https://www.123pan.com/
           description: 免登录，不限速
+        - title: 迅雷云盘
+          logo: 迅雷云盘.webp
+          url: https://pan.xunlei.com/
+          description: 专享私密云盘
         - title: 天翼云盘
           logo: 天翼云盘.webp
           url: https://cloud.189.cn/
@@ -559,10 +559,22 @@
           logo: 联通云盘.webp
           url: https://pan.wo.cn/
           description: 开启美好时光|不限速
+        - title: 坚果云
+          logo: 坚果云.webp
+          url: https://www.jianguoyun.com/
+          description: 坚果云官网
         - title: 115网盘
           logo: 115网盘.webp
           url: https://115.com/
           description: 115生活，一生相伴
+        - title: OneDrive
+          logo: OneDrive.webp
+          url: https://onedrive.live.com/
+          description: 通过 OneDrive 安全地保存和共享重要内容
+        - title: 蓝奏云·优享版
+          logo: 蓝奏云.webp
+          url: https://www.ilanzou.com/
+          description: 十年磨一剑 蓝奏团队倾力打造
         - title: 腾讯微云
           logo: 微云.webp
           url: https://www.weiyun.com/
