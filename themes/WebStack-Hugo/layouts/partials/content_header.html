@@ -26,49 +26,19 @@
 
                         <ul class="navbar-nav site-menu" style="margin-right: 16px;">
                         {{ range .Site.Data.headers }}
-			<li {{ if .list }}class="menu-item-has-children"{{ end }}>
-				<a href="{{ .link }}">
+                            <li {{ if .list }}class="menu-item-has-children"{{ end }}>
+                                <a href="{{ .link }}">
                                     <i class="{{ .icon }} fa-lg mr-2"></i>
                                     <span>{{ .item }}</span>
                                 </a>
-				<ul class="sub-menu">
-				{{ range .list }}
-				    <li><a href="{{ .url }}">{{ .name }}</a></li>
-				{{ end }}
-				</ul>
-			    </li>
-			{{ end }}
-			</ul>
-
-                        {{ if not (eq $.Site.Params.qweather.key "") }}
-                        <div class="rounded-circle weather">
-                            <div id="he-plugin-simple" style="display: contents;"></div>
-                            <script>WIDGET = {
-                                    CONFIG: {
-                                        "modules": "01234",
-                                        "background": 5,
-                                        "tmpColor": "E4C600",
-                                        "tmpSize": 14,
-                                        "cityColor": "E4C600",
-                                        "citySize": 14,
-                                        "aqiColor": "#E4C600",
-                                        "aqiSize": 14,
-                                        "weatherIconSize": 24,
-                                        "alertIconSize": 18,
-                                        "padding": "10px 10px 10px 10px",
-                                        "shadow": "1",
-                                        "language": "auto",
-                                        "borderRadius": 5,
-                                        "fixed": "false",
-                                        "vertical": "middle",
-                                        "horizontal": "left",
-                                        "key": "{{ $.Site.Params.qweather.key }}"
-                                    }
-                                }
-                            </script>
-                            <script src="https://widget.qweather.net/simple/static/js/he-simple-common.js?v=2.0"></script>
-                        </div>
+                                <ul class="sub-menu">
+				        {{ range .list }}
+				        <li><a href="{{ .url }}">{{ .name }}</a></li>
+				        {{ end }}
+                                 </ul>
+                            </li>
                         {{ end }}
+                        </ul>
                     </div>
 
                     <ul class="nav navbar-menu text-xs order-1 order-md-2">
