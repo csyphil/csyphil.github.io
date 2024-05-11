@@ -69,7 +69,7 @@
       description: 有计划学得更快！
     - title: IP111.cn
       logo: linshi.webp
-      url: http://ip111.cn/
+      url: https://ip111.cn/
       description: 全方位查询你的IP
     - title: OP.GG
       logo: op.gg.webp
@@ -942,7 +942,7 @@
       url: https://www.gdzwfw.gov.cn/
     - title: 深圳市人力资源和社会保障局
       logo: szldj.webp
-      url: http://hrss.sz.gov.cn/
+      url: https://hrss.sz.gov.cn/
     - title: 深圳市公安局
       logo: police.webp
       url: http://ga.sz.gov.cn/ 
