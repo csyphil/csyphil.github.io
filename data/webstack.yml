@@ -513,6 +513,14 @@
           logo: 沃邮箱.webp
           url: https://mail.wo.cn/
           description: 让沟通更简单
+        - title: TutaMail
+          logo: tutamail.webp
+          url: https://app.tuta.com/mail/
+          description: 最佳电子邮件服务：端到端加密且无广告
+        - title: ZohoMail
+          logo: zohomail.webp
+          url: https://mail.zoho.com/zm/
+          description: 纯净安全的企业邮箱
         - title: 10MinsMail
           logo: mail.webp
           url: https://10minutemail.com/
