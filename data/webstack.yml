@@ -98,10 +98,6 @@
       logo: github.webp
       url: https://github.com/hehonghui/awesome-english-ebooks
       description: 经济学人(含音频)、纽约客、卫报、连线、大西洋月刊等英语杂志免费下载
-    - title: 123英语导航
-      logo: en123.webp
-      url: https://www.en123.net/
-      description: 汇聚国内外优秀的英语学习网站
 - taxonomy: 人工智能
   icon: fas fa-robot
   links: 
@@ -740,6 +736,10 @@
           logo: www.namesilo.com.webp
           url: https://www.namesilo.com/
           description: Find cheap domain names for your website
+        - title: Dynadot
+          logo: dynadot.webp
+          url: https://www.dynadot.com/zh/
+          description: A super-powered domain marketplace
         - title: Freenom
           logo: freenom.com.webp
           url: https://my.freenom.com/clientarea.php?action=domains
@@ -752,10 +752,6 @@
           logo: www.itdog.cn.webp
           url: https://www.itdog.cn/
           description: 在线ping、tcping、网站测速、http测速、api测速、路由追踪
-        - title: Censys Search
-          logo: search.censys.io.webp
-          url: https://search.censys.io/
-          description: 全网IP端口扫描报告
         - title: Chinaz工具
           logo: chinaz.com.webp
           url: https://ping.chinaz.com/
@@ -767,6 +763,10 @@
         - title: IP墙检测
           logo: toolsdaquan.com.webp
           url: https://www.toolsdaquan.com/ipcheck/
+        - title: Censys Search
+          logo: search.censys.io.webp
+          url: https://search.censys.io/
+          description: 全网IP端口扫描报告
         - title: Greasy Fork
           logo: greasyfork.org.webp
           url: https://greasyfork.org/zh-CN
@@ -800,6 +800,10 @@
           logo: downdetector.webp
           url: https://downdetector.com/
           description: 查看全球服务宕机事件
+        - title: Who.cx
+          logo: linshi.webp
+          url: https://who.cx/
+          description: Whois查询
     - term: 站长博客
       icon: fas fa-blog
       links:
