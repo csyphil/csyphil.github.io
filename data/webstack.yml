@@ -489,10 +489,10 @@
           logo: sohumail.webp
           url: https://mail.sohu.com/
           description: 搜狐闪电邮箱
-        - title: ProtonMail
-          logo: protonmail.webp
-          url: https://protonmail.com/zh-Hans/
-          description: Secure email that protects your privacy
+        - title: Yahoo邮箱
+          logo: yahoo.webp
+          url: https://mail.yahoo.com/
+          description: 体验一流的 Yahoo 邮箱
         - title: iCloud邮箱
           logo: iCloudMail.webp
           url: https://www.icloud.com/mail
@@ -509,6 +509,10 @@
           logo: 沃邮箱.webp
           url: https://mail.wo.cn/
           description: 让沟通更简单
+        - title: ProtonMail
+          logo: protonmail.webp
+          url: https://protonmail.com/zh-Hans/
+          description: Secure email that protects your privacy
         - title: TutaMail
           logo: tutamail.webp
           url: https://app.tuta.com/mail/
