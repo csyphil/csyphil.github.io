@@ -31,6 +31,10 @@
       logo: 知乎.webp
       url: https://www.zhihu.com/
       description: 有问题，就会有答案
+    - title: Fastmail
+      logo: fastmail.webp
+      url: https://app.fastmail.com/
+      description: Fast, private email that’s just for you
     - title: QQ 邮箱
       logo: qq邮箱.webp
       url: https://mail.qq.com/
@@ -47,10 +51,6 @@
       logo: eswx.webp
       url: https://www.right.com.cn/forum/
       description: 我的恩山，我的无线
-    - title: ACWIFI
-      logo: acwifi.webp
-      url: https://www.acwifi.net/
-      description: 路由器技术分享交流
     - title: V2EX
       logo: v2ex.webp
       url: https://www.v2ex.com/
@@ -63,10 +63,10 @@
       logo: flyert.webp
       url: https://www.flyert.com/
       description: 享此刻·享未来
-    - title: 网易公开课
-      logo: open.163.com.webp
-      url: https://open.163.com/
-      description: 有计划学得更快！
+    - title: ACWIFI
+      logo: acwifi.webp
+      url: https://www.acwifi.net/
+      description: 路由器技术分享交流
     - title: IP111.cn
       logo: linshi.webp
       url: https://ip111.cn/
@@ -83,6 +83,10 @@
       logo: bxm.webp
       url: https://tool.browser.qq.com/
       description: 腾讯在线工具箱平台
+    - title: 网易公开课
+      logo: open.163.com.webp
+      url: https://open.163.com/
+      description: 有计划学得更快！
     - title: Chrome应用商店
       logo: chrome.webp
       url: https://chromewebstore.google.com/
