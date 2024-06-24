@@ -110,5 +110,5 @@ footer.main-footer .footer-text a:hover {
 }
 /* 搜索框背景颜色 */
 #search-bg {
-    background-color: #000; /* 设置搜索框背景颜色为黑色 */
+    background-color: #1b1d1f; /* 设置搜索框背景颜色与主体一致 */
 }
