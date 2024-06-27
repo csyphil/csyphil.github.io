@@ -11,10 +11,10 @@
       logo: youtube.webp
       url: https://www.youtube.com/
       description: Broadcast Yourself
-    - title: Twitter
-      logo: twitter.webp
-      url: https://twitter.com/
-      description: What's happening?
+    - title: X
+      logo: X.webp
+      url: https://x.com/
+      description: It's what's happening?
     - title: Gmail
       logo: gmail.webp
       url: https://mail.google.com/ 
