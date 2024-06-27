@@ -14,11 +14,11 @@
     - title: X
       logo: X.webp
       url: https://x.com/
-      description: It's what's happening?
+      description: It's what's happening
     - title: Gmail
       logo: gmail.webp
       url: https://mail.google.com/ 
-      description: ​Gmail is a free, advertising-supported emailservice provided by Google.
+      description: ​Gmail is a free, advertising-supported emailservice provided by Google
     - title: Notion
       logo: notion.webp
       url: https://www.notion.so/
@@ -74,7 +74,7 @@
     - title: OP.GG
       logo: op.gg.webp
       url: https://www.op.gg/
-      description: The Best LoL Builds and Tier List.
+      description: The Best LoL Builds and Tier List
     - title: SOCPK-极客湾
       logo: geekwan.webp
       url: https://www.socpk.com/
@@ -645,7 +645,7 @@
     - title: Tinypng
       logo: tinypng.webp
       url: https://tinypng.com
-      description: Optimize your images with a perfect balance in quality and file size.
+      description: Optimize your images with a perfect balance in quality and file size
     - title: Squoosh-图片处理
       logo: squoosh.app.webp
       url: https://squoosh.app/
@@ -693,7 +693,7 @@
     - title: ezgif
       url: https://ezgif.com
       logo: ezgif.webp
-      description: simple online GIF maker and toolset for basic animated GIF editing.
+      description: Simple online GIF maker and toolset for basic animated GIF editing
     - title: Office-Converter
       logo: office-converter.com.webp
       url: https://cn.office-converter.com/
@@ -934,7 +934,7 @@
         - title: Font Awesome Icon
           logo: font-awesome.webp
           url: https://fontawesome.com/icons/
-          description: The complete set of 675 icons in Font Awesome.
+          description: The complete set of 675 icons in Font Awesome
     - term: 在线工具
       links: 
         - title: Telegra.ph
