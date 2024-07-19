@@ -349,11 +349,11 @@
       description: 知识就是力量，知识就在得到
     - title: 欧乐影院
       logo: ole.webp
-      url: https://olevod4.com/
+      url: https://www.olelive.com/
       description: 面向海外华人的在线视频媒体平台
     - title: 泥视频
       logo: nivod.webp
-      url: https://www.nivod8.tv/
+      url: https://www.nivod.cc/
       description: 海外华人在线影院
     - title: 茶杯狐
       logo: cupfox.webp
@@ -361,7 +361,7 @@
       description: 努力让找电影变得简单
     - title: 爱达杂货铺
       logo: adzhp.webp
-      url: https://adzhp.xyz/
+      url: https://adzhp.site/
       description: 收集那些有用的东西
 - taxonomy: 出行订票
   icon: fas fa-plane-departure
@@ -394,7 +394,7 @@
       url: https://cn.nytimes.com/
     - title: BBC中文网
       logo: BBC.webp
-      url: https://www.bbc.com/zhongwen/
+      url: https://www.bbc.com/zhongwen/simp
     - title: 法广中文网
       logo: RFI.webp
       url: https://www.rfi.fr/cn/
@@ -515,7 +515,7 @@
           description: 纯净安全的企业邮箱
         - title: 电信189邮箱
           logo: 189邮箱.webp
-          url: https://webmail30.189.cn/
+          url: https://mail.189.cn/
           description: 爱简单 
         - title: 移动139邮箱
           logo: 139邮箱.webp
@@ -545,7 +545,7 @@
           description: 记录每一份热爱，让美好永远陪伴
         - title: 阿里云盘
           logo: 阿里云盘.webp
-          url: https://www.aliyundrive.com/
+          url: https://www.alipan.com/
           description: 阿里云盘，你的数字世界
         - title: 夸克云盘
           logo: 夸克网盘.webp
@@ -624,7 +624,7 @@
         - title: 优设导航
           logo: hao.uisdc.com.webp
           url: https://hao.uisdc.com/
-          description: 设计师网址导航
+          description: 百万设计师都在用的优设导航
         - title: 1PPT
           logo: 1ppt.com.webp
           url: https://www.1ppt.com/
@@ -962,7 +962,7 @@
       url: https://hrss.sz.gov.cn/
     - title: 深圳市公安局
       logo: police.webp
-      url: http://ga.sz.gov.cn/ 
+      url: https://ga.sz.gov.cn/ 
     - title: 邮政局申诉网
       logo: cnpst.webp
       url: https://sswz.spb.gov.cn/
@@ -1015,7 +1015,7 @@
       description: 工于至诚，行以致远
     - title: 建设银行
       logo: 建设.webp
-      url: http://www.ccb.com/
+      url: https://www.ccb.com/
       description: 善建者行，善者建行
     - title: 农业银行
       logo: 农业.webp
