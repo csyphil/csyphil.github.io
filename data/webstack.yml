@@ -71,10 +71,6 @@
       logo: linshi.webp
       url: https://ip111.cn/
       description: 全方位查询你的IP
-    - title: OP.GG
-      logo: op.gg.webp
-      url: https://www.op.gg/
-      description: The Best LoL Builds and Tier List
     - title: SOCPK-极客湾
       logo: geekwan.webp
       url: https://www.socpk.com/
@@ -149,14 +145,14 @@
       logo: 火山写作.webp
       url: https://www.writingo.net/
       description: 字节跳动旗下推出的免费AI写作助手
-    - title: 腾讯混元大模型
-      logo: 混元.webp
-      url: https://hunyuan.tencent.com/
-      description: 由腾讯研发的大语言模型
-    - title: 天工AI
-      logo: tiangong.webp
-      url: https://www.tiangong.cn/
-      description: 昆仑万维和奇点智源合作自研的一款国产双千亿级大语言模型
+    - title: 腾讯元宝
+      logo: 腾讯元宝.webp
+      url: https://yuanbao.tencent.com/
+      description: 轻松工作，多点生活
+    - title: 讯飞星火
+      logo: xfxh.webp
+      url: https://xinghuo.xfyun.cn/
+      description: 讯飞星火认知大模型-AI大语言模型——星火大模型——科大讯飞
     - title: 百度Chat
       logo: bdchat.webp
       url: https://chat.baidu.com/
@@ -169,18 +165,14 @@
       logo: 秘塔猫.webp
       url: https://xiezuocat.com/
       description: AI写作，文章自成
-    - title: 讯飞星火
-      logo: xfxh.webp
-      url: https://xinghuo.xfyun.cn/
-      description: 讯飞星火认知大模型-AI大语言模型——星火大模型——科大讯飞
-    - title: 百川大模型
-      logo: 百川.webp
-      url: https://www.baichuan-ai.com/home
+    - title: 百小应
+      logo: 百小应.webp
+      url: https://ying.baichuan-ai.com/
       description: 汇聚世界知识 创作妙笔生花
-    - title: Gnomic智能体平台
-      logo: gnomic.webp
-      url: https://www.gnomic.cn/
-      description: 让AI力量成为每个人的天赋
+    - title: 天工AI
+      logo: tiangong.webp
+      url: https://www.tiangong.cn/
+      description: 昆仑万维和奇点智源合作自研的一款国产双千亿级大语言模型
     - title: Gemini Pro Chat
       logo: gemini.webp
       url: https://gemini-pro.chat/
