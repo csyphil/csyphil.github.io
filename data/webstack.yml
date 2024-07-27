@@ -295,6 +295,10 @@
       logo: youku.webp
       url: https://www.youku.com/
       description: 你的热爱，正在热播
+    - title: 中央电视台
+      logo: CCTV.webp
+      url: https://tv.cctv.com/live/
+      description: CCTV节目官网是中央电视台电视节目官方呈现平台
     - title: 西瓜视频
       logo: ixigua.webp
       url: https://www.ixigua.com/
@@ -315,10 +319,6 @@
       logo: netflix.webp
       url: https://www.netflix.com/
       description: At Netflix, we want to entertain the world
-    - title: Youtube Music
-      logo: ytm.webp
-      url: https://music.youtube.com/
-      description: It's all here.
     - title: QQ 音乐
       logo: qqmusic.webp
       url: https://y.qq.com/
@@ -335,6 +335,10 @@
       logo: xmly.webp
       url: https://www.ximalaya.com/
       description: 有声小说，听书，听小说，听故事，听广播
+    - title: Youtube Music
+      logo: ytm.webp
+      url: https://music.youtube.com/
+      description: It's all here.
     - title: 得到
       logo: dedao.webp
       url: https://www.dedao.cn/
@@ -943,6 +947,25 @@
           logo: yhjf.webp
           url: https://sesme.co/
           description: 可输入文字图片emoji
+- taxonomy: 网上营业厅
+  icon: fas fa-sim-card
+  links:
+    - title: 中国移动
+      logo: 中国移动.webp
+      url: https://www.10086.cn/
+      description: 移动改变生活
+    - title: 中国电信
+      logo: 中国电信.webp
+      url: https://www.189.cn/
+      description: 世界触手可及
+    - title: 中国联通
+      logo: 中国联通.webp
+      url: https://www.10010.com/
+      description: 创新·改变世界
+    - title: 中国广电
+      logo: 中国广电.webp
+      url: https://www.10099.com.cn/
+      description: 更广更精彩
 - taxonomy: 政府部门         
   icon: fas fa-user-tie
   links:
