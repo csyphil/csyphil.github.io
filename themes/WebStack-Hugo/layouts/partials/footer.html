@@ -17,69 +17,72 @@ var theme = {"ajaxurl":"","addico":"https:\/\/nav.baidu.cn\/wp-content\/themes\/
 <script type='text/javascript' src='{{ absURL "assets/js/app-mini.js" }}' id='appmini-js'></script>
 {{ end }}
 <script>
-   $(document).ready(function() {
-    var $body = $('body');
-    var $modeToggle = $('#mode-toggle');
-    var $modeIcon = $modeToggle.find('.mode-ico');
-
-    // 初始化
-    autoSwitchMode();
-    hideWelcomeMessage();
-    updateMode();
-
-    // 点击按钮切换模式
-    $modeToggle.on('click', function() {
-        toggleMode();
-    });
-
-    // 点击平滑滚动
-    $(document).on('click', 'a.smooth', function(ev) {
-        ev.preventDefault();
-        smoothScroll($(this).attr('href'));
-    });
-
-    // 无ajax标签页点击处理
-    $(document).on('click', 'a.tab-noajax', function(ev) {
-        var url = $(this).data('link');
-        var tabMove = $(this).closest('.d-flex.flex-fill.flex-tab').find('.btn-move.tab-move');
-        tabMove.toggle(!!url).attr('href', url);
-    });
-
-    // 更新模式相关的样式和元素
-    function updateMode() {
-        var isNightMode = $body.hasClass('io-black-mode');
-        $modeIcon.removeClass('icon-night icon-light').addClass(isNightMode ? 'icon-night' : 'icon-light');
-    }
-
-    // 切换模式（夜间模式和白天模式）
-    function toggleMode() {
-        $body.toggleClass('io-black-mode io-grey-mode');
+    $(document).ready(() => {
+        const $body = $('body');
+        const $modeToggle = $('#mode-toggle');
+        const $modeIcon = $modeToggle.find('.mode-ico');
+    
+        // 初始化
+        autoSwitchMode();
+        hideWelcomeMessage();
         updateMode();
-    }
-
-    // 自动切换模式函数
-    function autoSwitchMode() {
-        var currentHour = new Date().getHours();
-        var isNightMode = currentHour >= 18 || currentHour < 6;
-        $body.toggleClass('io-black-mode', isNightMode).toggleClass('io-grey-mode', !isNightMode);
-        updateMode();
-    }
-
-    // 平滑滚动函数
-    function smoothScroll(target) {
-        var offset = $(target).offset().top - 90;
-        $('html, body').animate({
-            scrollTop: offset
-        }, 500, 'swing');
-    }
-
-    // 隐藏欢迎消息
-    function hideWelcomeMessage() {
-        var $siteWelcome = $('#loading').addClass('close');
-        setTimeout(function() {
-            $siteWelcome.remove();
-        }, 600);
-    }
-});
-</script> 
+    
+        // 点击按钮切换模式
+        $modeToggle.on('click', () => {
+            toggleMode();
+        });
+    
+        // 点击平滑滚动
+        $(document).on('click', 'a.smooth', (ev) => {
+            ev.preventDefault();
+            smoothScroll($(ev.currentTarget).attr('href'));
+        });
+    
+        // 无ajax标签页点击处理
+        $(document).on('click', 'a.tab-noajax', (ev) => {
+            const url = $(ev.currentTarget).data('link');
+            const $tabMove = $(ev.currentTarget).closest('.d-flex.flex-fill.flex-tab').find('.btn-move.tab-move');
+            $tabMove.toggle(!!url).attr('href', url);
+        });
+    
+        // 更新模式相关的样式和元素
+        function updateMode() {
+            const isNightMode = $body.hasClass('io-black-mode');
+            $modeIcon.removeClass('icon-night icon-light').addClass(isNightMode ? 'icon-night' : 'icon-light');
+        }
+    
+        // 切换模式（夜间模式和白天模式）
+        function toggleMode() {
+            const isNightMode = !$body.hasClass('io-black-mode');
+            $body.toggleClass('io-black-mode', isNightMode).toggleClass('io-grey-mode', !isNightMode);
+            updateMode();
+        }
+    
+        // 自动切换模式函数
+        function autoSwitchMode() {
+            const currentHour = new Date().getHours();
+            const isNightMode = currentHour >= 18 || currentHour < 6;
+            $body.toggleClass('io-black-mode', isNightMode).toggleClass('io-grey-mode', !isNightMode);
+            updateMode();
+        }
+    
+        // 平滑滚动函数
+        function smoothScroll(target) {
+            const offset = $(target).offset().top - 90;
+            $('html, body').animate({
+                scrollTop: offset
+            }, 500, 'swing');
+        }
+    
+        // 隐藏欢迎消息
+        function hideWelcomeMessage() {
+            $('#loading').addClass('close');
+            requestAnimationFrame(() => {
+                setTimeout(() => {
+                    $('#loading').remove();
+                }, 600);
+            });
+        }
+    });
+</script>    
 </html>
