@@ -181,10 +181,6 @@
       logo: gemini.webp
       url: https://gemini.google.com/
       description: Google推出的聊天对话机器人
-    - title: Meta Ai
-      logo: Meta Ai.webp
-      url: https://www.meta.ai/
-      description: Meta开发的聊天对话机器人
     - title: Ai工具箱导航
       logo: amz123.webp
       url: https://www.amz123.com/ai
@@ -276,7 +272,7 @@
       logo: reddit.webp
       url: https://www.reddit.com/
       description: Dive into anything
-- taxonomy: 影音娱乐
+- taxonomy: 影音视听
   icon: fas fa-photo-video
   links:
     - title: 爱奇艺
@@ -295,14 +291,14 @@
       logo: youku.webp
       url: https://www.youku.com/
       description: 你的热爱，正在热播
-    - title: 中央电视台
-      logo: CCTV.webp
-      url: https://tv.cctv.com/live/
-      description: CCTV节目官网是中央电视台电视节目官方呈现平台
     - title: 西瓜视频
       logo: ixigua.webp
       url: https://www.ixigua.com/
       description: 点亮对生活的好奇心
+    - title: 中央电视台
+      logo: CCTV.webp
+      url: https://tv.cctv.com/live/
+      description: CCTV节目官网是中央电视台电视节目官方呈现平台
     - title: 搜狐视频
       logo: souhutv.webp
       url: https://tv.sohu.com/
@@ -339,10 +335,6 @@
       logo: ytm.webp
       url: https://music.youtube.com/
       description: It's all here.
-    - title: 得到
-      logo: dedao.webp
-      url: https://www.dedao.cn/
-      description: 知识就是力量，知识就在得到
     - title: 欧乐影院
       logo: ole.webp
       url: https://www.olelive.com/
@@ -421,6 +413,10 @@
           logo: wemeet.webp
           url: https://meeting.tencent.com/
           description: 腾讯会议，会开会
+        - title: 脉脉
+          logo: maimai.webp
+          url: https://maimai.cn/
+          description: 成就职业梦想
         - title: BOSS直聘
           logo: boss.webp
           url: https://www.zhipin.com/shenzhen/
@@ -441,10 +437,6 @@
           logo: lagou.webp
           url: https://www.lagou.com/shenzhen/
           description: 上拉勾招聘，专业的互联网招聘网站
-        - title: 脉脉
-          logo: maimai.webp
-          url: https://maimai.cn/
-          description: 成就职业梦想
     - term: 文档笔记
       links:
         - title: 腾讯文档
@@ -825,9 +817,6 @@
         - title: 笨猫博客
           logo: www.nbmao.com.webp
           url: https://www.nbmao.com/
-        - title: 仙人小站
-          logo: www.wrnxr.cn.webp
-          url: https://www.wrnxr.cn/
 - taxonomy: 学习进步
   icon: fas fa-university
   list:
@@ -1025,65 +1014,73 @@
       url: https://www.paypal.com/c2/home
       description: 安全海淘国际支付平台
     - title: 工商银行
-      logo: 工商.webp
+      logo: 工商银行.webp
       url: https://www.icbc.com.cn/icbc/
       description: 工于至诚，行以致远
     - title: 建设银行
-      logo: 建设.webp
+      logo: 建设银行.webp
       url: https://www.ccb.com/
       description: 善建者行，善者建行
     - title: 农业银行
-      logo: 农业.webp
+      logo: 农业银行.webp
       url: https://www.abchina.com/
       description: 智通道合，偕行以远
     - title: 中国银行
-      logo: 中国.webp
+      logo: 中国银行.webp
       url: https://www.boc.cn/
       description: 止，而后能观
     - title: 交通银行
-      logo: 交通.webp
+      logo: 交通银行.webp
       url: https://www.bankcomm.com/
       description: 人生如棋，由我左右
     - title: 招商银行
-      logo: 招商.webp
+      logo: 招商银行.webp
       url: https://www.cmbchina.com/
       description: 因您而变，成就无限
-    - title: 邮政银行
-      logo: 邮政.webp
+    - title: 邮储银行
+      logo: 邮储银行.webp
       url: https://www.psbc.com/
       description: 根植城乡，服务大众
     - title: 兴业银行
-      logo: 兴业.webp
+      logo: 兴业银行.webp
       url: https://www.cib.com.cn/
       description: 服务源自真诚
     - title: 浦发银行
-      logo: 浦发.webp
+      logo: 浦发银行.webp
       url: https://www.spdb.com.cn/
       description: 跃入新境，悦享未来
     - title: 中信银行
-      logo: 中信.webp
+      logo: 中信银行.webp
       url: https://www.citicbank.com/
       description: 人所未及，尽可及
     - title: 民生银行
-      logo: 民生.webp
+      logo: 民生银行.webp
       url: https://www.cmbc.com.cn/
       description: 信任常在
     - title: 光大银行
-      logo: 光大.webp
+      logo: 光大银行.webp
       url: https://www.cebbank.com/
       description: 心光明至大成
     - title: 平安银行
-      logo: 平安.webp
+      logo: 平安银行.webp
       url: https://bank.pingan.com/
       description: 典范价值，尽在平安
     - title: 华夏银行
-      logo: 华夏.webp
+      logo: 华夏银行.webp
       url: http://hxb.com.cn/
       description: 可持续，更美好
+    - title: 北京银行
+      logo: 北京银行.webp
+      url: http://www.bankofbeijing.com.cn/
+      description: 真诚，所以信赖
     - title: 广发银行
-      logo: 广发.webp
+      logo: 广发银行.webp
       url: https://www.cgbchina.com.cn/
       description: 享·无止境
+    - title: 上海银行
+      logo: 上海银行.webp
+      url: https://www.bosc.cn/zh/
+      description: 智慧金融，专业服务
     - title: 江苏银行
       logo: 江苏银行.webp
       url: https://www.jsbchina.cn/
@@ -1092,35 +1089,7 @@
       logo: 宁波银行.webp
       url: https://www.nbcb.com.cn/
       description: 专业创造价值
-    - title: 上海银行
-      logo: 上海.webp
-      url: https://www.bosc.cn/zh/
-      description: 智慧金融，专业服务
-    - title: American Express
-      logo: amex.webp
-      url: https://www.americanexpress.com.cn/
-      description: 有此相伴，成就人生
-    - title: Diners Club
-      logo: dinersclub.webp
-      url: https://www.dinersclub.com/
-      description: Cards, Benefits, Airport Lounges
-    - title: Discover
-      logo: discover.webp
-      url: https://www.discover.com/
-      description: Credit Cards, Banking & Loans
-    - title: JCB
-      logo: jcb.webp
-      url: https://www.jcbcard.cn/
-      description: 我们的理念是优质服务
-    - title: MasterCard
-      logo: mastercard.webp
-      url: https://www.mastercard.com.cn/zh-cn.html
-      description: 缔造无限可能
-    - title: Visa
-      logo: visa.webp
-      url: https://www.visa.cn/
-      description: 全球网络，成就你我
-    - title: 中国银联
-      logo: unionpay.webp
-      url: https://cn.unionpay.com/
-      description: 银联产品在手，精彩一路随行
+    - title: 浙商银行
+      logo: 浙商银行.webp
+      url: http://www.czbank.com/
+      description: 大有、灵动、焕能
