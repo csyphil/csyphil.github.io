@@ -461,26 +461,6 @@
           description: 用语雀，为每一个人提供优秀的文档和知识库工具
     - term: 邮箱
       links: 
-        - title: Outlook
-          logo: outlook.live.com.webp
-          url: https://www.outlook.com/
-          description: 来自Microsoft的个人免费邮件和日历
-        - title: Yahoo邮箱
-          logo: yahoo.webp
-          url: https://mail.yahoo.com/
-          description: 体验一流的 Yahoo 邮箱
-        - title: iCloud邮箱
-          logo: iCloudMail.webp
-          url: https://www.icloud.com/mail
-          description: 由 Apple 提供的私密、安全且个性化的电子邮件服务
-        - title: ProtonMail
-          logo: protonmail.webp
-          url: https://protonmail.com/zh-Hans/
-          description: Secure email that protects your privacy
-        - title: TutaMail
-          logo: tutamail.webp
-          url: https://app.tuta.com/mail/
-          description: 最佳电子邮件服务：端到端加密且无广告
         - title: 网易163邮箱
           logo: 163.webp
           url: https://mail.163.com/
@@ -501,6 +481,26 @@
           logo: zohomail.webp
           url: https://mail.zoho.com/zm/
           description: 纯净安全的企业邮箱
+        - title: Outlook
+          logo: outlook.live.com.webp
+          url: https://www.outlook.com/
+          description: 来自Microsoft的个人免费邮件和日历
+        - title: Yahoo邮箱
+          logo: yahoo.webp
+          url: https://mail.yahoo.com/
+          description: 体验一流的 Yahoo 邮箱
+        - title: iCloud邮箱
+          logo: iCloudMail.webp
+          url: https://www.icloud.com/mail
+          description: 由 Apple 提供的私密、安全且个性化的电子邮件服务
+        - title: ProtonMail
+          logo: protonmail.webp
+          url: https://protonmail.com/zh-Hans/
+          description: Secure email that protects your privacy
+        - title: TutaMail
+          logo: tutamail.webp
+          url: https://app.tuta.com/mail/
+          description: 最佳电子邮件服务：端到端加密且无广告
         - title: 电信189邮箱
           logo: 189邮箱.webp
           url: https://mail.189.cn/
@@ -579,7 +579,7 @@
           logo: 微云.webp
           url: https://www.weiyun.com/
           description: 智能云盘
-    - term: office资源
+    - term: 办公资源
       links:
         - title: OfficePLUS
           url: https://www.officeplus.cn/
@@ -817,7 +817,7 @@
         - title: 笨猫博客
           logo: www.nbmao.com.webp
           url: https://www.nbmao.com/
-- taxonomy: 学习进步
+- taxonomy: 学习博览
   icon: fas fa-university
   list:
     - term: 翻译写作
@@ -863,7 +863,7 @@
         logo: next.xuetangx.com.webp
         url: https://next.xuetangx.com/
         description: 精品课程在线学习平台
-    - term: 阅读博览
+    - term: 博览群书
       links:
         - title: 微信读书
           url: https://weread.qq.com/

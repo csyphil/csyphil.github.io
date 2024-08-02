@@ -34,4 +34,4 @@ publishDir            = "public"					# 站点静态文件保存目录
     unsafe = false
 
 [params.footer]
-    copyright = 'Powered by [Vercel](https://vercel.com/), [Cloudflare](https://pages.cloudflare.com/) and [Github](https://pages.github.com/)'
+    copyright = '&copy; 2022 - {year} Powered by [Vercel](https://vercel.com/), [Cloudflare](https://pages.cloudflare.com/) and [Github](https://pages.github.com/)'
