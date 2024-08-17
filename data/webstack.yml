@@ -71,6 +71,10 @@
       logo: linshi.webp
       url: https://ip111.cn/
       description: 全方位查询你的IP
+    - title: IT之家
+      logo: ithome.webp
+      url: https://www.ithome.com/
+      description: 爱科技，爱这里
     - title: SOCPK-极客湾
       logo: geekwan.webp
       url: https://www.socpk.com/
@@ -83,10 +87,6 @@
       logo: open.163.com.webp
       url: https://open.163.com/
       description: 有计划学得更快！
-    - title: Chrome应用商店
-      logo: chrome.webp
-      url: https://chromewebstore.google.com/
-      description: Chrome拓展应用商店
     - title: 驾考宝典
       logo: jkbd.webp
       url: https://shenzhen.jiakaobaodian.com/
@@ -98,6 +98,10 @@
       logo: github.webp
       url: https://github.com/hehonghui/awesome-english-ebooks
       description: 经济学人(含音频)、纽约客、卫报、连线、大西洋月刊等英语杂志免费下载
+    - title: Chrome应用商店
+      logo: chrome.webp
+      url: https://chromewebstore.google.com/
+      description: Chrome拓展应用商店
 - taxonomy: 人工智能
   icon: fas fa-robot
   links: 
@@ -169,18 +173,10 @@
       logo: 百小应.webp
       url: https://ying.baichuan-ai.com/
       description: 汇聚世界知识 创作妙笔生花
-    - title: 天工AI
-      logo: tiangong.webp
-      url: https://www.tiangong.cn/
-      description: 昆仑万维和奇点智源合作自研的一款国产双千亿级大语言模型
     - title: Gemini Pro Chat
       logo: gemini.webp
       url: https://gemini-pro.chat/
       description: 同时理解文字、图像、音频以及更多模态的信息，拥有更为高级的推理、规划、理解等能力
-    - title: Gemini
-      logo: gemini.webp
-      url: https://gemini.google.com/
-      description: Google推出的聊天对话机器人
     - title: Ai工具箱导航
       logo: amz123.webp
       url: https://www.amz123.com/ai
@@ -216,10 +212,6 @@
       logo: douyu.webp
       url: https://www.douyu.com/
       description: 每个人的直播平台
-    - title: IT之家
-      logo: ithome.webp
-      url: https://www.ithome.com/
-      description: 爱科技，爱这里
     - title: 大众点评
       logo: dianping.webp
       url: https://www.dianping.com/
@@ -240,6 +232,10 @@
       logo: tieba.webp
       url: https://tieba.baidu.com/
       description: 全球领先的中文社区
+    - title: NGA玩家社区
+      logo: nga.webp
+      url: https://bbs.nga.cn/
+      description: 精英玩家俱乐部
     - title: Google Voice
       logo: gvoice.webp
       url: https://voice.google.com/
@@ -485,10 +481,6 @@
           logo: 163.webp
           url: https://mail.163.com/
           description: 你的专业电子邮局
-        - title: 网易126邮箱
-          logo: 126.webp
-          url: https://www.126.com/
-          description: 你的专业电子邮局
         - title: 新浪邮箱
           logo: sinamail.webp
           url: https://mail.sina.com.cn/
@@ -501,6 +493,10 @@
           logo: alimail.webp
           url: https://mail.aliyun.com/
           description: 随时随地收发邮件，高效沟通，办公轻松
+        - title: ZohoMail
+          logo: zohomail.webp
+          url: https://mail.zoho.com/zm/
+          description: 纯净安全的企业邮箱
         - title: 电信189邮箱
           logo: 189邮箱.webp
           url: https://mail.189.cn/
@@ -513,10 +509,6 @@
           logo: 沃邮箱.webp
           url: https://mail.wo.cn/
           description: 让沟通更简单
-        - title: ZohoMail
-          logo: zohomail.webp
-          url: https://mail.zoho.com/zm/
-          description: 纯净安全的企业邮箱
         - title: 10MinsMail
           logo: mail.webp
           url: https://10minutemail.com/
@@ -529,6 +521,14 @@
           logo: mail.td.webp
           url: https://mail.td/zh
           description: 一次性临时邮件电子服务
+        - title: Vmail
+          logo: vmail.webp
+          url: https://vmail.dev/
+          description: Virtual Temporary Mail
+        - title: Temp Mail 100
+          logo: tempmail100.webp
+          url: https://tempmail100.com/zh-cn/
+          description: 安全且匿名的电子邮件服务
     - term: 云盘
       links:
         - title: 百度云盘
@@ -539,18 +539,18 @@
           logo: 阿里云盘.webp
           url: https://www.alipan.com/
           description: 阿里云盘，你的数字世界
-        - title: 夸克云盘
-          logo: 夸克网盘.webp
-          url: https://pan.quark.cn/
-          description: 电脑高效拍档 一键存爽快看
+        - title: 腾讯微云
+          logo: 微云.webp
+          url: https://www.weiyun.com/
+          description: 智能云盘
         - title: 123云盘
           logo: www.123pan.com.webp
           url: https://www.123pan.com/
           description: 免登录，不限速
-        - title: 迅雷云盘
-          logo: 迅雷云盘.webp
-          url: https://pan.xunlei.com/
-          description: 专享私密云盘
+        - title: OneDrive
+          logo: OneDrive.webp
+          url: https://onedrive.live.com/
+          description: 通过 OneDrive 安全地保存和共享重要内容
         - title: 天翼云盘
           logo: 天翼云盘.webp
           url: https://cloud.189.cn/
@@ -571,18 +571,6 @@
           logo: 115网盘.webp
           url: https://115.com/
           description: 115生活，一生相伴
-        - title: OneDrive
-          logo: OneDrive.webp
-          url: https://onedrive.live.com/
-          description: 通过 OneDrive 安全地保存和共享重要内容
-        - title: 蓝奏云·优享版
-          logo: 蓝奏云.webp
-          url: https://www.ilanzou.com/
-          description: 十年磨一剑 蓝奏团队倾力打造
-        - title: 腾讯微云
-          logo: 微云.webp
-          url: https://www.weiyun.com/
-          description: 智能云盘
     - term: 办公资源
       links:
         - title: OfficePLUS
@@ -845,28 +833,6 @@
         - title: Grammarly
           logo: grammarly.webp
           url: https://app.grammarly.com/
-    - term: MOOC
-      links:
-      - title: Coursera
-        logo: coursera.org.webp
-        url: https://www.coursera.org/
-        description: Degrees, Certificates, &Free Online Courses
-      - title: EdX
-        logo: edx.org.webp
-        url: https://www.edx.org/
-        description: Build new skills. Advance your career
-      - title: UMOOCs
-        logo: moocs.unipus.cn.webp
-        url: https://moocs.unipus.cn/
-        description: 中国高校外语慕课平台
-      - title: 中国大学MOOC
-        logo: icourse163.org.webp
-        url: https://www.icourse163.org/
-        description: 国家精品课程在线学习平台
-      - title: 学堂在线
-        logo: next.xuetangx.com.webp
-        url: https://next.xuetangx.com/
-        description: 精品课程在线学习平台
     - term: 阅读博览
       links:
         - title: 微信读书
@@ -940,25 +906,6 @@
           logo: yhjf.webp
           url: https://sesme.co/
           description: 可输入文字图片emoji
-- taxonomy: 网上营业厅
-  icon: fas fa-sim-card
-  links:
-    - title: 中国移动
-      logo: 中国移动.webp
-      url: https://www.10086.cn/
-      description: 移动改变生活
-    - title: 中国电信
-      logo: 中国电信.webp
-      url: https://www.189.cn/
-      description: 世界触手可及
-    - title: 中国联通
-      logo: 中国联通.webp
-      url: https://www.10010.com/
-      description: 创新·改变世界
-    - title: 中国广电
-      logo: 中国广电.webp
-      url: https://www.10099.com.cn/
-      description: 更广更精彩
 - taxonomy: 政府部门         
   icon: fas fa-user-tie
   links:
