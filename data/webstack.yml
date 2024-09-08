@@ -333,7 +333,7 @@
       description: It's all here.
     - title: 欧乐影院
       logo: ole.webp
-      url: https://www.olelive.com/
+      url: https://www.olevod.tv/
       description: 面向海外华人的在线视频媒体平台
     - title: 泥视频
       logo: nivod.webp
@@ -345,7 +345,7 @@
       description: 努力让找电影变得简单
     - title: 爱达杂货铺
       logo: adzhp.webp
-      url: https://adzhp.site/
+      url: https://adzhp.xyz/
       description: 收集那些有用的东西
 - taxonomy: 出行订票
   icon: fas fa-plane-departure
@@ -593,7 +593,7 @@
           logo: aboutppt.webp
           url: https://www.aboutppt.com/
           description: 演示设计网址导航
-        - title: 5百丁
+        - title: 5百丁简历
           url: https://www.500d.me/
           logo: 500d.webp
           description: 中国领先的PPT简历模板共享平台
@@ -783,7 +783,7 @@
           description: IP/DNS检测
         - title: 全球VPS数据库
           logo: vpsdb.webp
-          url: https://vpsdb.top/
+          url: https://db.vps69.com/
         - title: Downdetector
           logo: downdetector.webp
           url: https://downdetector.com/
@@ -1022,7 +1022,7 @@
       description: 可持续，更美好
     - title: 北京银行
       logo: 北京银行.webp
-      url: http://www.bankofbeijing.com.cn/
+      url: https://www.bankofbeijing.com.cn/
       description: 真诚，所以信赖
     - title: 广发银行
       logo: 广发银行.webp
@@ -1042,5 +1042,5 @@
       description: 专业创造价值
     - title: 浙商银行
       logo: 浙商银行.webp
-      url: http://www.czbank.com/
+      url: https://www.czbank.com/
       description: 大有、灵动、焕能
