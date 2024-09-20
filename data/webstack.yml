@@ -200,10 +200,6 @@
       logo: xhs.webp
       url: https://www.xiaohongshu.com/explore
       description: 标记我的生活
-    - title: 虎扑
-      logo: hupu.webp
-      url: https://bbs.hupu.com/lol
-      description: 世界是一个竞技场
     - title: 虎牙
       logo: huya.webp
       url: https://www.huya.com/
@@ -212,10 +208,10 @@
       logo: douyu.webp
       url: https://www.douyu.com/
       description: 每个人的直播平台
-    - title: 大众点评
-      logo: dianping.webp
-      url: https://www.dianping.com/
-      description: 美食 生活 团购 旅游 电影 优惠券
+    - title: 虎扑
+      logo: hupu.webp
+      url: https://bbs.hupu.com/lol
+      description: 世界是一个竞技场
     - title: 微博
       logo: weibo.webp
       url: https://weibo.com/
@@ -236,10 +232,22 @@
       logo: nga.webp
       url: https://bbs.nga.cn/
       description: 精英玩家俱乐部
-    - title: Google Voice
-      logo: gvoice.webp
-      url: https://voice.google.com/
-      description: 常用且好用的GV号
+    - title: 大众点评
+      logo: dianping.webp
+      url: https://www.dianping.com/
+      description: 美食 生活 团购 旅游 电影 优惠券
+    - title: 什么值得买
+      logo: smzdm.webp
+      url: https://www.smzdm.com/
+      description: 科学消费 认真生活
+    - title: 少数派
+      logo: ssp.webp
+      url: https://sspai.com/
+      description: 高效工作，品质生活
+    - title: 微信公众号平台
+      logo: 微信.webp
+      url: https://mp.weixin.qq.com/
+      description: 再小的个体，也有自己的品牌
     - title: Facebook
       logo: facebook.webp
       url: https://www.facebook.com/
@@ -256,6 +264,18 @@
       logo: whatsapp.webp
       url: https://www.whatsapp.com/
       description: Secure and Reliable Private Messaging and Calling
+    - title: Threads
+      logo: threads.webp
+      url: https://www.threads.net/
+      description: Say more with Threads — Instagram's new text app.
+    - title: Google Voice
+      logo: gvoice.webp
+      url: https://voice.google.com/
+      description: Google Voice是由Google推出的VOIP服务
+    - title: Linkedin
+      logo: linkedin.webp
+      url: https://www.linkedin.com/
+      description: Welcome to your professional community
     - title: Discord
       logo: discord.webp
       url: https://discord.com/
@@ -284,9 +304,9 @@
       url: https://www.mgtv.com/
       description: 天生青春
     - title: 优酷
-      logo: youku.webp
+      logo: 优酷.webp
       url: https://www.youku.com/
-      description: 你的热爱，正在热播
+      description: 为好内容全力以赴
     - title: 西瓜视频
       logo: ixigua.webp
       url: https://www.ixigua.com/
@@ -862,12 +882,18 @@
       - title: 果核剥壳
         logo: www.ghxi.com.webp
         url: https://www.ghxi.com/
+        description: 互联网的净土
       - title: 423Down
         logo: www.423down.com.webp
         url: https://www.423down.com/
+        description: 更新快、专注去广告类软件输出10年、个人IP品牌软件分享站
       - title: 微当下载
         logo: weidown.webp
         url: https://www.weidown.com/
+        description: 精品软件，一网打尽
+      - title: AMD驱动下载
+        logo: amd.webp
+        url: https://www.amd.com/zh-cn/support/download/drivers.html
       - title: Intel驱动下载
         logo: www.intel.cn.webp
         url: https://www.intel.cn/content/www/cn/zh/download-center/home.html
