@@ -35,7 +35,7 @@
       logo: fastmail.webp
       url: https://app.fastmail.com/
       description: Fast, private email that’s just for you
-    - title: QQ 邮箱
+    - title: QQ邮箱
       logo: qq邮箱.webp
       url: https://mail.qq.com/
       description: 常联系
@@ -63,7 +63,7 @@
       logo: flyert.webp
       url: https://www.flyert.com/
       description: 享此刻·享未来
-    - title: ACWIFI
+    - title: ACWiFi
       logo: acwifi.webp
       url: https://www.acwifi.net/
       description: 路由器技术分享交流
@@ -177,7 +177,7 @@
       logo: gemini.webp
       url: https://gemini-pro.chat/
       description: 同时理解文字、图像、音频以及更多模态的信息，拥有更为高级的推理、规划、理解等能力
-    - title: Ai工具箱导航
+    - title: AI工具箱导航
       logo: amz123.webp
       url: https://www.amz123.com/ai
       description: 国内外AI工具导航合集
@@ -331,7 +331,7 @@
       logo: netflix.webp
       url: https://www.netflix.com/
       description: At Netflix, we want to entertain the world
-    - title: QQ 音乐
+    - title: QQ音乐
       logo: qqmusic.webp
       url: https://y.qq.com/
       description: 听我想听
