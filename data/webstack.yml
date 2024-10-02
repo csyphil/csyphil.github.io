@@ -228,26 +228,6 @@
       logo: tieba.webp
       url: https://tieba.baidu.com/
       description: 全球领先的中文社区
-    - title: NGA玩家社区
-      logo: nga.webp
-      url: https://bbs.nga.cn/
-      description: 精英玩家俱乐部
-    - title: 大众点评
-      logo: dianping.webp
-      url: https://www.dianping.com/
-      description: 美食 生活 团购 旅游 电影 优惠券
-    - title: 什么值得买
-      logo: smzdm.webp
-      url: https://www.smzdm.com/
-      description: 科学消费 认真生活
-    - title: 少数派
-      logo: ssp.webp
-      url: https://sspai.com/
-      description: 高效工作，品质生活
-    - title: 微信公众号平台
-      logo: 微信.webp
-      url: https://mp.weixin.qq.com/
-      description: 再小的个体，也有自己的品牌
     - title: Facebook
       logo: facebook.webp
       url: https://www.facebook.com/
@@ -314,7 +294,11 @@
     - title: 中央电视台
       logo: CCTV.webp
       url: https://tv.cctv.com/live/
-      description: CCTV节目官网是中央电视台电视节目官方呈现平台
+      description: 中央电视台电视节目官方
+    - title: 央视频
+      logo: 央视频.webp
+      url: https://www.yangshipin.cn/
+      description: 有品质的视频社交媒体
     - title: 搜狐视频
       logo: souhutv.webp
       url: https://tv.sohu.com/
@@ -327,10 +311,6 @@
       logo: acfun.webp
       url: https://www.acfun.cn/
       description: 认真你就输啦
-    - title: Netflix
-      logo: netflix.webp
-      url: https://www.netflix.com/
-      description: At Netflix, we want to entertain the world
     - title: QQ音乐
       logo: qqmusic.webp
       url: https://y.qq.com/
@@ -347,6 +327,14 @@
       logo: xmly.webp
       url: https://www.ximalaya.com/
       description: 有声小说，听书，听小说，听故事，听广播
+    - title: 爱达杂货铺
+      logo: adzhp.webp
+      url: https://adzhp.xyz/
+      description: 收集那些有用的东西
+    - title: Netflix
+      logo: netflix.webp
+      url: https://www.netflix.com/
+      description: At Netflix, we want to entertain the world
     - title: Youtube Music
       logo: ytm.webp
       url: https://music.youtube.com/
@@ -363,10 +351,6 @@
       logo: cupfox.webp
       url: https://cupfox.love/
       description: 努力让找电影变得简单
-    - title: 爱达杂货铺
-      logo: adzhp.webp
-      url: https://adzhp.xyz/
-      description: 收集那些有用的东西
 - taxonomy: 出行订票
   icon: fas fa-plane-departure
   links:
@@ -393,21 +377,24 @@
 - taxonomy: 新闻媒体
   icon: far fa-newspaper
   links: 
+    - title: 华尔街日报中文网
+      logo: WSJ.webp
+      url: https://cn.wsj.com/
     - title: 纽约时报中文网
       logo: NYT.webp
       url: https://cn.nytimes.com/
     - title: BBC中文网
       logo: BBC.webp
       url: https://www.bbc.com/zhongwen/simp
+    - title: 日本经济中文网
+      logo: 日经.webp
+      url: https://cn.nikkei.com/
     - title: 法广中文网
       logo: RFI.webp
       url: https://www.rfi.fr/cn/
     - title: 德国之声中文网
       logo: DW.webp
-      url: https://www.dw.com/zh
-    - title: 日本经济中文网
-      logo: 日经.webp
-      url: https://cn.nikkei.com/
+      url: https://www.dw.com/zh/
 - taxonomy: 工作办公
   icon: fas fa-briefcase
   list:
