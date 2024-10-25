@@ -90,10 +90,11 @@
     - title: 驾考宝典
       logo: jkbd.webp
       url: https://shenzhen.jiakaobaodian.com/
-      description: 
+      description: 驾照考试，就用驾考宝典！
     - title: English Level Up
       logo: github.webp
       url: https://github.com/byoungd/English-level-up-tips
+      description: 离谱的英语学习指南/英语学习教程
     - title: The Economist
       logo: github.webp
       url: https://github.com/hehonghui/awesome-english-ebooks
@@ -278,7 +279,7 @@
     - title: 腾讯视频
       logo: 腾讯视频.webp
       url: https://v.qq.com/
-      description: 腾讯视频，不负好时光
+      description: 不负好时光
     - title: 芒果TV
       logo: mgtv.webp
       url: https://www.mgtv.com/
@@ -518,7 +519,7 @@
           description: 让沟通更简单
         - title: 10MinsMail
           logo: mail.webp
-          url: https://10minutemail.com/
+          url: https://10minutemail.com/?lang=zh
           description: Beat SPAM with the best disposable email service
         - title: rootsh
           logo: rootsh.com.webp
@@ -777,9 +778,11 @@
         - title: 测速网
           logo: speedtest.cn.webp
           url: https://www.speedtest.cn/
+          description: The Global Broadband Speed Test
         - title: FAST
           logo: fast.com.webp
-          url: https://fast.com
+          url: https://fast.
+          description: Internet speed test
         - title: DNS Leak Test
           logo: dnsleaktest.webp
           url: https://browserleaks.com/dns
@@ -840,19 +843,21 @@
         - title: Grammarly
           logo: grammarly.webp
           url: https://app.grammarly.com/
+          description: Write Your Best
     - term: 阅读博览
       links:
         - title: 微信读书
           url: https://weread.qq.com/
           logo: 微信读书.webp
-          description: 微信读书在线版
+          description: 和朋友一起读书
         - title: 掌阅书城
           url: https://www.ireader.com.cn/
           logo: ireader.webp
-          description: 中国知名的移动互联网网络书城
+          description: 让阅读改变生活
         - title: 全历史
           logo: www.allhistory.com.webp
           url: https://www.allhistory.com/
+          description: 让认知更接近真相
         - title: 鸠摩文档搜索
           logo: www.jiumodiary.com.webp
           url: https://www.jiumodiary.com/
@@ -988,7 +993,7 @@
     - title: 农业银行
       logo: 农业银行.webp
       url: https://www.abchina.com/
-      description: 智通道合，偕行以远
+      description: 大行德广，伴您成长
     - title: 中国银行
       logo: 中国银行.webp
       url: https://www.boc.cn/
@@ -1008,7 +1013,7 @@
     - title: 兴业银行
       logo: 兴业银行.webp
       url: https://www.cib.com.cn/
-      description: 服务源自真诚
+      description: 真诚服务，共同兴业
     - title: 浦发银行
       logo: 浦发银行.webp
       url: https://www.spdb.com.cn/
@@ -1016,15 +1021,15 @@
     - title: 中信银行
       logo: 中信银行.webp
       url: https://www.citicbank.com/
-      description: 人所未及，尽可及
+      description: 承诺于中，至任于信
     - title: 民生银行
       logo: 民生银行.webp
       url: https://www.cmbc.com.cn/
-      description: 信任常在
+      description: 服务大众，情系民生
     - title: 光大银行
       logo: 光大银行.webp
       url: https://www.cebbank.com/
-      description: 心光明至大成
+      description: 光耀全球，润泽大地
     - title: 平安银行
       logo: 平安银行.webp
       url: https://bank.pingan.com/
@@ -1036,15 +1041,15 @@
     - title: 北京银行
       logo: 北京银行.webp
       url: https://www.bankofbeijing.com.cn/
-      description: 真诚，所以信赖
+      description: 服务北京，连接世界
     - title: 广发银行
       logo: 广发银行.webp
       url: https://www.cgbchina.com.cn/
-      description: 享·无止境
+      description: 发现精彩，开创未来
     - title: 上海银行
       logo: 上海银行.webp
       url: https://www.bosc.cn/zh/
-      description: 智慧金融，专业服务
+      description: 精诚至上，信义立行
     - title: 江苏银行
       logo: 江苏银行.webp
       url: https://www.jsbchina.cn/
@@ -1056,4 +1061,4 @@
     - title: 浙商银行
       logo: 浙商银行.webp
       url: https://www.czbank.com/
-      description: 大有、灵动、焕能
+      description: 见行、见心、见未来
