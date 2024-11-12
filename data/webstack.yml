@@ -705,7 +705,7 @@
         - title: Vmiss
           logo: vmiss.webp
           url: https://www.vmiss.com/
-        - title: Cloudcone
+        - title: CloudCone
           logo: cloudcone.com.webp
           url: https://cloudcone.com/
         - title: RackNerd
@@ -770,7 +770,7 @@
         - title: I Tell You
           logo: itellyou.cn.webp
           url: https://msdn.itellyou.cn/
-          description: 微软非官方系统软件资源站
+          description: 微软非官方资源站
         - title: IP Address
           logo: ipaddress.com.webp
           url: https://www.ipaddress.com/
@@ -883,6 +883,14 @@
         logo: weidown.webp
         url: https://www.weidown.com/
         description: 精品软件，一网打尽
+      - title: 软件SOS
+        logo: rjsos.webp
+        url: https://www.rjsos.com/
+        description: 玩机手册、软件安装管家、激活工具下载
+      - title: 小众软件
+        logo: appinn.webp
+        url: https://www.appinn.com/
+        description: 分享免费、小巧、实用、有趣、绿色的软件
       - title: AMD驱动下载
         logo: amd.webp
         url: https://www.amd.com/zh-cn/support/download/drivers.html
@@ -897,6 +905,9 @@
         - title: iMyShare
           logo: imyshare.com.webp
           url: https://imyshare.com/
+        - title: 我的收藏
+          logo: wdsc.webp
+          url: https://favorites.pages.dev/
         - title: 快搜(虫部落)
           logo: search.chongbuluo.com.webp
           url: https://search.chongbuluo.com/
@@ -998,14 +1009,14 @@
       logo: 中国银行.webp
       url: https://www.boc.cn/
       description: 止，而后能观
-    - title: 交通银行
-      logo: 交通银行.webp
-      url: https://www.bankcomm.com/
-      description: 人生如棋，由我左右
     - title: 招商银行
       logo: 招商银行.webp
       url: https://www.cmbchina.com/
       description: 因您而变，成就无限
+    - title: 交通银行
+      logo: 交通银行.webp
+      url: https://www.bankcomm.com/
+      description: 人生如棋，由我左右
     - title: 邮储银行
       logo: 邮储银行.webp
       url: https://www.psbc.com/
@@ -1014,14 +1025,14 @@
       logo: 兴业银行.webp
       url: https://www.cib.com.cn/
       description: 真诚服务，共同兴业
-    - title: 浦发银行
-      logo: 浦发银行.webp
-      url: https://www.spdb.com.cn/
-      description: 跃入新境，悦享未来
     - title: 中信银行
       logo: 中信银行.webp
       url: https://www.citicbank.com/
       description: 承诺于中，至任于信
+    - title: 浦发银行
+      logo: 浦发银行.webp
+      url: https://www.spdb.com.cn/
+      description: 跃入新境，悦享未来
     - title: 民生银行
       logo: 民生银行.webp
       url: https://www.cmbc.com.cn/
@@ -1046,14 +1057,14 @@
       logo: 广发银行.webp
       url: https://www.cgbchina.com.cn/
       description: 发现精彩，开创未来
+   - title: 江苏银行
+      logo: 江苏银行.webp
+      url: https://www.jsbchina.cn/
+      description: 融你我，融无限
     - title: 上海银行
       logo: 上海银行.webp
       url: https://www.bosc.cn/zh/
       description: 精诚至上，信义立行
-    - title: 江苏银行
-      logo: 江苏银行.webp
-      url: https://www.jsbchina.cn/
-      description: 融你我，融无限
     - title: 宁波银行
       logo: 宁波银行.webp
       url: https://www.nbcb.com.cn/
