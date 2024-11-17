@@ -213,6 +213,10 @@
       logo: hupu.webp
       url: https://bbs.hupu.com/lol
       description: 世界是一个竞技场
+    - title: 百度贴吧
+      logo: tieba.webp
+      url: https://tieba.baidu.com/
+      description: 全球领先的中文社区
     - title: 微博
       logo: weibo.webp
       url: https://weibo.com/
@@ -225,10 +229,6 @@
       logo: douban.webp
       url: https://www.douban.com/
       description: 汇聚一亿人生活趣味
-    - title: 百度贴吧
-      logo: tieba.webp
-      url: https://tieba.baidu.com/
-      description: 全球领先的中文社区
     - title: Facebook
       logo: facebook.webp
       url: https://www.facebook.com/
