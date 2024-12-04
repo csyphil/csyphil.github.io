@@ -104,7 +104,7 @@
       url: https://chromewebstore.google.com/
       description: Chrome拓展应用商店
 - taxonomy: 人工智能
-  icon: fas fa-robot
+  icon: fa-solid fa-robot
   links: 
     - title: ChatGPT
       logo: chatgpt.webp
@@ -187,7 +187,7 @@
       url: https://ai-bot.cn/
       description: 700+ AI工具集合官网
 - taxonomy: 社媒平台
-  icon: far fa-comment-dots
+  icon: fa-regular fa-comment-dots
   links:
     - title: 抖音
       logo: douyin.webp   
@@ -270,7 +270,7 @@
       url: https://www.reddit.com/
       description: Dive into anything
 - taxonomy: 影音视听
-  icon: fas fa-photo-video
+  icon: fa-solid fa-photo-film
   links:
     - title: 爱奇艺
       logo: 爱奇艺.webp
@@ -353,7 +353,7 @@
       url: https://cupfox.love/
       description: 努力让找电影变得简单
 - taxonomy: 出行订票
-  icon: fas fa-plane-departure
+  icon: fa-solid fa-plane-departure
   links:
     - title: 深圳宝安国际机场
       logo: szairport.webp
@@ -376,7 +376,7 @@
       url: https://www.ly.com/
       description: 再出发，就同程
 - taxonomy: 新闻媒体
-  icon: far fa-newspaper
+  icon: fa-regular fa-newspaper
   links: 
     - title: 华尔街日报中文网
       logo: WSJ.webp
@@ -397,7 +397,7 @@
       logo: DW.webp
       url: https://www.dw.com/zh/
 - taxonomy: 工作办公
-  icon: fas fa-briefcase
+  icon: fa-solid fa-briefcase
   list:
     - term: 职场招聘
       links:
@@ -636,7 +636,7 @@
           logo: linshi.webp
           url: https://www.superbed.cn/
 - taxonomy: 文件处理
-  icon: far fa-file
+  icon: fa-regular fa-file
   links:
     - title: Tinypng
       logo: tinypng.webp
@@ -706,7 +706,7 @@
       logo: 818ps.com.webp
       url: https://818ps.com/
 - taxonomy: 网站服务
-  icon: fas fa-network-wired
+  icon: fa-solid fa-server
   list:
     - term: 云服务器
       links:
@@ -828,7 +828,7 @@
           logo: www.nbmao.com.webp
           url: https://www.nbmao.com/
 - taxonomy: 学习阅读
-  icon: fas fa-university
+  icon: fa-solid fa-building-columns
   list:
     - term: 翻译
       links:
@@ -875,7 +875,7 @@
           url: https://shuxiangjia.cn/
           description: 电子书下载导航
 - taxonomy: 工具资源
-  icon: fas fa-tools
+  icon: fa-solid fa-screwdriver-wrench
   list: 
     - term: 软件资源
       links:
@@ -944,7 +944,7 @@
           url: https://sesme.co/
           description: 可输入文字图片emoji
 - taxonomy: 政府部门         
-  icon: fas fa-user-tie
+  icon: fa-solid fa-user-tie
   links:
     - title: 广东政务服务网
       logo: gdzw.webp
@@ -979,7 +979,7 @@
       logo: gjtjj.webp
       url: https://www.stats.gov.cn/
 - taxonomy: 支付银行
-  icon: far fa-credit-card
+  icon: fa-regular fa-credit-card
   links:
     - title: 支付宝
       logo: alipay.webp
