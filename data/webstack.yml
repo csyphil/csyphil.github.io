@@ -1,7 +1,7 @@
 ---
 
 - taxonomy: 常用推荐
-  icon: far fa-star
+  icon: fa-regular fa-star
   links: 
     - title: GitHub
       logo: github.webp
