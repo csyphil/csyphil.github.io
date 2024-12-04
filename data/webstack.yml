@@ -6,7 +6,7 @@
     - title: GitHub
       logo: github.webp
       url: https://github.com/
-      description: GitHub 开源社区
+      description: Where the world builds software
     - title: Youtube
       logo: youtube.webp
       url: https://www.youtube.com/
@@ -18,7 +18,7 @@
     - title: Gmail
       logo: gmail.webp
       url: https://mail.google.com/ 
-      description: ​Gmail is a free, advertising-supported emailservice provided by Google
+      description: Secure, private, and ad-free email for everyone
     - title: Notion
       logo: notion.webp
       url: https://www.notion.so/
@@ -34,7 +34,7 @@
     - title: Fastmail
       logo: fastmail.webp
       url: https://app.fastmail.com/
-      description: Fast, private email that’s just for you
+      description: Email on your side
     - title: QQ邮箱
       logo: qq邮箱.webp
       url: https://mail.qq.com/
@@ -109,15 +109,15 @@
     - title: ChatGPT
       logo: chatgpt.webp
       url: https://chat.openai.com/
-      description: ChatGPT is a free-to-use AI system.   
+      description: Your AI assistant for every need
     - title: Bing Copilot
       logo: bing.webp
       url: https://www.bing.com/
-      description: 微软推出的结合ChatGPT4.0的新版必应+Copilot
+      description: Your AI-powered everyday companion
     - title: 智谱清言
       logo: zpqy.webp
       url: https://chatglm.cn/
-      description: 清华大学KEG实验室和智谱AI公司基于GLM模型开发
+      description: 连接人与知识
     - title: 文心一言
       logo: wenxin.webp
       url: https://yiyan.baidu.com/
