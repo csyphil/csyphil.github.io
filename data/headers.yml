@@ -1,5 +1,5 @@
 - item: 首页
-  icon: fa fa-home
+  icon: fa-solid fa-house
   link: "./"
 
 # - item: 作者
