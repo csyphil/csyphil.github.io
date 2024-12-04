@@ -30,7 +30,7 @@
     - title: 知乎
       logo: 知乎.webp
       url: https://www.zhihu.com/
-      description: 有问题，就会有答案
+      description: 有问题，上知乎
     - title: Fastmail
       logo: fastmail.webp
       url: https://app.fastmail.com/
@@ -480,7 +480,7 @@
         - title: ProtonMail
           logo: protonmail.webp
           url: https://protonmail.com/zh-Hans/
-          description: Secure email that protects your privacy
+          description: 保护您隐私的安全电子邮件
         - title: TutaMail
           logo: tutamail.webp
           url: https://app.tuta.com/mail/
@@ -517,10 +517,18 @@
           logo: 沃邮箱.webp
           url: https://mail.wo.cn/
           description: 让沟通更简单
+        - title: Kakao Mail
+          logo: kakaomail.webp
+          url: https://mail.kakao.com/
+          description: 连接一切
+        - title: Naver Mail
+          logo: navermail.webp
+          url: https://mail.naver.com/
+          description: 智能、简单、安全的电子邮件服务
         - title: 10MinsMail
           logo: mail.webp
           url: https://10minutemail.com/?lang=zh
-          description: Beat SPAM with the best disposable email service
+          description: 用最好的一次性电子邮件服务击退垃圾邮件
         - title: rootsh
           logo: rootsh.com.webp
           url: https://rootsh.com/
@@ -532,7 +540,7 @@
         - title: Vmail
           logo: vmail.webp
           url: https://vmail.dev/
-          description: Virtual Temporary Mail
+          description: 虚拟临时邮箱
         - title: Temp Mail 100
           logo: tempmail100.webp
           url: https://tempmail100.com/zh-cn/
@@ -984,7 +992,7 @@
     - title: 微信支付
       logo: wechatpay.webp
       url: https://pay.weixin.qq.com/
-      description: 中国领先的第三方支付平台
+      description: 微信支付，不止支付
     - title: 微众银行
       logo: webank.webp
       url: https://www.webank.com/
