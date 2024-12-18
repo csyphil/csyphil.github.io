@@ -212,7 +212,7 @@
     - title: 虎扑
       logo: hupu.webp
       url: https://bbs.hupu.com/lol
-      description: 世界是一个竞技场
+      description: 虎扑英雄联盟区，做最好的英雄联盟讨论区！
     - title: 百度贴吧
       logo: tieba.webp
       url: https://tieba.baidu.com/
@@ -717,12 +717,12 @@
           url: https://www.racknerd.com/
         - title: Oracle Cloud
           logo: cloud.oracle.com.webp
-          url: https://cloud.oracle.com/?region=ap-tokyo-1
+          url: https://www.oracle.com/cloud/sign-in.html
     - term: 技术服务
       links:
         - title: Cloudflare
           logo: cloudflare.com.webp
-          url: https://dash.cloudflare.com
+          url: https://dash.cloudflare.com/
           description: 为云而建的全球性网络
         - title: Vercel
           logo: vercel.webp
@@ -785,7 +785,7 @@
           description: The Global Broadband Speed Test
         - title: FAST
           logo: fast.com.webp
-          url: https://fast.
+          url: https://fast.com/
           description: Internet speed test
         - title: DNS Leak Test
           logo: dnsleaktest.webp
