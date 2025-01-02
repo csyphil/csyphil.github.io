@@ -866,10 +866,6 @@
           logo: www.jiumodiary.com.webp
           url: https://www.jiumodiary.com/
           description: 文档搜索引擎
-        - title: 书享家(电子书)
-          logo: sxj.webp
-          url: https://shuxiangjia.cn/
-          description: 电子书下载导航
 - taxonomy: 工具资源
   icon: fa-regular fa-folder-open
   list: 
@@ -883,10 +879,6 @@
         logo: www.423down.com.webp
         url: https://www.423down.com/
         description: 更新快、专注去广告类软件输出10年、个人IP品牌软件分享站
-      - title: 微当下载
-        logo: weidown.webp
-        url: https://www.weidown.com/
-        description: 精品软件，一网打尽
       - title: 软件SOS
         logo: rjsos.webp
         url: https://www.rjsos.com/
@@ -937,7 +929,7 @@
           url: https://akarin.dev/WechatMomentScreenshot/
         - title: 阅后即焚
           logo: yhjf.webp
-          url: https://sesme.co/
+          url: https://sesme.lylares.com/
           description: 可输入文字图片emoji
 - taxonomy: 政府部门         
   icon: fa-solid fa-user-tie
