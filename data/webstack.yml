@@ -831,45 +831,29 @@
         - title: 笨猫博客
           logo: www.nbmao.com.webp
           url: https://www.nbmao.com/
-- taxonomy: 学习阅读
-  icon: fa-solid fa-building-columns
-  list:
-    - term: 翻译
-      links:
-        - title: 有道词典
-          logo: 有道词典.webp
-          url: https://fanyi.youdao.com/
-          description: 免费，即时的多语种在线翻译
-        - title: 谷歌翻译
-          logo: 谷歌翻译.webp
-          url: https://translate.google.com.hk/
-          description: 谷歌翻译
-        - title: 金山词霸
-          logo: www.iciba.com.webp
-          url: https://www.iciba.com/
-          description: 老师最推荐的翻译
-        - title: DeepL
-          logo: deepl.com.webp
-          url: https://www.deepl.com/translator
-          description: 全世界最准确的翻译
-        - title: Grammarly
-          logo: grammarly.webp
-          url: https://app.grammarly.com/
-          description: Write Your Best
-    - term: 阅读博览
-      links:
-        - title: 掌阅书城
-          url: https://www.ireader.com.cn/
-          logo: ireader.webp
-          description: 让阅读改变生活
-        - title: 全历史
-          logo: www.allhistory.com.webp
-          url: https://www.allhistory.com/
-          description: 让认知更接近真相
-        - title: 鸠摩文档搜索
-          logo: www.jiumodiary.com.webp
-          url: https://www.jiumodiary.com/
-          description: 文档搜索引擎
+- taxonomy: 翻译写作
+  icon: fa-solid fa-language
+  links:
+    - title: 有道词典
+      logo: 有道词典.webp
+      url: https://fanyi.youdao.com/
+      description: 免费，即时的多语种在线翻译
+    - title: 谷歌翻译
+      logo: 谷歌翻译.webp
+      url: https://translate.google.com.hk/
+      description: 谷歌翻译
+    - title: 金山词霸
+      logo: www.iciba.com.webp
+      url: https://www.iciba.com/
+      description: 老师最推荐的翻译
+    - title: DeepL
+      logo: deepl.com.webp
+      url: https://www.deepl.com/translator
+      description: 全世界最准确的翻译
+    - title: Grammarly
+      logo: grammarly.webp
+      url: https://app.grammarly.com/
+      description: Write Your Best
 - taxonomy: 工具资源
   icon: fa-regular fa-folder-open
   list: 
