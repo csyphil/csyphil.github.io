@@ -6,12 +6,10 @@
                     <div class="s-type-list big">
                         <div class="anchor" style="position: absolute; left: 50%; opacity: 0;"></div>
                         <label for="type-google"   data-id="group-a"><span>常用</span></label>
-                        <label for="type-baidu"    data-id="group-b"><span>搜索</span></label>
-                        <label for="type-bilibili" data-id="group-c"><span>社区</span></label>
-                        <label for="type-taobao"   data-id="group-d"><span>生活</span></label>
-                        <label for="type-boss"     data-id="group-e"><span>招聘</span></label>
-                        <label for="type-aqc"      data-id="group-f"><span>公司</span></label>
-                        <label for="type-wiki"     data-id="group-g"><span>学术</span></label>
+                        <label for="type-zhihu"    data-id="group-b"><span>社区</span></label>
+                        <label for="type-taobao"   data-id="group-c"><span>生活</span></label>
+                        <label for="type-boss"     data-id="group-d"><span>招聘</span></label>
+                        <label for="type-aqc"      data-id="group-e"><span>公司</span></label>
                     </div>
                 </div>
             </div>
@@ -29,10 +27,18 @@
                             value="https://www.google.com/search?q=" 
                             data-placeholder="Don't be evil">
 			                <label for="type-google"><span class="text-muted">Google</span></label></li>
+                        <li><input hidden="" type="radio" name="type" id="type-baidu"
+                            value="https://www.baidu.com/s?wd=" 
+                            data-placeholder="百度一下，你就知道">
+                            <label for="type-baidu"><span class="text-muted">百度</span></label></li>
                         <li><input hidden="" type="radio" name="type" id="type-youtube"
                             value="https://www.youtube.com/results?search_query=" 
                             data-placeholder="Broadcast Yourself">
                             <label for="type-youtube"><span class="text-muted">Youtube</span></label></li>
+                        <li><input hidden="" type="radio" name="type" id="type-bilibili" 
+                            value=" https://search.bilibili.com/all?keyword=" 
+                            data-placeholder="哔哩哔哩，干杯！">
+                            <label for="type-bilibili"><span class="text-muted">B站</span></label></li>
                         <li><input hidden="" type="radio" name="type" id="type-X"
                             value="https://x.com/search?q=" 
                             data-placeholder="It's what's happening">
@@ -41,42 +47,14 @@
                             value="https://github.com/search?q=" 
                             data-placeholder="Let's build from here">
 			                <label for="type-github"><span class="text-muted">Github</span></label></li>
-                    </ul>
-                </div>
-                <div class="search-group group-b">
-                    <ul class="search-type">
-                        <li><input hidden="" type="radio" name="type" id="type-baidu"
-                            value="https://www.baidu.com/s?wd=" 
-                            data-placeholder="百度一下，你就知道">
-                            <label for="type-baidu"><span class="text-muted">百度</span></label></li>
-                        <li><input hidden="" type="radio" name="type" id="type-bing"
-                            value="https://www.bing.com/search?q=" 
-                            data-placeholder="快乐搜索，有求必应">
-                            <label for="type-bing"><span class="text-muted">必应</span></label></li>
-                        <li><input hidden="" type="radio" name="type" id="type-360"
-                            value="https://www.so.com/s?q=" 
-                            data-placeholder="360搜索，So靠谱">
-                            <label for="type-360"><span class="text-muted">360</span></label></li>
-                        <li><input hidden="" type="radio" name="type" id="type-sogou"
-                            value="https://www.sogou.com/web?query=" 
-                            data-placeholder="搜狗一下，马上出发">
-                            <label for="type-sogou"><span class="text-muted">搜狗</span></label></li>
-                        <li><input hidden="" type="radio" name="type" id="type-toutiao"
-                            value="https://so.toutiao.com/search?dvpf=pc&source=trending_card&keyword=" 
-                            data-placeholder="头条搜索，搜你想搜的">
-                            <label for="type-toutiao"><span class="text-muted">头条</span></label></li>
                         <li><input hidden="" type="radio" name="type" id="type-ghbk"
                             value="https://www.ghxi.com/?s=" 
                             data-placeholder="搜索绿色软件">
                             <label for="type-ghbk"><span class="text-muted">果核剥壳</span></label></li>
                     </ul>
                 </div>
-                <div class="search-group group-c">
+                <div class="search-group group-b">
                     <ul class="search-type">
-                        <li><input hidden="" type="radio" name="type" id="type-bilibili" 
-                            value=" https://search.bilibili.com/all?keyword=" 
-                            data-placeholder="哔哩哔哩，干杯！">
-                            <label for="type-bilibili"><span class="text-muted">B站</span></label></li>
                         <li><input hidden="" type="radio" name="type" id="type-zhihu" 
                             value="https://www.zhihu.com/search?type=content&q=" 
                             data-placeholder="有问题，就会有答案">
@@ -89,10 +67,6 @@
                             value="https://weixin.sogou.com/weixin?type=2&query=" 
                             data-placeholder="搜狗 | 微信文章搜索">
                             <label for="type-wechat1"><span class="text-muted">微信文章</span></label></li>
-                        <!-- <li><input hidden="" type="radio" name="type" id="type-wechat2" 
-                            value="https://weixin.sogou.com/weixin?type=1&query=" 
-                            data-placeholder="搜狗 | 微信公众号搜索">
-                            <label for="type-wechat2"><span class="text-muted">公众号</span></label></li> -->
                         <li><input hidden="" type="radio" name="type" id="type-weibo" 
                             value="https://s.weibo.com/weibo/" 
                             data-placeholder="随时随地发现新鲜事！">
@@ -111,7 +85,7 @@
                             <label for="type-douban"><span class="text-muted">豆瓣</span></label></li>
                     </ul>
                 </div>
-                <div class="search-group group-d">
+                <div class="search-group group-c">
                     <ul class="search-type">
                         <li><input hidden="" type="radio" name="type" id="type-taobao" 
                             value="https://s.taobao.com/search?q=" 
@@ -143,7 +117,7 @@
                             <label for="type-gjkd"><span class="text-muted">国际快件</span></label></li>
                     </ul>
                 </div>
-                <div class="search-group group-e">
+                <div class="search-group group-d">
                     <ul class="search-type">
                         <li><input hidden="" type="radio" name="type" id="type-boss" 
                             value="https://www.zhipin.com/web/geek/job?query=" 
@@ -167,7 +141,7 @@
                             <label for="type-liepin"><span class="text-muted">猎聘网</span></label></li>
                     </ul>
                 </div>
-                <div class="search-group group-f">
+                <div class="search-group group-e">
                     <ul class="search-type">
                         <li><input hidden="" type="radio" name="type" id="type-aqc" 
                             value="https://aiqicha.baidu.com/s?q=" 
@@ -181,30 +155,6 @@
                             value="https://www.qcc.com/web/search?key=" 
                             data-placeholder="查企业，上企查查">
                             <label for="type-qcc"><span  class="text-muted">企查查</span></label></li>
-                    </ul>
-                </div>
-                <div class="search-group group-g">
-                    <ul class="search-type">
-                        <li><input hidden="" type="radio" name="type" id="type-wiki" 
-                            value="https://zh.wikipedia.org/wiki/" 
-                            data-placeholder="维基百科，自由的百科全书">
-                            <label for="type-wiki"><span  class="text-muted">维基百科</span></label></li>
-                        <li><input hidden="" type="radio" name="type" id="type-ggxs" 
-                            value="https://scholar.google.com/scholar?q=" 
-                            data-placeholder="谷歌学术，站在巨人的肩膀上">
-                            <label for="type-ggxs"><span  class="text-muted">谷歌学术</span></label></li>
-                        <li><input hidden="" type="radio" name="type" id="type-bdxs" 
-                            value="https://xueshu.baidu.com/s?wd=" 
-                            data-placeholder="百度学术，保持学习的态度">
-                            <label for="type-bdxs"><span  class="text-muted">百度学术</span></label></li>
-                        <li><input hidden="" type="radio" name="type" id="type-etym" 
-                            value="https://www.etymonline.com/search?q=" 
-                            data-placeholder="Etymonline | Online Etymology Dictionary">
-                            <label for="type-etym"><span  class="text-muted">在线词源</span></label></li>
-                        <li><input hidden="" type="radio" name="type" id="type-mw" 
-                            value="https://merriam-webster.com/dictionary/" 
-                            data-placeholder="Merriam-Webster | America's Most Trusted Dictionary">
-                            <label for="type-mw"><span  class="text-muted">韦氏词典</span></label></li>
                     </ul>
                 </div>
             </div>

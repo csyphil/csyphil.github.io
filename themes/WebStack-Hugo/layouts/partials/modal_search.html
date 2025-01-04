@@ -8,12 +8,10 @@
                             <span></span>
                             <div class="s-type-list">
                                 <label for="m_type-google"   data-id="group-a">常用</label>
-                                <label for="m_type-baidu"    data-id="group-b">搜索</label>
-                                <label for="m_type-bilibili" data-id="group-c">社区</label>
-                                <label for="m_type-taobao"   data-id="group-d">生活</label>
-                                <label for="m_type-boss"     data-id="group-e">招聘</label>
-                                <label for="m_type-aqc"      data-id="group-f">公司</label>
-                                <label for="m_type-wiki"     data-id="group-g">学术</label>
+                                <label for="m_type-zhihu"    data-id="group-b">社区</label>
+                                <label for="m_type-taobao"   data-id="group-c">生活</label>
+                                <label for="m_type-boss"     data-id="group-d">招聘</label>
+                                <label for="m_type-aqc"      data-id="group-e">公司</label>
                             </div>
                         </div>
                         <div class="search-group group-a"><span class="type-text text-muted">常用</span>
@@ -22,10 +20,18 @@
                                     value="https://www.google.com/search?q=" 
                                     data-placeholder="Don't be evil">
                                     <label for="m_type-google"><span class="text-muted">Google</span></label></li>
+                                <li><input hidden="" type="radio" name="type2" id="m_type-baidu"
+                                    value="https://www.baidu.com/s?wd=" 
+                                    data-placeholder="百度一下，你就知道">
+                                    <label for="m_type-baidu"><span class="text-muted">百度</span></label></li>
                                 <li><input hidden="" type="radio" name="type2" id="m_type-youtube" 
                                     value="https://www.youtube.com/results?search_query=" 
                                     data-placeholder="Broadcast Yourself">
                                     <label for="m_type-youtube"><span class="text-muted">Youtube</span></label></li>
+                                <li><input hidden="" type="radio" name="type2" id="m_type-bilibili" 
+                                    value=" https://search.bilibili.com/all?keyword=" 
+                                    data-placeholder="哔哩哔哩，干杯！">
+                                    <label for="m_type-bilibili"><span class="text-muted">B站</span></label></li>
                                 <li><input hidden="" type="radio" name="type2" id="m_type-X"
                                     value="https://x.com/search?q=" 
                                     data-placeholder="It's what's happening">
@@ -34,42 +40,14 @@
                                     value="https://github.com/search?q=" 
                                     data-placeholder="Let's build from here">
                                     <label for="m_type-github"><span class="text-muted">Github</span></label></li>
+                                <li><input hidden="" type="radio" name="type2" id="m_type-ghbk"
+                                    value="https://www.ghxi.com/?s=" 
+                                    data-placeholder="搜索绿色软件">
+                                    <label for="m_type-ghbk"><span class="text-muted">果核剥壳</span></label></li>
                             </ul>
                         </div>
-                        <div class="search-group group-b"><span class="type-text text-muted">搜索</span>
-                                <ul class="search-type">
-                                    <li><input hidden="" type="radio" name="type2" id="m_type-baidu"
-                                        value="https://www.baidu.com/s?wd=" 
-                                        data-placeholder="百度一下，你就知道">
-                                        <label for="m_type-baidu"><span class="text-muted">百度</span></label></li>
-                                    <li><input hidden="" type="radio" name="type2" id="m_type-bing"
-                                        value="https://www.bing.com/search?q=" 
-                                        data-placeholder="快乐搜索，有求必应">
-                                        <label for="m_type-bing"><span class="text-muted">必应</span></label></li>
-                                    <li><input hidden="" type="radio" name="type2" id="m_type-360"
-                                        value="https://www.so.com/s?q=" 
-                                        data-placeholder="360搜索，So靠谱">
-                                        <label for="m_type-360"><span class="text-muted">360</span></label></li>
-                                    <li><input hidden="" type="radio" name="type2" id="m_type-sogou"
-                                        value="https://www.sogou.com/web?query=" 
-                                        data-placeholder="搜狗一下，马上出发">
-                                        <label for="m_type-sogou"><span class="text-muted">搜狗</span></label></li>
-                                    <li><input hidden="" type="radio" name="type2" id="m_type-toutiao"
-                                        value="https://so.toutiao.com/search?dvpf=pc&source=trending_card&keyword=" 
-                                        data-placeholder="头条搜索，搜你想搜的">
-                                        <label for="m_type-toutiao"><span class="text-muted">头条</span></label></li>
-                                    <li><input hidden="" type="radio" name="type2" id="m_type-ghbk"
-                                        value="https://www.ghxi.com/?s=" 
-                                        data-placeholder="搜索绿色软件">
-                                        <label for="m_type-ghbk"><span class="text-muted">果核剥壳</span></label></li>
-                                </ul>
-                        </div>
-                        <div class="search-group group-c"><span class="type-text text-muted">社区</span>
+                        <div class="search-group group-b"><span class="type-text text-muted">社区</span>
                             <ul class="search-type">
-                                <li><input hidden="" type="radio" name="type2" id="m_type-bilibili" 
-                                    value=" https://search.bilibili.com/all?keyword=" 
-                                    data-placeholder="哔哩哔哩，干杯！">
-                                    <label for="m_type-bilibili"><span class="text-muted">B站</span></label></li>
                                 <li><input hidden="" type="radio" name="type2" id="m_type-zhihu"
                                     value="https://www.zhihu.com/search?type=content&q=" 
                                     data-placeholder="有问题，就会有答案">
@@ -82,10 +60,6 @@
                                     value="https://weixin.sogou.com/weixin?type=2&query=" 
                                     data-placeholder="搜狗 | 微信文章搜索">
                                     <label for="m_type-wechat1"><span class="text-muted">微信文章</span></label></li>
-                                <!-- <li><input hidden="" type="radio" name="type2" id="m_type-wechat2"
-                                    value="https://weixin.sogou.com/weixin?type=1&query=" 
-                                    data-placeholder="搜狗 | 微信公众号搜索">
-                                    <label for="m_type-wechat2"><span class="text-muted">公众号</span></label></li> -->
                                 <li><input hidden="" type="radio" name="type2" id="m_type-weibo"
                                     value="https://s.weibo.com/weibo/" 
                                     data-placeholder="随时随地发现新鲜事！">
@@ -104,7 +78,7 @@
                                     <label for="m_type-douban"><span class="text-muted">豆瓣</span></label></li>
                             </ul>
                         </div>
-                        <div class="search-group group-d"><span class="type-text text-muted">生活</span>
+                        <div class="search-group group-c"><span class="type-text text-muted">生活</span>
                             <ul class="search-type">
                                 <li><input hidden="" type="radio" name="type2" id="m_type-taobao"
                                     value="https://s.taobao.com/search?q=" 
@@ -136,7 +110,7 @@
                                     <label for="m_type-gjkd"><span class="text-muted">国际快件</span></label></li>
                             </ul>
                         </div>
-                        <div class="search-group group-e"><span class="type-text text-muted">招聘</span>
+                        <div class="search-group group-d"><span class="type-text text-muted">招聘</span>
                             <ul class="search-type">
                                 <li><input hidden="" type="radio" name="type2" id="m_type-boss"
                                     value="https://www.zhipin.com/web/geek/job?query=" 
@@ -160,7 +134,7 @@
                                     <label for="m_type-liepin"><span class="text-muted">猎聘网</span></label></li>
                             </ul>
                         </div>
-                        <div class="search-group group-f"><span class="type-text text-muted">公司</span>
+                        <div class="search-group group-e"><span class="type-text text-muted">公司</span>
                             <ul class="search-type">
                                 <li><input hidden="" type="radio" name="type2" id="m_type-aqc" 
                                     value="https://aiqicha.baidu.com/s?q=" 
@@ -176,30 +150,6 @@
                                     <label for="m_type-qcc"><span  class="text-muted">企查查</span></label></li>
                             </ul>
                         </div>
-                        <div class="search-group group-g"><span class="type-text text-muted">学术</span>
-                            <ui class="search-type">
-                                <li><input hidden="" type="radio" name="type2" id="m_type-wiki" 
-                                    value="https://zh.wikipedia.org/wiki/" 
-                                    data-placeholder="维基百科，自由的百科全书">
-                                    <label for="m_type-wiki"><span  class="text-muted">维基百科</span></label></li>
-                                <li><input hidden="" type="radio" name="type2" id="m_type-ggxs" 
-                                    value="https://scholar.google.com/scholar?q=" 
-                                    data-placeholder="谷歌学术，站在巨人的肩膀上">
-                                    <label for="m_type-ggxs"><span  class="text-muted">谷歌学术</span></label></li>
-                                <li><input hidden="" type="radio" name="type2" id="m_type-bdxs" 
-                                    value="https://xueshu.baidu.com/s?wd=" 
-                                    data-placeholder="百度学术，保持学习的态度">
-                                    <label for="m_type-bdxs"><span  class="text-muted">百度学术</span></label></li>
-                                <li><input hidden="" type="radio" name="type2" id="m_type-etym" 
-                                    value="https://www.etymonline.com/search?q=" 
-                                    data-placeholder="Etymonline | Online Etymology Dictionary">
-                                    <label for="m_type-etym"><span  class="text-muted">在线词源</span></label></li>
-                                <li><input hidden="" type="radio" name="type2" id="m_type-mw" 
-                                    value="https://merriam-webster.com/dictionary/" 
-                                    data-placeholder="Merriam-Webster | America's Most Trusted Dictionary">
-                                    <label for="m_type-mw"><span  class="text-muted">韦氏词典</span></label></li>
-                            </ui>
-                        </div>                       
                     </div>
                     <form action="https://nav.iowen.cn?s=" method="get" target="_blank" class="super-search-fm">
                         <input type="text" id="m_search-text" class="form-control smart-tips search-key" zhannei=""
