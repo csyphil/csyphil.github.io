@@ -83,14 +83,18 @@
       logo: bxm.webp
       url: https://tool.browser.qq.com/
       description: 腾讯在线工具箱平台
+    - title: 微信读书
+      url: https://weread.qq.com/
+      logo: 微信读书.webp
+      description: 和朋友一起读书
+    - title: 可可英语
+      logo: kekeeng.webp
+      url: https://www.kekenet.com/
+      description: 年轻人的英语听说训练平台
     - title: 网易公开课
       logo: open.163.com.webp
       url: https://open.163.com/
       description: 有计划学得更快！
-    - title: 驾考宝典
-      logo: jkbd.webp
-      url: https://shenzhen.jiakaobaodian.com/
-      description: 驾照考试，就用驾考宝典！
     - title: English Level Up
       logo: github.webp
       url: https://github.com/byoungd/English-level-up-tips
@@ -99,10 +103,6 @@
       logo: github.webp
       url: https://github.com/hehonghui/awesome-english-ebooks
       description: 经济学人(含音频)、纽约客、卫报、连线、大西洋月刊等英语杂志免费下载
-    - title: 可可英语
-      logo: kekeeng.webp
-      url: https://www.kekenet.com/
-      description: 年轻人的英语听说训练平台
     - title: Steam
       logo: steam.webp
       url: https://store.steampowered.com/
@@ -115,6 +115,10 @@
       logo: tophub.webp
       url: https://tophub.today/
       description: 追踪全网热点，简单高效阅读
+    - title: 驾考宝典
+      logo: jkbd.webp
+      url: https://shenzhen.jiakaobaodian.com/
+      description: 驾照考试，就用驾考宝典！
     - title: Chrome应用商店
       logo: chrome.webp
       url: https://chromewebstore.google.com/
@@ -150,10 +154,10 @@
       logo: kimi.webp
       url: https://kimi.moonshot.cn/
       description: 帮你看更大的世界
-    - title: 写作蛙
-      logo: 写作蛙.webp
-      url: https://littlefrog.ai/
-      description: 智谱AI推出的免费智能写作工具
+    - title: 腾讯元宝
+      logo: 腾讯元宝.webp
+      url: https://yuanbao.tencent.com/
+      description: 轻松工作，多点生活
     - title: 文心一格
       logo: wenxin.webp
       url: https://yige.baidu.com/
@@ -162,18 +166,18 @@
       logo: tongyi.webp
       url: https://tongyi.aliyun.com/wanxiang/
       description: 一个不断进化的人工智能艺术创作大模型
-    - title: 火山写作
-      logo: 火山写作.webp
-      url: https://www.writingo.net/
-      description: 字节跳动旗下推出的免费AI写作助手
-    - title: 腾讯元宝
-      logo: 腾讯元宝.webp
-      url: https://yuanbao.tencent.com/
-      description: 轻松工作，多点生活
     - title: 讯飞星火
       logo: xfxh.webp
       url: https://xinghuo.xfyun.cn/
       description: 讯飞星火认知大模型-AI大语言模型——星火大模型——科大讯飞
+    - title: 秘塔写作猫
+      logo: 秘塔猫.webp
+      url: https://xiezuocat.com/
+      description: AI写作，文章自成
+    - title: Gemini Pro Chat
+      logo: gemini.webp
+      url: https://gemini-pro.chat/
+      description: 同时理解文字、图像、音频以及更多模态的信息，拥有更为高级的推理、规划、理解等能力
     - title: 百度Chat
       logo: bdchat.webp
       url: https://chat.baidu.com/
@@ -182,18 +186,6 @@
       logo: tongyi.webp
       url: https://tongyi.aliyun.com/farui/chat
       description: 让法律事务更快、更准、更智能
-    - title: 秘塔写作猫
-      logo: 秘塔猫.webp
-      url: https://xiezuocat.com/
-      description: AI写作，文章自成
-    - title: 百小应
-      logo: 百小应.webp
-      url: https://ying.baichuan-ai.com/
-      description: 汇聚世界知识 创作妙笔生花
-    - title: Gemini Pro Chat
-      logo: gemini.webp
-      url: https://gemini-pro.chat/
-      description: 同时理解文字、图像、音频以及更多模态的信息，拥有更为高级的推理、规划、理解等能力
     - title: AI工具箱导航
       logo: amz123.webp
       url: https://www.amz123.com/ai
@@ -798,7 +790,7 @@
         - title: 测速网
           logo: speedtest.cn.webp
           url: https://www.speedtest.cn/
-          description: The Global Broadband Speed Test
+          description: 专业测网速
         - title: FAST
           logo: fast.com.webp
           url: https://fast.com/
@@ -866,10 +858,6 @@
           description: Write Your Best
     - term: 阅读博览
       links:
-        - title: 微信读书
-          url: https://weread.qq.com/
-          logo: 微信读书.webp
-          description: 和朋友一起读书
         - title: 掌阅书城
           url: https://www.ireader.com.cn/
           logo: ireader.webp
