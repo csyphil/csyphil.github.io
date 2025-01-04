@@ -99,6 +99,22 @@
       logo: github.webp
       url: https://github.com/hehonghui/awesome-english-ebooks
       description: 经济学人(含音频)、纽约客、卫报、连线、大西洋月刊等英语杂志免费下载
+    - title: 可可英语
+      logo: kekeeng.webp
+      url: https://www.kekenet.com/
+      description: 年轻人的英语听说训练平台
+    - title: Steam
+      logo: steam.webp
+      url: https://store.steampowered.com/
+      description: 欢迎来到Steam
+    - title: Epic Games
+      logo: epic.webp
+      url: https://store.epicgames.com/zh-CN/
+      description: Epic游戏商城
+    - title: 今日热榜
+      logo: tophub.webp
+      url: https://tophub.today/
+      description: 追踪全网热点，简单高效阅读
     - title: Chrome应用商店
       logo: chrome.webp
       url: https://chromewebstore.google.com/
