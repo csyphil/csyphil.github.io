@@ -40,7 +40,7 @@
       url: https://mail.qq.com/
       description: 常联系
     - title: '12306'
-      logo: 铁路12306.webp
+      logo: 12306.webp
       url: https://www.12306.cn/
       description: 中国铁路官方网站
     - title: HOSTLOC
@@ -58,7 +58,7 @@
     - title: 我爱卡论坛
       logo: wak.webp
       url: https://bbs.51credit.com/
-      description: 发水了，快冲！
+      description: 信用卡持卡人的交流平台
     - title: 飞客茶馆
       logo: flyert.webp
       url: https://www.flyert.com/
