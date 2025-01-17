@@ -130,38 +130,34 @@
       logo: chatgpt.webp
       url: https://chat.openai.com/
       description: Your AI assistant for every need
-    - title: Bing Copilot
-      logo: bing.webp
-      url: https://www.bing.com/
-      description: Your AI-powered everyday companion
-    - title: 智谱清言
-      logo: zpqy.webp
-      url: https://chatglm.cn/
-      description: 连接人与知识
-    - title: 文心一言
-      logo: wenxin.webp
-      url: https://yiyan.baidu.com/
-      description: 百度推出的AI大模型
-    - title: 通义千问
-      logo: tongyi.webp
-      url: https://tongyi.aliyun.com/qianwen/
-      description: 阿里推出的一个不断进化的AI大模型
     - title: 豆包
       logo: doubao.webp
       url: https://www.doubao.com/
       description: 抖音旗下AI智能助手
+    - title: 智谱清言
+      logo: zpqy.webp
+      url: https://chatglm.cn/
+      description: 连接人与知识
+    - title: 通义千问
+      logo: tongyi.webp
+      url: https://tongyi.aliyun.com/qianwen/
+      description: 阿里推出的一个不断进化的AI大模型
     - title: Kimi.ai
       logo: kimi.webp
       url: https://kimi.moonshot.cn/
       description: 帮你看更大的世界
+    - title: Microsoft Copilot
+      logo: copilot.webp
+      url: https://copilot.microsoft.com/
+      description: Your AI-powered everyday companion
     - title: 腾讯元宝
       logo: 腾讯元宝.webp
       url: https://yuanbao.tencent.com/
       description: 轻松工作，多点生活
-    - title: 文心一格
-      logo: wenxin.webp
-      url: https://yige.baidu.com/
-      description: AI艺术和创意辅助平台
+    - title: DeepSeek
+      logo: deepseek.webp
+      url: https://www.deepseek.com/
+      description: 探索未至之境
     - title: 通义万相
       logo: tongyi.webp
       url: https://tongyi.aliyun.com/wanxiang/
@@ -170,14 +166,14 @@
       logo: xfxh.webp
       url: https://xinghuo.xfyun.cn/
       description: 讯飞星火认知大模型-AI大语言模型——星火大模型——科大讯飞
-    - title: 秘塔写作猫
-      logo: 秘塔猫.webp
-      url: https://xiezuocat.com/
-      description: AI写作，文章自成
-    - title: Gemini Pro Chat
-      logo: gemini.webp
-      url: https://gemini-pro.chat/
-      description: 同时理解文字、图像、音频以及更多模态的信息，拥有更为高级的推理、规划、理解等能力
+    - title: 文心一言
+      logo: wenxin.webp
+      url: https://yiyan.baidu.com/
+      description: 百度推出的AI大模型
+    - title: 文心一格
+      logo: wenxin.webp
+      url: https://yige.baidu.com/
+      description: AI艺术和创意辅助平台
     - title: 百度Chat
       logo: bdchat.webp
       url: https://chat.baidu.com/
@@ -186,6 +182,18 @@
       logo: tongyi.webp
       url: https://tongyi.aliyun.com/farui/chat
       description: 让法律事务更快、更准、更智能
+    - title: 秘塔写作猫
+      logo: 秘塔猫.webp
+      url: https://xiezuocat.com/
+      description: AI写作，文章自成
+    - title: Gemini
+      logo: gemini.webp
+      url: https://gemini.google.com/
+      description: 轻松对话，获取创意灵感
+    - title: Claude
+      logo: claude.webp
+      url: https://claude.ai/
+      description: Your ideas, amplified
     - title: AI工具箱导航
       logo: amz123.webp
       url: https://www.amz123.com/ai
