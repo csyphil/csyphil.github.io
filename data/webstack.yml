@@ -213,34 +213,34 @@
       logo: chatgpt.webp
       url: https://chat.openai.com/
       description: Your AI assistant for every need
+    - title: DeepSeek
+      logo: deepseek.webp
+      url: https://chat.deepseek.com/
+      description: 探索未至之境
     - title: 豆包
       logo: doubao.webp
       url: https://www.doubao.com/
       description: 抖音旗下AI智能助手
-    - title: 智谱清言
-      logo: zpqy.webp
-      url: https://chatglm.cn/
-      description: 连接人与知识
     - title: 通义千问
       logo: tongyi.webp
       url: https://tongyi.aliyun.com/qianwen/
       description: 阿里推出的一个不断进化的AI大模型
+    - title: 智谱清言
+      logo: zpqy.webp
+      url: https://chatglm.cn/
+      description: 连接人与知识
     - title: Kimi.ai
       logo: kimi.webp
       url: https://kimi.moonshot.cn/
       description: 帮你看更大的世界
-    - title: Microsoft Copilot
-      logo: copilot.webp
-      url: https://copilot.microsoft.com/
-      description: Your AI-powered everyday companion
     - title: 腾讯元宝
       logo: 腾讯元宝.webp
       url: https://yuanbao.tencent.com/
       description: 轻松工作，多点生活
-    - title: DeepSeek
-      logo: deepseek.webp
-      url: https://www.deepseek.com/
-      description: 探索未至之境
+    - title: Microsoft Copilot
+      logo: copilot.webp
+      url: https://copilot.microsoft.com/
+      description: Your AI-powered everyday companion
     - title: 通义万相
       logo: tongyi.webp
       url: https://tongyi.aliyun.com/wanxiang/
@@ -269,14 +269,14 @@
       logo: 秘塔猫.webp
       url: https://xiezuocat.com/
       description: AI写作，文章自成
-    - title: Gemini
-      logo: gemini.webp
-      url: https://gemini.google.com/
-      description: 轻松对话，获取创意灵感
     - title: Claude
       logo: claude.webp
       url: https://claude.ai/
       description: Your ideas, amplified
+    - title: Gemini
+      logo: gemini.webp
+      url: https://gemini.google.com/
+      description: 轻松对话，获取创意灵感
     - title: AI工具箱导航
       logo: amz123.webp
       url: https://www.amz123.com/ai
@@ -288,22 +288,22 @@
 - taxonomy: 影音视听
   icon: fa-solid fa-photo-film
   links:
-    - title: 爱奇艺
-      logo: 爱奇艺.webp
-      url: https://www.iqiyi.com/
-      description: 悦享品质
     - title: 腾讯视频
       logo: 腾讯视频.webp
       url: https://v.qq.com/
       description: 不负好时光
+    - title: 爱奇艺
+      logo: 爱奇艺.webp
+      url: https://www.iqiyi.com/
+      description: 悦享品质
+    - title: 优酷
+      logo: 优酷.webp
+      url: https://www.youku.com/
+      description: 这世界很酷
     - title: 芒果TV
       logo: mgtv.webp
       url: https://www.mgtv.com/
       description: 天生青春
-    - title: 优酷
-      logo: 优酷.webp
-      url: https://www.youku.com/
-      description: 为好内容全力以赴
     - title: 西瓜视频
       logo: ixigua.webp
       url: https://www.ixigua.com/
@@ -324,10 +324,10 @@
       logo: migu.webp
       url: https://www.miguvideo.com/
       description: 让今天更有趣
-    - title: AcFun
-      logo: acfun.webp
-      url: https://www.acfun.cn/
-      description: 认真你就输啦
+    - title: 乐视视频
+      logo: le.webp
+      url: https://www.le.com/
+      description: 就视不一样
     - title: QQ音乐
       logo: qqmusic.webp
       url: https://y.qq.com/
