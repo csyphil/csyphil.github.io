@@ -211,7 +211,7 @@
   links: 
     - title: ChatGPT
       logo: chatgpt.webp
-      url: https://chat.openai.com/
+      url: https://chatgpt.com/
       description: Your AI assistant for every need
     - title: DeepSeek
       logo: deepseek.webp
@@ -219,16 +219,16 @@
       description: 探索未至之境
     - title: 豆包
       logo: doubao.webp
-      url: https://www.doubao.com/
+      url: https://www.doubao.com/chat/
       description: 抖音旗下AI智能助手
     - title: 通义千问
       logo: tongyi.webp
       url: https://tongyi.aliyun.com/qianwen/
       description: 阿里推出的一个不断进化的AI大模型
-    - title: 智谱清言
-      logo: zpqy.webp
-      url: https://chatglm.cn/
-      description: 连接人与知识
+    - title: 讯飞星火
+      logo: xfxh.webp
+      url: https://xinghuo.xfyun.cn/
+      description: 讯飞星火认知大模型-AI大语言模型——星火大模型——科大讯飞
     - title: Kimi.ai
       logo: kimi.webp
       url: https://kimi.moonshot.cn/
@@ -237,18 +237,18 @@
       logo: 腾讯元宝.webp
       url: https://yuanbao.tencent.com/
       description: 轻松工作，多点生活
-    - title: Microsoft Copilot
-      logo: copilot.webp
-      url: https://copilot.microsoft.com/
-      description: Your AI-powered everyday companion
+    - title: 智谱清言
+      logo: zpqy.webp
+      url: https://chatglm.cn/
+      description: 连接人与知识
     - title: 通义万相
       logo: tongyi.webp
       url: https://tongyi.aliyun.com/wanxiang/
       description: 一个不断进化的人工智能艺术创作大模型
-    - title: 讯飞星火
-      logo: xfxh.webp
-      url: https://xinghuo.xfyun.cn/
-      description: 讯飞星火认知大模型-AI大语言模型——星火大模型——科大讯飞
+    - title: 秘塔写作猫
+      logo: 秘塔猫.webp
+      url: https://xiezuocat.com/
+      description: AI写作，文章自成
     - title: 文心一言
       logo: wenxin.webp
       url: https://yiyan.baidu.com/
@@ -265,10 +265,10 @@
       logo: tongyi.webp
       url: https://tongyi.aliyun.com/farui/chat
       description: 让法律事务更快、更准、更智能
-    - title: 秘塔写作猫
-      logo: 秘塔猫.webp
-      url: https://xiezuocat.com/
-      description: AI写作，文章自成
+    - title: Microsoft Copilot
+      logo: copilot.webp
+      url: https://copilot.microsoft.com/
+      description: Your AI-powered everyday companion
     - title: Claude
       logo: claude.webp
       url: https://claude.ai/
