@@ -403,15 +403,15 @@
     - title: BBC中文网
       logo: BBC.webp
       url: https://www.bbc.com/zhongwen/simp
-    - title: 日本经济中文网
-      logo: 日经.webp
-      url: https://cn.nikkei.com/
     - title: 法广中文网
       logo: RFI.webp
       url: https://www.rfi.fr/cn/
     - title: 德国之声中文网
       logo: DW.webp
       url: https://www.dw.com/zh/
+    - title: 日本经济中文网
+      logo: 日经.webp
+      url: https://cn.nikkei.com/
 - taxonomy: 工作办公
   icon: fa-solid fa-briefcase
   list:
