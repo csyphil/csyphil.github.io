@@ -415,6 +415,9 @@
     - title: 德国之声中文网
       logo: DW.webp
       url: https://www.dw.com/zh/
+    - title: 新加坡联合早报
+      logo: lianhezaobao.webp
+      url: https://www.zaobao.com.sg/global
     - title: 日本经济中文网
       logo: nikkei.webp
       url: https://cn.nikkei.com/
@@ -1009,7 +1012,7 @@
     - title: 交通银行
       logo: bankcomm.webp
       url: https://www.bankcomm.com/
-      description: 人生如棋，由我左右
+      description: 交流融通，诚信永恒
     - title: 邮储银行
       logo: psbc.webp
       url: https://www.psbc.com/
@@ -1061,7 +1064,7 @@
     - title: 宁波银行
       logo: nbcb.webp
       url: https://www.nbcb.com.cn/
-      description: 专业创造价值
+      description: 专业予行，专注予心
     - title: 浙商银行
       logo: czbank.webp
       url: https://www.czbank.com/
