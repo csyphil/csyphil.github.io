@@ -112,8 +112,3 @@ footer.main-footer .footer-text a:hover {
 #search-bg {
     background-color: #1b1d1f; /* 设置搜索框背景颜色与主体一致 */
 }
-/* 测试搜索热词 */
-.first-suggestion { border-top: none; }
-.second-suggestion span { color: #fff; background: #ff8547; }
-.third-suggestion span { color: #fff; background: #ffac38; }
-.highlight { background-color: #f1f1f1; }
