@@ -246,7 +246,7 @@
       url: https://tongyi.aliyun.com/wanxiang/
       description: 一个不断进化的人工智能艺术创作大模型
     - title: 秘塔写作猫
-      logo: xiezuocat.webp
+      logo: mita.webp
       url: https://xiezuocat.com/
       description: AI写作，文章自成
     - title: 文心一言
@@ -265,18 +265,42 @@
       logo: tongyi.webp
       url: https://tongyi.aliyun.com/farui/chat
       description: 让法律事务更快、更准、更智能
-    - title: Microsoft Copilot
-      logo: copilot.webp
-      url: https://copilot.microsoft.com/
-      description: Your AI-powered everyday companion
-    - title: Claude
-      logo: claude.webp
-      url: https://claude.ai/
-      description: Your ideas, amplified
+    - title: 秘塔AI搜索
+      logo: mita.webp
+      url: https://metaso.cn/
+      description: 没有广告，直达结果
     - title: Gemini
       logo: gemini.webp
       url: https://gemini.google.com/
       description: 轻松对话，获取创意灵感
+    - title: Claude
+      logo: claude.webp
+      url: https://claude.ai/
+      description: Your ideas, amplified
+    - title: Microsoft Copilot
+      logo: copilot.webp
+      url: https://copilot.microsoft.com/
+      description: Your AI-powered everyday 
+    - title: Grok
+      logo: grok.webp
+      url: https://grok.com/
+      description: 用于理解宇宙的对话式人工智能
+    - title: Perplexity
+      logo: perplexity.webp
+      url: https://www.perplexity.ai/
+      description: 知识开始的地方
+    - title: Sora
+      logo: sora.webp
+      url: https://sora.com/explore
+      description: Sora 是一个可以根据文本指令创建现实和富有想象力的场景的 AI 模型
+    - title: Midjourney
+      logo: midjourney.webp
+      url: https://www.midjourney.com/home
+      description: 释放你的想象力，用 AI 绘制无限可能
+    - title: Suno
+      logo: suno.webp
+      url: https://suno.com/home
+      description: AI 开启音乐梦想之旅
     - title: AI工具箱导航
       logo: amz123.webp
       url: https://www.amz123.com/ai
