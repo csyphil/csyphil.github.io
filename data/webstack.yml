@@ -677,6 +677,9 @@
           logo: bangongziyuan.webp
           url: https://www.bangongziyuan.com/
           description: 海量办公素材可供下载
+        - title: 图怪兽
+          logo: 818ps.webp
+          url: https://818ps.com/
         - title: 路过图床
           logo: imgse.webp
           url: https://imgse.com/
@@ -725,6 +728,11 @@
     - title: ilovePDF
       logo: ilovepdf.webp
       url: https://www.ilovepdf.com/zh-cn
+      description: 完全免费、易于使用、丰富的PDF处理工具
+    - title: PDF 24 TOOLS
+      logo: pdf24.webp
+      url: https://tools.pdf24.org/zh/
+      description: 免费且易于使用的在线PDF工具
     - title: Small PDF
       logo: smallpdf.webp
       url: https://smallpdf.com/cn
@@ -734,10 +742,6 @@
     - title: Light PDF
       logo: lightpdf.webp
       url: https://lightpdf.com/
-    - title: ezgif
-      url: https://ezgif.com
-      logo: ezgif.webp
-      description: Simple online GIF maker and toolset for basic animated GIF editing
     - title: Office-Converter
       logo: office-converter.webp
       url: https://cn.office-converter.com/
@@ -750,9 +754,10 @@
     - title: Online Convert Free
       logo: onlineconvertfree.webp
       url: https://onlineconvertfree.com/zh/
-    - title: 图怪兽
-      logo: 818ps.webp
-      url: https://818ps.com/
+    - title: ezgif
+      url: https://ezgif.com
+      logo: ezgif.webp
+      description: Simple online GIF maker and toolset for basic animated GIF editing
 - taxonomy: 网站服务
   icon: fa-solid fa-server
   list:
@@ -858,6 +863,14 @@
           logo: linshi.webp
           url: https://who.cx/
           description: Whois查询
+        - title: TLD-LIST
+          logo: tld-list.webp
+          url: https://zh-hans.tld-list.com/
+          description: 比较所有顶级域名的价格
+        - title: 哪煮米
+          logo: nazhumi.webp
+          url: https://www.nazhumi.com/
+          description: 一站式比较域名后缀及服务商价格
     - term: 站长博客
       icon: fas fa-blog
       links:
@@ -955,6 +968,10 @@
           logo: yhjf.webp
           url: https://sesme.lylares.com/
           description: 可输入文字图片emoji
+        - title: 周报生成器
+          logo: weeklyreport.webp
+          url: https://weeklyreport.avemaria.fun/zh
+          description: 简单描述工作内容，帮你生成完整周报
 - taxonomy: 政府部门         
   icon: fa-solid fa-user-tie
   links:
