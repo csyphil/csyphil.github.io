@@ -103,6 +103,26 @@
       logo: github.webp
       url: https://github.com/hehonghui/awesome-english-ebooks
       description: 经济学人(含音频)、纽约客、卫报、连线、大西洋月刊等英语杂志免费下载
+    - title: 下一本读什么
+      logo: xiayibendushenme.webp
+      url: https://xiayibendushenme.com/
+      description: 书单推荐、经典图书推荐、经典句子、摘抄段落
+    - title: 快捷键备忘录
+      logo: hotkey.webp
+      url: https://hotkeycheatsheet.com/zh
+      description: 通过提供常用快捷键的快速访问来帮助用户提高生产力
+    - title: 路由器CPU性能排行
+      logo: jamcz.webp
+      url: https://www.jamcz.com/router/
+      description: 通过SSH测试硬路由aes-256-gcm多核加解密性能
+    - title: TOPCPU
+      logo: topcpu.webp
+      url: https://www.topcpu.net/
+      description: CPU和GPU的规格对比和性能评级
+    - title: 盘搜VIP
+      logo: pansou.webp
+      url: https://www.pansou.vip/
+      description: 人工亲测精选的网盘搜索工具导航
     - title: Steam
       logo: steam.webp
       url: https://store.steampowered.com/
@@ -677,6 +697,10 @@
           logo: bangongziyuan.webp
           url: https://www.bangongziyuan.com/
           description: 海量办公素材可供下载
+        - title: 稿定设计
+          url: https://www.gaoding.com
+          logo: gaoding.webp
+          description: 作图做视频必备
         - title: 图怪兽
           logo: 818ps.webp
           url: https://818ps.com/
@@ -699,6 +723,10 @@
     - title: Removebg(去除背景)
       logo: remove.bg.webp
       url: https://www.remove.bg/zh
+    - title: BgSub
+      logo: bgsub.webp
+      url: https://zh.bgsub.com/webapp/
+      description: 消除或替换图像背景
     - title: iLoveIMG
       logo: iloveimg.webp
       url: https://www.iloveimg.com/zh-cn
@@ -709,10 +737,6 @@
     - title: BigJPG
       logo: bigjpg.webp
       url: https://bigjpg.com/
-    - title: 稿定设计
-      url: https://www.gaoding.com
-      logo: gaoding.webp
-      description: 作图做视频必备
     - title: All to all
       logo: all2all.webp
       url: https://www.alltoall.net/
