@@ -704,6 +704,7 @@
         - title: 图怪兽
           logo: 818ps.webp
           url: https://818ps.com/
+          description: 会打字就能用
         - title: 路过图床
           logo: imgse.webp
           url: https://imgse.com/
@@ -720,9 +721,11 @@
     - title: Squoosh-图片处理
       logo: squoosh.webp
       url: https://squoosh.app/
+      description: Compress and compare images with ease
     - title: Removebg(去除背景)
       logo: remove.bg.webp
       url: https://www.remove.bg/zh
+      description: Remove Image Backgrounds 100% Automatically in 5 Seconds
     - title: BgSub
       logo: bgsub.webp
       url: https://zh.bgsub.com/webapp/
@@ -804,7 +807,7 @@
         - title: Cloudflare
           logo: cloudflare.webp
           url: https://dash.cloudflare.com/
-          description: 为云而建的全球性网络
+          description: Helping build a better Internet
         - title: Vercel
           logo: vercel.webp
           url: https://vercel.com/
@@ -868,6 +871,10 @@
           logo: fast.com.webp
           url: https://fast.com/
           description: Internet speed test
+        - title: SKK IP查询
+          logo: ipskk.webp
+          url: https://ip.skk.moe/
+          description: IP地址、连通性、CDN、DNS查询
         - title: DNS Leak Test
           logo: dnsleaktest.webp
           url: https://browserleaks.com/dns
