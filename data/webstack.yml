@@ -103,26 +103,6 @@
       logo: github.webp
       url: https://github.com/hehonghui/awesome-english-ebooks
       description: 经济学人(含音频)、纽约客、卫报、连线、大西洋月刊等英语杂志免费下载
-    - title: 下一本读什么
-      logo: xiayibendushenme.webp
-      url: https://xiayibendushenme.com/
-      description: 书单推荐、经典图书推荐、经典句子、摘抄段落
-    - title: 快捷键备忘录
-      logo: hotkey.webp
-      url: https://hotkeycheatsheet.com/zh
-      description: 通过提供常用快捷键的快速访问来帮助用户提高生产力
-    - title: 路由器CPU性能排行
-      logo: jamcz.webp
-      url: https://www.jamcz.com/router/
-      description: 通过SSH测试硬路由aes-256-gcm多核加解密性能
-    - title: TOPCPU
-      logo: topcpu.webp
-      url: https://www.topcpu.net/
-      description: CPU和GPU的规格对比和性能评级
-    - title: 盘搜VIP
-      logo: pansou.webp
-      url: https://www.pansou.vip/
-      description: 人工亲测精选的网盘搜索工具导航
     - title: Steam
       logo: steam.webp
       url: https://store.steampowered.com/
@@ -143,6 +123,14 @@
       logo: chrome.webp
       url: https://chromewebstore.google.com/
       description: Chrome拓展应用商店
+    - title: 快捷键备忘录
+      logo: hotkey.webp
+      url: https://hotkeycheatsheet.com/zh
+      description: 通过提供常用快捷键的快速访问来帮助用户提高生产力
+    - title: 盘搜VIP
+      logo: pansou.webp
+      url: https://www.pansou.vip/
+      description: 人工亲测精选的网盘搜索工具导航
 - taxonomy: 社媒平台
   icon: fa-regular fa-comments
   links:
@@ -919,29 +907,6 @@
         - title: 笨猫博客
           logo: nbmao.webp
           url: https://www.nbmao.com/
-- taxonomy: 翻译写作
-  icon: fa-solid fa-language
-  links:
-    - title: 有道词典
-      logo: youdao.webp
-      url: https://fanyi.youdao.com/
-      description: 免费，即时的多语种在线翻译
-    - title: 谷歌翻译
-      logo: googletranslate.webp
-      url: https://translate.google.com.hk/
-      description: 谷歌翻译
-    - title: 金山词霸
-      logo: iciba.webp
-      url: https://www.iciba.com/
-      description: 老师最推荐的翻译
-    - title: DeepL
-      logo: deepl.webp
-      url: https://www.deepl.com/translator
-      description: 全世界最准确的翻译
-    - title: Grammarly
-      logo: grammarly.webp
-      url: https://app.grammarly.com/
-      description: Write Your Best
 - taxonomy: 工具资源
   icon: fa-regular fa-folder-open
   list: 
