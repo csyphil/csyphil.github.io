@@ -545,26 +545,6 @@
           logo: tutamail.webp
           url: https://app.tuta.com/mail/
           description: 最佳电子邮件服务：端到端加密且无广告
-        - title: 网易163邮箱
-          logo: 163.webp
-          url: https://mail.163.com/
-          description: 你的专业电子邮局
-        - title: 新浪邮箱
-          logo: sinamail.webp
-          url: https://mail.sina.com.cn/
-          description: 一切由你开始
-        - title: 搜狐邮箱
-          logo: sohumail.webp
-          url: https://mail.sohu.com/
-          description: 搜狐闪电邮箱
-        - title: 阿里邮箱
-          logo: alimail.webp
-          url: https://mail.aliyun.com/
-          description: 随时随地收发邮件，高效沟通，办公轻松
-        - title: ZohoMail
-          logo: zohomail.webp
-          url: https://mail.zoho.com/zm/
-          description: 纯净安全的企业邮箱
         - title: 电信189邮箱
           logo: 189mail.webp
           url: https://mail.189.cn/
@@ -577,6 +557,10 @@
           logo: womail.webp
           url: https://mail.wo.cn/
           description: 让沟通更简单
+        - title: ZohoMail
+          logo: zohomail.webp
+          url: https://mail.zoho.com/zm/
+          description: 纯净安全的企业邮箱
         - title: Kakao Mail
           logo: kakaomail.webp
           url: https://mail.kakao.com/
@@ -890,23 +874,6 @@
           logo: nazhumi.webp
           url: https://www.nazhumi.com/
           description: 一站式比较域名后缀及服务商价格
-    - term: 站长博客
-      icon: fas fa-blog
-      links:
-        - title: Lovestu.com
-          logo: lovestu.webp
-          url: https://www.lovestu.com/
-          description: CorePress主题开发者
-        - title: Tangly's Blog
-          logo: tangly.webp
-          url: https://tangly1024.com/
-          description: Notion-next开发者
-        - title: 大鸟博客
-          logo: daniao.webp
-          url: https://www.daniao.org/
-        - title: 笨猫博客
-          logo: nbmao.webp
-          url: https://www.nbmao.com/
 - taxonomy: 工具资源
   icon: fa-regular fa-folder-open
   list: 
