@@ -423,39 +423,6 @@
       logo: ly.webp
       url: https://www.ly.com/
       description: 再出发，就同程
-- taxonomy: 新闻媒体
-  icon: fa-regular fa-newspaper
-  links: 
-    - title: 新华网
-      logo: xhw.webp
-      url: https://www.news.cn/
-    - title: 财新网
-      logo: cxw.webp
-      url: https://www.caixin.com/
-    - title: 纽约时报中文网
-      logo: NYT.webp
-      url: https://cn.nytimes.com/
-    - title: 华尔街日报中文网
-      logo: WSJ.webp
-      url: https://cn.wsj.com/
-    - title: BBC中文网
-      logo: BBC.webp
-      url: https://www.bbc.com/zhongwen/simp
-    - title: 法广中文网
-      logo: RFI.webp
-      url: https://www.rfi.fr/cn/
-    - title: 德国之声中文网
-      logo: DW.webp
-      url: https://www.dw.com/zh/
-    - title: 新加坡联合早报
-      logo: lianhezaobao.webp
-      url: https://www.zaobao.com.sg/global
-    - title: 日本经济中文网
-      logo: nikkei.webp
-      url: https://cn.nikkei.com/
-    - title: 朝鲜日报中文版
-      logo: cxrb.webp
-      url: https://cnnews.chosun.com/
 - taxonomy: 电子邮箱
   icon: fa-solid fa-at
   links: 
