@@ -456,6 +456,112 @@
     - title: 朝鲜日报中文版
       logo: cxrb.webp
       url: https://cnnews.chosun.com/
+- taxonomy: 电子邮箱
+  icon: fa-solid fa-at
+  links: 
+    - title: Outlook
+      logo: outlook.webp
+      url: https://www.outlook.com/
+      description: 来自Microsoft的个人免费邮件和日历
+    - title: Yahoo邮箱
+      logo: yahoo.webp
+      url: https://mail.yahoo.com/
+      description: 体验一流的 Yahoo 邮箱
+    - title: iCloud邮箱
+      logo: iCloudMail.webp
+      url: https://www.icloud.com/mail
+      description: 由 Apple 提供的私密、安全且个性化的电子邮件服务
+    - title: ProtonMail
+      logo: protonmail.webp
+      url: https://protonmail.com/zh-Hans/
+      description: 保护您隐私的安全电子邮件
+    - title: TutaMail
+      logo: tutamail.webp
+      url: https://app.tuta.com/mail/
+      description: 最佳电子邮件服务：端到端加密且无广告
+    - title: 电信189邮箱
+      logo: 189mail.webp
+      url: https://mail.189.cn/
+      description: 爱简单 
+    - title: 移动139邮箱
+      logo: 139mail.webp
+      url: https://mail.10086.cn/
+      description: 手机号就是邮箱号
+    - title: 联通沃邮箱
+      logo: womail.webp
+      url: https://mail.wo.cn/
+      description: 让沟通更简单
+    - title: ZohoMail
+      logo: zohomail.webp
+      url: https://mail.zoho.com/zm/
+      description: 纯净安全的企业邮箱
+    - title: Kakao Mail
+      logo: kakaomail.webp
+      url: https://mail.kakao.com/
+      description: 连接一切
+    - title: 10MinsMail
+      logo: mail.webp
+      url: https://10minutemail.com/?lang=zh
+      description: 用最好的一次性电子邮件服务击退垃圾邮件
+    - title: rootsh
+      logo: rootsh.com.webp
+      url: https://rootsh.com/
+      description: 临时邮箱、十分钟邮箱
+    - title: mail.td
+      logo: mail.td.webp
+      url: https://mail.td/zh
+      description: 一次性临时邮件电子服务
+    - title: Vmail
+      logo: vmail.webp
+      url: https://vmail.dev/
+      description: 虚拟临时邮箱
+    - title: Temp Mail 100
+      logo: tempmail100.webp
+      url: https://tempmail100.com/zh-cn/
+      description: 安全且匿名的电子邮件服务
+- taxonomy: 网络云盘
+  icon: fa-brands fa-google-drive
+  links:
+    - title: 百度云盘
+      logo: bddisk.webp
+      url: https://pan.baidu.com/
+      description: 记录每一份热爱，让美好永远陪伴
+    - title: 阿里云盘
+      logo: alipan.webp
+      url: https://www.alipan.com/
+      description: 阿里云盘，你的数字世界
+    - title: 腾讯微云
+      logo: weiyun.webp
+      url: https://www.weiyun.com/
+      description: 智能云盘
+    - title: 123云盘
+      logo: www.123pan.com.webp
+      url: https://www.123pan.com/
+      description: 免登录，不限速
+    - title: OneDrive
+      logo: OneDrive.webp
+      url: https://onedrive.live.com/
+      description: 通过 OneDrive 安全地保存和共享重要内容
+    - title: 天翼云盘
+      logo: tydisk.webp
+      url: https://cloud.189.cn/
+      description: 家庭云|网盘|文件备份|资源分享
+    - title: 中国移动云盘
+      logo: yddisk.webp
+      url: https://yun.139.com/
+      description: 不限速免流量的云盘
+    - title: 联通云盘
+      logo: wodisk.webp
+      url: https://pan.wo.cn/
+      description: 开启美好时光|不限速
+    - title: 坚果云
+      logo: jianguoyun.webp
+      url: https://www.jianguoyun.com/
+      description: 坚果云官网
+    - title: 115网盘
+      logo: 115disk.webp
+      url: https://115.com/
+      description: 115生活，一生相伴
 - taxonomy: 工作办公
   icon: fa-solid fa-briefcase
   list:
@@ -523,110 +629,6 @@
           logo: yuque.webp
           url: https://www.yuque.com/
           description: 用语雀，为每一个人提供优秀的文档和知识库工具
-    - term: 邮箱
-      links: 
-        - title: Outlook
-          logo: outlook.webp
-          url: https://www.outlook.com/
-          description: 来自Microsoft的个人免费邮件和日历
-        - title: Yahoo邮箱
-          logo: yahoo.webp
-          url: https://mail.yahoo.com/
-          description: 体验一流的 Yahoo 邮箱
-        - title: iCloud邮箱
-          logo: iCloudMail.webp
-          url: https://www.icloud.com/mail
-          description: 由 Apple 提供的私密、安全且个性化的电子邮件服务
-        - title: ProtonMail
-          logo: protonmail.webp
-          url: https://protonmail.com/zh-Hans/
-          description: 保护您隐私的安全电子邮件
-        - title: TutaMail
-          logo: tutamail.webp
-          url: https://app.tuta.com/mail/
-          description: 最佳电子邮件服务：端到端加密且无广告
-        - title: 电信189邮箱
-          logo: 189mail.webp
-          url: https://mail.189.cn/
-          description: 爱简单 
-        - title: 移动139邮箱
-          logo: 139mail.webp
-          url: https://mail.10086.cn/
-          description: 手机号就是邮箱号
-        - title: 联通沃邮箱
-          logo: womail.webp
-          url: https://mail.wo.cn/
-          description: 让沟通更简单
-        - title: ZohoMail
-          logo: zohomail.webp
-          url: https://mail.zoho.com/zm/
-          description: 纯净安全的企业邮箱
-        - title: Kakao Mail
-          logo: kakaomail.webp
-          url: https://mail.kakao.com/
-          description: 连接一切
-        - title: 10MinsMail
-          logo: mail.webp
-          url: https://10minutemail.com/?lang=zh
-          description: 用最好的一次性电子邮件服务击退垃圾邮件
-        - title: rootsh
-          logo: rootsh.com.webp
-          url: https://rootsh.com/
-          description: 临时邮箱、十分钟邮箱
-        - title: mail.td
-          logo: mail.td.webp
-          url: https://mail.td/zh
-          description: 一次性临时邮件电子服务
-        - title: Vmail
-          logo: vmail.webp
-          url: https://vmail.dev/
-          description: 虚拟临时邮箱
-        - title: Temp Mail 100
-          logo: tempmail100.webp
-          url: https://tempmail100.com/zh-cn/
-          description: 安全且匿名的电子邮件服务
-    - term: 云盘
-      links:
-        - title: 百度云盘
-          logo: bddisk.webp
-          url: https://pan.baidu.com/
-          description: 记录每一份热爱，让美好永远陪伴
-        - title: 阿里云盘
-          logo: alipan.webp
-          url: https://www.alipan.com/
-          description: 阿里云盘，你的数字世界
-        - title: 腾讯微云
-          logo: weiyun.webp
-          url: https://www.weiyun.com/
-          description: 智能云盘
-        - title: 123云盘
-          logo: www.123pan.com.webp
-          url: https://www.123pan.com/
-          description: 免登录，不限速
-        - title: OneDrive
-          logo: OneDrive.webp
-          url: https://onedrive.live.com/
-          description: 通过 OneDrive 安全地保存和共享重要内容
-        - title: 天翼云盘
-          logo: tydisk.webp
-          url: https://cloud.189.cn/
-          description: 家庭云|网盘|文件备份|资源分享
-        - title: 中国移动云盘
-          logo: yddisk.webp
-          url: https://yun.139.com/
-          description: 不限速免流量的云盘
-        - title: 联通云盘
-          logo: wodisk.webp
-          url: https://pan.wo.cn/
-          description: 开启美好时光|不限速
-        - title: 坚果云
-          logo: jianguoyun.webp
-          url: https://www.jianguoyun.com/
-          description: 坚果云官网
-        - title: 115网盘
-          logo: 115disk.webp
-          url: https://115.com/
-          description: 115生活，一生相伴
     - term: 办公资源
       links:
         - title: OfficePLUS
