@@ -430,19 +430,19 @@
       logo: outlook.webp
       url: https://www.outlook.com/
       description: 来自Microsoft的个人免费邮件和日历
-    - title: Yahoo邮箱
+    - title: Yahoo Mail
       logo: yahoo.webp
       url: https://mail.yahoo.com/
       description: 体验一流的 Yahoo 邮箱
-    - title: iCloud邮箱
+    - title: iCloud Mail
       logo: iCloudMail.webp
       url: https://www.icloud.com/mail
       description: 由 Apple 提供的私密、安全且个性化的电子邮件服务
-    - title: ProtonMail
+    - title: Proton Mail
       logo: protonmail.webp
       url: https://protonmail.com/zh-Hans/
       description: 保护您隐私的安全电子邮件
-    - title: TutaMail
+    - title: Tuta Mail
       logo: tutamail.webp
       url: https://app.tuta.com/mail/
       description: 最佳电子邮件服务：端到端加密且无广告
@@ -458,7 +458,7 @@
       logo: womail.webp
       url: https://mail.wo.cn/
       description: 让沟通更简单
-    - title: ZohoMail
+    - title: Zoho Mail
       logo: zohomail.webp
       url: https://mail.zoho.com/zm/
       description: 纯净安全的企业邮箱
