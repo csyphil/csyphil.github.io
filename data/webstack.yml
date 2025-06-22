@@ -753,6 +753,13 @@
           logo: netlify.webp
           url: https://www.netlify.com/
           description: Bring it all together.
+        - title: 全球VPS数据库
+          logo: vpsdb.webp
+          url: https://db.vps69.com/
+        - title: Downdetector
+          logo: downdetector.webp
+          url: https://downdetector.com/
+          description: 查看全球服务宕机事件
         - title: Namesilo
           logo: namesilo.webp
           url: https://www.namesilo.com/
@@ -761,6 +768,18 @@
           logo: dynadot.webp
           url: https://www.dynadot.com/zh/
           description: A super-powered domain marketplace
+        - title: Namecheap
+          logo: namecheap.webp
+          url: https://www.namecheap.com/
+          description: Empowering you with affordable domains & hosting
+        - title: Spaceship
+          logo: spaceship.webp
+          url: https://www.spaceship.com/zh/
+          description: Powerful tools for developers and creators
+        - title: Porkbun
+          logo: porkbun.webp
+          url: https://porkbun.com/
+          description: An oddly satisfying experience
         - title: Freenom
           logo: freenom.webp
           url: https://my.freenom.com/clientarea.php?action=domains
@@ -820,13 +839,6 @@
           logo: ipleak.webp
           url: https://ipleak.net/
           description: IP/DNS检测
-        - title: 全球VPS数据库
-          logo: vpsdb.webp
-          url: https://db.vps69.com/
-        - title: Downdetector
-          logo: downdetector.webp
-          url: https://downdetector.com/
-          description: 查看全球服务宕机事件
         - title: Who.cx
           logo: linshi.webp
           url: https://who.cx/
