@@ -489,10 +489,6 @@
       logo: jianguoyun.webp
       url: https://www.jianguoyun.com/
       description: 坚果云官网
-    - title: 115网盘
-      logo: 115disk.webp
-      url: https://115.com/
-      description: 115生活，一生相伴
 - taxonomy: 工作办公
   icon: fa-solid fa-briefcase
   list:
