@@ -123,6 +123,26 @@
       logo: hotkey.webp
       url: https://hotkeycheatsheet.com/zh
       description: 通过提供常用快捷键的快速访问来帮助用户提高生产力
+    - title: 币安(Binance)
+      logo: binance.webp
+      url: https://www.binance.com/zh-CN
+      description: 全球最大也是最主流的加密货币交易所
+    - title: Bitget
+      logo: bitget.webp
+      url: https://www.bitget.com/zh-CN
+      description: 人人都能用的加密货币
+    - title: Gate
+      logo: gate.webp
+      url: https://www.gate.com/zh
+      description: 通往加密世界的门户
+    - title: MEXC
+      logo: mexc.webp
+      url: https://www.mexc.com/zh-MY/
+      description: 通往加密世界的捷径
+    - title: 欧易(OKX)
+      logo: okx.webp
+      url: https://www.okx.com/zh-hans
+      description: 像专业人士一样交易
     - title: 盘搜VIP
       logo: pansou.webp
       url: https://www.pansou.vip/
