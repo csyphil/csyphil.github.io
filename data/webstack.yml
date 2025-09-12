@@ -47,14 +47,22 @@
       logo: hostloc.webp
       url: https://hostloc.com/forum-45-1.html
       description: 全球主机交流论坛
-    - title: 恩山无线
-      logo: eswx.webp
-      url: https://www.right.com.cn/forum/
-      description: 我的恩山，我的无线
+    - title: NodeSeek
+      logo: nodeseek.webp
+      url: https://www.nodeseek.com/
+      description: Nodeseek is a place for people who love web development, hosting, vps / server and other geek things
     - title: V2EX
       logo: v2ex.webp
       url: https://www.v2ex.com/
       description: 创意工作者的社区
+    - title: 恩山无线
+      logo: eswx.webp
+      url: https://www.right.com.cn/forum/
+      description: 我的恩山，我的无线
+    - title: ACWiFi
+      logo: acwifi.webp
+      url: https://www.acwifi.net/
+      description: 路由器技术分享交流
     - title: 我爱卡论坛
       logo: wak.webp
       url: https://bbs.51credit.com/
@@ -63,10 +71,6 @@
       logo: flyert.webp
       url: https://www.flyert.com/
       description: 享此刻·享未来
-    - title: ACWiFi
-      logo: acwifi.webp
-      url: https://www.acwifi.net/
-      description: 路由器技术分享交流
     - title: IP111.cn
       logo: linshi.webp
       url: https://ip111.cn/
@@ -79,10 +83,6 @@
       logo: geekwan.webp
       url: https://www.socpk.com/
       description: 移动芯片排行
-    - title: 帮小忙
-      logo: bxm.webp
-      url: https://tool.browser.qq.com/
-      description: 腾讯在线工具箱平台
     - title: 微信读书
       url: https://weread.qq.com/
       logo: weread.webp
@@ -111,22 +111,22 @@
       logo: epic.webp
       url: https://store.epicgames.com/zh-CN/
       description: Epic游戏商城
-    - title: 今日热榜
-      logo: tophub.webp
-      url: https://tophub.today/
-      description: 追踪全网热点，简单高效阅读
-    - title: 驾考宝典
-      logo: jkbd.webp
-      url: https://shenzhen.jiakaobaodian.com/
-      description: 驾照考试，就用驾考宝典！
+    - title: NGA玩家社区
+      logo: nga.webp
+      url: https://bbs.nga.cn/
+      description: 精英玩家俱乐部
     - title: 快捷键备忘录
       logo: hotkey.webp
       url: https://hotkeycheatsheet.com/zh
       description: 通过提供常用快捷键的快速访问来帮助用户提高生产力
+    - title: 帮小忙
+      logo: bxm.webp
+      url: https://tool.browser.qq.com/
+      description: 腾讯在线工具箱平台
     - title: 币安(Binance)
       logo: binance.webp
       url: https://www.binance.com/zh-CN
-      description: 全球最大也是最主流的加密货币交易所
+      description: 全球最大的加密货币交易所
     - title: Bitget
       logo: bitget.webp
       url: https://www.bitget.com/zh-CN
@@ -143,10 +143,18 @@
       logo: okx.webp
       url: https://www.okx.com/zh-hans
       description: 像专业人士一样交易
+    - title: 驾考宝典
+      logo: jkbd.webp
+      url: https://shenzhen.jiakaobaodian.com/
+      description: 驾照考试，就用驾考宝典！
     - title: 盘搜VIP
       logo: pansou.webp
       url: https://www.pansou.vip/
       description: 人工亲测精选的网盘搜索工具导航
+    - title: 今日热榜
+      logo: tophub.webp
+      url: https://tophub.today/
+      description: 追踪全网热点，简单高效阅读
 - taxonomy: 社媒平台
   icon: fa-regular fa-comments
   links:
