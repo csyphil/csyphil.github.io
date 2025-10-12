@@ -18,11 +18,11 @@
     - title: Gmail
       logo: gmail.webp
       url: https://mail.google.com/ 
-      description: Secure, private, and ad-free email for everyone
+      description: 为每个人提供安全、私密、无广告的电子邮件
     - title: Notion
       logo: notion.webp
       url: https://www.notion.so/
-      description: The all-in-one workspace for your notes 
+      description: 专为笔记打造的一站式工作空间 
     - title: 哔哩哔哩
       logo: bilibili.webp
       url: https://www.bilibili.com/
@@ -50,7 +50,11 @@
     - title: NodeSeek
       logo: nodeseek.webp
       url: https://www.nodeseek.com/
-      description: Nodeseek is a place for people who love web development, hosting, vps / server and other geek things
+      description: Nodeseek是为热爱Web开发、托管、VPS/服务器和其他极客事物的人准备的
+    - title: DeepFlood
+      logo: deepflood.webp
+      url: https://www.deepflood.com/
+      description: AI和生活社区
     - title: V2EX
       logo: v2ex.webp
       url: https://www.v2ex.com/
@@ -59,10 +63,6 @@
       logo: eswx.webp
       url: https://www.right.com.cn/forum/
       description: 我的恩山，我的无线
-    - title: ACWiFi
-      logo: acwifi.webp
-      url: https://www.acwifi.net/
-      description: 路由器技术分享交流
     - title: 我爱卡论坛
       logo: wak.webp
       url: https://bbs.51credit.com/
@@ -143,6 +143,10 @@
       logo: okx.webp
       url: https://www.okx.com/zh-hans
       description: 像专业人士一样交易
+    - title: ACWiFi
+      logo: acwifi.webp
+      url: https://www.acwifi.net/
+      description: 路由器技术分享交流
     - title: 驾考宝典
       logo: jkbd.webp
       url: https://shenzhen.jiakaobaodian.com/
@@ -201,23 +205,23 @@
     - title: Facebook
       logo: facebook.webp
       url: https://www.facebook.com/
-      description: Move fast together
+      description: 携手并进
     - title: Messenger
       logo: messenger.webp
       url: https://www.messenger.com/
-      description: Be together, whenever
+      description: 无论何时，相伴相随
     - title: Instagram
       logo: instagram.webp
       url: https://www.instagram.com/
-      description: Capture and Share the World's Moments
+      description: 捕捉并分享世界的精彩瞬间
     - title: WhatsApp
       logo: whatsapp.webp
       url: https://www.whatsapp.com/
-      description: Secure and Reliable Private Messaging and Calling
+      description: 安全可靠的私密通讯与通话服务
     - title: Threads
       logo: threads.webp
       url: https://www.threads.com/
-      description: Say more with Threads — Instagram's new text app.
+      description: 在Threads畅所欲言——Instagram全新文字应用。
     - title: Google Voice
       logo: gvoice.webp
       url: https://voice.google.com/
@@ -225,26 +229,26 @@
     - title: Linkedin
       logo: linkedin.webp
       url: https://www.linkedin.com/
-      description: Welcome to your professional community
+      description: 欢迎来到你的专业社区
     - title: Discord
       logo: discord.webp
       url: https://discord.com/
-      description: Your place to talk and hang out
+      description: 你的畅聊聚会地
     - title: Quora
       logo: quora.webp
       url: https://www.quora.com/
-      description: We couldn't care less about you. We're Quora. We don't have to.
+      description: 我们对你毫不关心，我们是Quora，我们不必关心。
     - title: Reddit
       logo: reddit.webp
       url: https://www.reddit.com/
-      description: Dive into anything
+      description: 尽情探索任何事物
 - taxonomy: 人工智能
   icon: fa-solid fa-robot
   links: 
     - title: ChatGPT
       logo: chatgpt.webp
       url: https://chatgpt.com/
-      description: Your AI assistant for every need
+      description: 满足您各种需求的AI助手
     - title: DeepSeek
       logo: deepseek.webp
       url: https://chat.deepseek.com/
@@ -308,11 +312,11 @@
     - title: Claude
       logo: claude.webp
       url: https://claude.ai/
-      description: Your ideas, amplified
+      description: 放大你的想法
     - title: Microsoft Copilot
       logo: copilot.webp
       url: https://copilot.microsoft.com/
-      description: Your AI-powered everyday companion
+      description: 您的AI日常伴侣
     - title: Grok
       logo: grok.webp
       url: https://grok.com/
@@ -324,7 +328,7 @@
     - title: Sora
       logo: sora.webp
       url: https://sora.com/explore
-      description: Sora 是一个可以根据文本指令创建现实和富有想象力的场景的 AI 模型
+      description: Sora 是一个可以根据文本指令创建现实和富有想象力的场景的AI模型
     - title: Midjourney
       logo: midjourney.webp
       url: https://www.midjourney.com/home
@@ -332,7 +336,7 @@
     - title: Suno
       logo: suno.webp
       url: https://suno.com/home
-      description: AI 开启音乐梦想之旅
+      description: AI开启音乐梦想之旅
     - title: AI工具箱导航
       logo: amz123.webp
       url: https://www.amz123.com/ai
@@ -643,18 +647,18 @@
 - taxonomy: 文件处理
   icon: fa-regular fa-file
   links:
-    - title: Tinypng
-      logo: tinypng.webp
-      url: https://tinypng.com
-      description: Optimize your images with a perfect balance in quality and file size
-    - title: Squoosh-图片处理
+    - title: Squoosh(图片处理)
       logo: squoosh.webp
       url: https://squoosh.app/
-      description: Compress and compare images with ease
+      description: 轻松压缩和比较图像
+    - title: Tinypng(图片压缩)
+      logo: tinypng.webp
+      url: https://tinypng.com
+      description: 通过质量和文件大小的完美平衡来优化您的图像
     - title: Removebg(去除背景)
       logo: remove.bg.webp
       url: https://www.remove.bg/zh
-      description: Remove Image Backgrounds 100% Automatically in 5 Seconds
+      description: 5秒内100%自动去除图像背景
     - title: BgSub
       logo: bgsub.webp
       url: https://zh.bgsub.com/webapp/
@@ -662,13 +666,15 @@
     - title: iLoveIMG
       logo: iloveimg.webp
       url: https://www.iloveimg.com/zh-cn
+      description: 图像文件在线编辑工具
     - title: AnyWebP
       logo: anywebp.webp
       url: https://anywebp.com/convert-to-webp.html
-      description: Convert images to WebP.
+      description: 将图像转换成WebP格式
     - title: BigJPG
       logo: bigjpg.webp
       url: https://bigjpg.com/
+      description: 图像放大器
     - title: All to all
       logo: all2all.webp
       url: https://www.alltoall.net/
@@ -692,28 +698,35 @@
     - title: Small PDF
       logo: smallpdf.webp
       url: https://smallpdf.com/cn
+      description: 您所有PDF问题的免费解决方案
     - title: Hi PDF
       logo: hipdf.webp
       url: https://www.hipdf.com/
+      description: 一体化免费在线PDF解决方案
     - title: Light PDF
       logo: lightpdf.webp
       url: https://lightpdf.com/
+      description: 人工智能驱动的免费在线PDF编辑器
     - title: Office-Converter
       logo: office-converter.webp
       url: https://cn.office-converter.com/
+      description: 将您的文件转换为任何格式，100%免费且易于使用！
     - title: 文件转换器
       logo: convertio.co.webp
       url: https://convertio.co/zh/
+      description: 将您的文件转换成任意格式
     - title: Apowersoft在线压缩
       logo: apowersoft.webp
       url: https://www.apowersoft.cn/compress-file-online
+      description: 免费优质压缩视频、图片及PDF文件
     - title: Online Convert Free
       logo: onlineconvertfree.webp
       url: https://onlineconvertfree.com/zh/
+      description: 在线转换文件，又免费又快
     - title: ezgif
       url: https://ezgif.com
       logo: ezgif.webp
-      description: Simple online GIF maker and toolset for basic animated GIF editing
+      description: 简单的在线GIF制作器和工具集，用于基本的动画GIF编辑
 - taxonomy: 网站服务
   icon: fa-solid fa-server
   list:
