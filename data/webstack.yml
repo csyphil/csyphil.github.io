@@ -159,6 +159,10 @@
       logo: tophub.webp
       url: https://tophub.today/
       description: 追踪全网热点，简单高效阅读
+    - title: 记灵在线工具
+      logo: jl.webp
+      url: https://remeins.com/
+      description: 更专注于发现工具的实用性
 - taxonomy: 社媒平台
   icon: fa-regular fa-comments
   links:
@@ -249,14 +253,14 @@
       logo: chatgpt.webp
       url: https://chatgpt.com/
       description: 满足您各种需求的AI助手
-    - title: DeepSeek
-      logo: deepseek.webp
-      url: https://chat.deepseek.com/
-      description: 探索未至之境
     - title: 豆包
       logo: doubao.webp
       url: https://www.doubao.com/chat/
       description: 抖音旗下AI智能助手
+    - title: DeepSeek
+      logo: deepseek.webp
+      url: https://chat.deepseek.com/
+      description: 探索未至之境
     - title: 通义千问
       logo: tongyi.webp
       url: https://tongyi.aliyun.com/qianwen/
@@ -328,11 +332,11 @@
     - title: Sora
       logo: sora.webp
       url: https://sora.com/explore
-      description: Sora 是一个可以根据文本指令创建现实和富有想象力的场景的AI模型
+      description: Sora是一个可以根据文本指令创建现实和富有想象力的场景的AI模型
     - title: Midjourney
       logo: midjourney.webp
       url: https://www.midjourney.com/home
-      description: 释放你的想象力，用 AI 绘制无限可能
+      description: 释放你的想象力，用AI绘制无限可能
     - title: Suno
       logo: suno.webp
       url: https://suno.com/home
@@ -453,11 +457,11 @@
     - title: Yahoo Mail
       logo: yahoo.webp
       url: https://mail.yahoo.com/
-      description: 体验一流的 Yahoo 邮箱
+      description: 体验一流的Yahoo邮箱
     - title: iCloud Mail
       logo: iCloudMail.webp
       url: https://www.icloud.com/mail
-      description: 由 Apple 提供的私密、安全且个性化的电子邮件服务
+      description: 由Apple提供的私密、安全且个性化的电子邮件服务
     - title: Proton Mail
       logo: protonmail.webp
       url: https://protonmail.com/zh-Hans/
@@ -505,10 +509,22 @@
       logo: www.123pan.com.webp
       url: https://www.123pan.com/
       description: 免登录，不限速
+    - title: 坚果云
+      logo: jianguoyun.webp
+      url: https://www.jianguoyun.com/
+      description: 坚果云官网
     - title: OneDrive
       logo: OneDrive.webp
       url: https://onedrive.live.com/
-      description: 通过 OneDrive 安全地保存和共享重要内容
+      description: 通过OneDrive安全地保存和共享重要内容
+    - title: iCloud 
+      logo: iCloud.webp
+      url: https://www.icloud.com/
+      description: 登录iCloud即可访问您的照片、邮件、笔记、文档等。
+    - title: Google drive
+      logo: gdrive.webp
+      url: https://drive.google.com/
+      description: 随时随地从任何设备安全访问文件
     - title: 天翼云盘
       logo: tydisk.webp
       url: https://cloud.189.cn/
@@ -517,10 +533,7 @@
       logo: yddisk.webp
       url: https://yun.139.com/
       description: 不限速免流量的云盘
-    - title: 坚果云
-      logo: jianguoyun.webp
-      url: https://www.jianguoyun.com/
-      description: 坚果云官网
+
 - taxonomy: 工作办公
   icon: fa-solid fa-briefcase
   list:
@@ -749,18 +762,19 @@
         - title: Cloudflare
           logo: cloudflare.webp
           url: https://dash.cloudflare.com/
-          description: Helping build a better Internet
+          description: 助力构建更美好的互联网
         - title: Vercel
           logo: vercel.webp
           url: https://vercel.com/
-          description: Develop.Preview.Ship.
+          description: 开发.预览.部署
         - title: Netlify 
           logo: netlify.webp
           url: https://www.netlify.com/
-          description: Bring it all together.
-        - title: 全球VPS数据库
-          logo: vpsdb.webp
-          url: https://db.vps69.com/
+          description: 把所有东西整合在一起
+        - title: Who.cx
+          logo: linshi.webp
+          url: https://who.cx/
+          description: Whois查询
         - title: Downdetector
           logo: downdetector.webp
           url: https://downdetector.com/
@@ -768,31 +782,31 @@
         - title: Namesilo
           logo: namesilo.webp
           url: https://www.namesilo.com/
-          description: Find cheap domain names for your website
+          description: 为您的网站寻找低价域名
         - title: Dynadot
           logo: dynadot.webp
           url: https://www.dynadot.com/zh/
-          description: A super-powered domain marketplace
+          description: 超级域名交易平台
         - title: Namecheap
           logo: namecheap.webp
           url: https://www.namecheap.com/
-          description: Empowering you with affordable domains & hosting
+          description: 为您提供经济实惠的域名与托管服务
         - title: Spaceship
           logo: spaceship.webp
           url: https://www.spaceship.com/zh/
-          description: Powerful tools for developers and creators
+          description: 为开发者和创作者打造的强大工具
         - title: Porkbun
           logo: porkbun.webp
           url: https://porkbun.com/
-          description: An oddly satisfying experience
+          description: 一种奇妙而满足的体验
         - title: Freenom
           logo: freenom.webp
           url: https://my.freenom.com/clientarea.php?action=domains
-          description: A name for everyone
+          description: 每个人的域名
         - title: Ping.pe
           logo: ping.webp
           url: https://ping.pe
-          description: Ping,mtr,dig and TCP port check from multiple locations
+          description: 从多个地点进行ping、mtr、dig和TCP端口检测
         - title: IT dog
           logo: itdog.webp
           url: https://www.itdog.cn/
@@ -831,7 +845,7 @@
         - title: FAST
           logo: fast.com.webp
           url: https://fast.com/
-          description: Internet speed test
+          description: 网速测试
         - title: SKK IP查询
           logo: ipskk.webp
           url: https://ip.skk.moe/
@@ -844,10 +858,10 @@
           logo: ipleak.webp
           url: https://ipleak.net/
           description: IP/DNS检测
-        - title: Who.cx
-          logo: linshi.webp
-          url: https://who.cx/
-          description: Whois查询
+        - title: W.is 
+          logo: wis.webp
+          url: https://w.is/
+          description: Whois Lookup Tool 
         - title: TLD-LIST
           logo: tld-list.webp
           url: https://zh-hans.tld-list.com/
