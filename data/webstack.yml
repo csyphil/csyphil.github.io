@@ -521,7 +521,7 @@
       logo: iCloud.webp
       url: https://www.icloud.com/
       description: 登录iCloud即可访问您的照片、邮件、笔记、文档等。
-    - title: Google drive
+    - title: Google Drive
       logo: gdrive.webp
       url: https://drive.google.com/
       description: 随时随地从任何设备安全访问文件
@@ -614,7 +614,7 @@
         - title: 比格PPT
           url: http://www.tretars.com/
           logo: tretars.webp
-          description: The best free Mockups from the Web.
+          description: 网络上最好的免费PPT模型素材
         - title: PPT超级市场
           logo: pptcjsc.webp
           url: https://www.pptsupermarket.com/
@@ -910,7 +910,7 @@
         - title: Font Awesome Icon
           logo: font-awesome.webp
           url: https://fontawesome.com/icons/
-          description: The complete set of 675 icons in Font Awesome
+          description: Font Awesome的675个图标集(完整版)
     - term: 在线工具
       links: 
         - title: Telegra.ph
@@ -931,6 +931,9 @@
           logo: weeklyreport.webp
           url: https://weeklyreport.avemaria.fun/zh
           description: 简单描述工作内容，帮你生成完整周报
+        - title: Human Benchmark
+          logo: humanbenchmark.webp
+          url: https://humanbenchmark.com/
 - taxonomy: 政府部门         
   icon: fa-solid fa-user-tie
   links:
