@@ -6,15 +6,15 @@
     - title: GitHub
       logo: github.webp
       url: https://github.com/
-      description: Where the world builds software
+      description: 世界构建软件的地方
     - title: Youtube
       logo: youtube.webp
       url: https://www.youtube.com/
-      description: Broadcast Yourself
+      description: 展现你自己
     - title: X
       logo: X.webp
       url: https://x.com/
-      description: It's what's happening
+      description: 正在发生什么
     - title: Gmail
       logo: gmail.webp
       url: https://mail.google.com/ 
@@ -34,7 +34,7 @@
     - title: Fastmail
       logo: fastmail.webp
       url: https://app.fastmail.com/
-      description: Email on your side
+      description: 为你服务的邮箱
     - title: QQ邮箱
       logo: qqmail.webp
       url: https://mail.qq.com/
@@ -82,7 +82,7 @@
     - title: SOCPK-极客湾
       logo: geekwan.webp
       url: https://www.socpk.com/
-      description: 移动芯片排行
+      description: 移动芯片排行榜
     - title: 微信读书
       url: https://weread.qq.com/
       logo: weread.webp
@@ -422,7 +422,7 @@
       description: 有声小说，听书，听小说，听故事，听广播
     - title: 爱达杂货铺
       logo: adzhp.webp
-      url: https://adzhp.xyz/
+      url: https://adzhp.cc/
       description: 收集那些有用的东西
     - title: Netflix
       logo: netflix.webp
