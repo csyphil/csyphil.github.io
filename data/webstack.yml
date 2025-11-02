@@ -257,18 +257,18 @@
       logo: doubao.webp
       url: https://www.doubao.com/chat/
       description: 抖音旗下AI智能助手
+    - title: 通义千问
+      logo: tongyi.webp
+      url: https://www.tongyi.com/qianwen/
+      description: 阿里推出的一个不断进化的AI大模型
     - title: DeepSeek
       logo: deepseek.webp
       url: https://chat.deepseek.com/
       description: 探索未至之境
-    - title: 通义千问
-      logo: tongyi.webp
-      url: https://tongyi.aliyun.com/qianwen/
-      description: 阿里推出的一个不断进化的AI大模型
-    - title: 讯飞星火
-      logo: xfxh.webp
-      url: https://xinghuo.xfyun.cn/
-      description: 讯飞星火认知大模型-AI大语言模型——星火大模型——科大讯飞
+    - title: 智谱清言
+      logo: zpqy.webp
+      url: https://chatglm.cn/
+      description: 连接人与知识
     - title: Kimi.ai
       logo: kimi.webp
       url: https://kimi.moonshot.cn/
@@ -277,14 +277,14 @@
       logo: yuanbao.webp
       url: https://yuanbao.tencent.com/
       description: 轻松工作，多点生活
-    - title: 智谱清言
-      logo: zpqy.webp
-      url: https://chatglm.cn/
-      description: 连接人与知识
     - title: 通义万相
       logo: tongyi.webp
       url: https://tongyi.aliyun.com/wanxiang/
       description: 一个不断进化的人工智能艺术创作大模型
+    - title: 秘塔AI搜索
+      logo: mita.webp
+      url: https://metaso.cn/
+      description: 没有广告，直达结果
     - title: 秘塔写作猫
       logo: mita.webp
       url: https://xiezuocat.com/
@@ -293,22 +293,42 @@
       logo: wenxin.webp
       url: https://yiyan.baidu.com/
       description: 百度推出的AI大模型
-    - title: 文心一格
-      logo: wenxin.webp
-      url: https://yige.baidu.com/
-      description: AI艺术和创意辅助平台
-    - title: 百度Chat
-      logo: bdchat.webp
-      url: https://chat.baidu.com/
-      description: 百度推出的AI聊天对话机器人
+    - title: 讯飞星火
+      logo: xfxh.webp
+      url: https://xinghuo.xfyun.cn/
+      description: 讯飞星火认知大模型-AI大语言模型——星火大模型——科大讯飞
     - title: 通义法睿
       logo: tongyi.webp
       url: https://tongyi.aliyun.com/farui/chat
       description: 让法律事务更快、更准、更智能
-    - title: 秘塔AI搜索
-      logo: mita.webp
-      url: https://metaso.cn/
-      description: 没有广告，直达结果
+    - title: Canva可画
+      logo: canva.webp
+      url: https://www.canva.cn/
+      description: 一句话生成海报、PPT、视频、漫画、头像等千万模板
+    - title: Grammarly
+      logo: grammarly.webp
+      url: https://www.grammarly.com/
+      description: 免费的AI写作助手
+    - title: 即梦AI
+      logo: jimengai.webp
+      url: https://jimeng.jianying.com/
+      description: 字节旗下AI绘图 视频（含图生动画） 海报 音乐 数字人 智能画布 故事创作
+    - title: 可灵AI
+      logo: klingai.webp
+      url: https://app.klingai.com/cn/
+      description: 快手旗下新一代创意生产力平台，提供视频、图片生成与编辑能力
+    - title: 海螺AI
+      logo: hailuoai.webp
+      url: https://hailuoai.com/
+      description: AI文本转视频 音乐
+    - title: AI工具箱导航
+      logo: amz123.webp
+      url: https://www.amz123.com/ai
+      description: 国内外AI工具导航合集
+    - title: AI工具集
+      logo: aibot.webp
+      url: https://ai-bot.cn/
+      description: 700+ AI工具集合官网
     - title: Gemini
       logo: gemini.webp
       url: https://gemini.google.com/
@@ -341,14 +361,6 @@
       logo: suno.webp
       url: https://suno.com/home
       description: AI开启音乐梦想之旅
-    - title: AI工具箱导航
-      logo: amz123.webp
-      url: https://www.amz123.com/ai
-      description: 国内外AI工具导航合集
-    - title: AI工具集
-      logo: aibot.webp
-      url: https://ai-bot.cn/
-      description: 700+ AI工具集合官网
 - taxonomy: 影音视听
   icon: fa-solid fa-photo-film
   links:
