@@ -831,25 +831,6 @@
           logo: boce.webp
           url: https://www.boce.com/
           description: 免费的域名检测工具网
-        - title: IP墙检测
-          logo: toolsdaquan.webp
-          url: https://www.toolsdaquan.com/ipcheck/
-        - title: Censys Search
-          logo: censys.webp
-          url: https://search.censys.io/
-          description: 全网IP端口扫描报告
-        - title: Greasy Fork
-          logo: greasyfork.webp
-          url: https://greasyfork.org/zh-CN
-          description: 一个提供用户脚本的网站
-        - title: I Tell You
-          logo: itellyou.webp
-          url: https://msdn.itellyou.cn/
-          description: 微软非官方资源站
-        - title: IP Address
-          logo: ipaddress.webp
-          url: https://www.ipaddress.com/
-          description: What's my IP ？
         - title: 测速网
           logo: speedtest.cn.webp
           url: https://www.speedtest.cn/
@@ -858,6 +839,25 @@
           logo: fast.com.webp
           url: https://fast.com/
           description: 网速测试
+        - title: Censys Search
+          logo: censys.webp
+          url: https://search.censys.io/
+          description: 全网IP端口扫描报告
+        - title: Greasy Fork
+          logo: greasyfork.webp
+          url: https://greasyfork.org/zh-CN
+          description: 一个提供用户脚本的网站
+        - title: Next, I Tell You
+          logo: itellyou.webp
+          url: https://next.itellyou.cn/
+          description: 微软非官方资源站
+        - title: IP墙检测
+          logo: toolsdaquan.webp
+          url: https://www.toolsdaquan.com/ipcheck/
+        - title: IP Address
+          logo: ipaddress.webp
+          url: https://www.ipaddress.com/
+          description: What's my IP ？
         - title: SKK IP查询
           logo: ipskk.webp
           url: https://ip.skk.moe/
@@ -870,6 +870,26 @@
           logo: ipleak.webp
           url: https://ipleak.net/
           description: IP/DNS检测
+        - title: IP.SB  
+          logo: ip.sb.webp
+          url: https://ip.sb/
+          description: IP Address Lookup/IPv4/IPv6
+        - title: Ping0.CC 
+          logo: ping0.cc.webp
+          url: https://ping0.cc/
+          description: 高精度IP地址归属地查询-IP风控值查询-原生IP查询……
+        - title: IP125.COM 
+          logo: ip125.com.webp
+          url: https://ip125.com/
+          description: 查询我的IP地址|国内外IP查询|WebRTC Leak Test……
+        - title: IP查询(ipw.cn)
+          logo: ipw.cn.webp
+          url: https://ipw.cn/
+          description: IPv6测试|IPv6网站检测|IP地址查询
+        - title: Chaip.org
+          logo: chaip.org.webp
+          url: https://www.chaip.org/
+          description: 全方位查询上网IP
         - title: W.is 
           logo: wis.webp
           url: https://w.is/
@@ -946,6 +966,14 @@
         - title: Human Benchmark
           logo: humanbenchmark.webp
           url: https://humanbenchmark.com/
+        - title: Favicon.im
+          logo: favicon.im.webp
+          url: https://favicon.im/zh/
+          description: 即时网站图标获取器
+        - title: WiFi Card 
+          logo: wificard.io.webp
+          url: https://wificard.io/
+          description: 为你的WiFi制作二维码以扫码连接/打印
 - taxonomy: 政府部门         
   icon: fa-solid fa-user-tie
   links:
