@@ -257,9 +257,9 @@
       logo: doubao.webp
       url: https://www.doubao.com/chat/
       description: 抖音旗下AI智能助手
-    - title: 通义千问
+    - title: 千问
       logo: tongyi.webp
-      url: https://www.tongyi.com/qianwen/
+      url: https://www.qianwen.com/
       description: 阿里推出的一个不断进化的AI大模型
     - title: DeepSeek
       logo: deepseek.webp
@@ -279,7 +279,7 @@
       description: 轻松工作，多点生活
     - title: 通义万相
       logo: tongyi.webp
-      url: https://tongyi.aliyun.com/wanxiang/
+      url: https://tongyi.aliyun.com/wan/
       description: 一个不断进化的人工智能艺术创作大模型
     - title: 秘塔AI搜索
       logo: mita.webp
@@ -396,14 +396,14 @@
       logo: le.webp
       url: https://www.le.com/
       description: 就视不一样
-    - title: 欧乐影院
-      logo: ole.webp
-      url: https://www.olevod.tv/
-      description: 面向海外华人的在线视频媒体平台
-    - title: 泥视频
-      logo: nivod.webp
-      url: https://www.nivod.cc/
-      description: 海外华人在线影院
+    - title: AcFun
+      logo: acfun.webp
+      url: https://www.acfun.cn/
+      description: 认真你就输啦 (・ω・)ノ- ( ゜- ゜)つロ
+    - title: 新片场
+      logo: xinpianchang.webp
+      url: https://www.xinpianchang.com/recommend/editor
+      description: 与百万创作人一起成长，用作品打动世界
     - title: QQ音乐
       logo: qqmusic.webp
       url: https://y.qq.com/
@@ -420,22 +420,70 @@
       logo: xmly.webp
       url: https://www.ximalaya.com/
       description: 有声小说，听书，听小说，听故事，听广播
-    - title: 爱达杂货铺
-      logo: adzhp.webp
-      url: https://adzhp.cc/
-      description: 收集那些有用的东西
+    - title: 得到
+      logo: dedao.webp
+      url: https://www.dedao.cn/
+      description: 知识就是力量，知识就在得到
     - title: Netflix
       logo: netflix.webp
       url: https://www.netflix.com/
       description: At Netflix, we want to entertain the world
+    - title: Amazon Prime Video
+      logo: amazonprimevideo.webp
+      url: https://www.primevideo.com/
+      description: It's On Prime
+    - title: Disney+
+      logo: disney+.webp
+      url: https://www.disneyplus.com/
+      description: Endless entertainment for all
+    - title: HBO Max
+      logo: hbomax.webp
+      url: https://www.hbomax.com/
+      description: It's not TV, it's HBO
+    - title: Apple TV
+      logo: appletv.webp
+      url: https://tv.apple.com/
+      description: This is just the beginning
+    - title: Spotify
+      logo: spotify.webp
+      url: https://open.spotify.com/
+      description: Music for everyone
+    - title: Apple Music
+      logo: applemusic.webp
+      url: https://music.apple.com/cn/home
+      description: For the love of music
+    - title: Amazon music
+      logo: amazonmusic.webp
+      url: https://music.amazon.com/
+      description: A Voice Is All You Need
     - title: Youtube Music
       logo: ytm.webp
       url: https://music.youtube.com/
       description: It's all here.
+    - title: Pandora
+      logo: pandora.webp
+      url: https://www.pandora.com/
+      description: Life is better with sound on
     - title: 茶杯狐
       logo: cupfox.webp
       url: https://cupfox.love/
       description: 努力让找电影变得简单
+    - title: MVCAT
+      logo: mvcat.webp
+      url: https://www.mvcat.com/
+      description: 影猫·遇见好电影 
+    - title: 欧乐影院
+      logo: ole.webp
+      url: https://www.olevod.tv/
+      description: 面向海外华人的在线视频媒体平台
+    - title: 泥视频
+      logo: nivod.webp
+      url: https://www.nivod.cc/
+      description: 海外华人在线影院
+    - title: 爱达杂货铺
+      logo: adzhp.webp
+      url: https://adzhp.cc/
+      description: 收集那些有用的东西
 - taxonomy: 出行订票
   icon: fa-solid fa-plane-departure
   links:
@@ -451,14 +499,14 @@
       logo: ctrip.webp
       url: https://www.ctrip.com/
       description: 携程在手，说走就走
-    - title: 去哪儿旅行
-      logo: qunar.webp
-      url: https://flight.qunar.com/
-      description: 总有你要的低价
     - title: 同程旅行
       logo: ly.webp
       url: https://www.ly.com/
       description: 再出发，就同程
+    - title: 去哪儿旅行
+      logo: qunar.webp
+      url: https://flight.qunar.com/
+      description: 总有你要的低价
 - taxonomy: 电子邮箱
   icon: fa-solid fa-at
   links: 
@@ -748,10 +796,10 @@
       logo: onlineconvertfree.webp
       url: https://onlineconvertfree.com/zh/
       description: 在线转换文件，又免费又快
-    - title: ezgif
-      url: https://ezgif.com
-      logo: ezgif.webp
-      description: 简单的在线GIF制作器和工具集，用于基本的动画GIF编辑
+    - title: Aconvert
+      logo: aconvert.webp
+      url: https://www.aconvert.com/cn/
+      description: 在线转换文档、图片、视频、音频文件
 - taxonomy: 网站服务
   icon: fa-solid fa-server
   list:
@@ -894,6 +942,10 @@
           logo: wis.webp
           url: https://w.is/
           description: Whois Lookup Tool 
+        - title: tian.hu
+          logo: tianhu.webp
+          url: https://tian.hu/
+          description: 全球Whois查询
         - title: TLD-LIST
           logo: tld-list.webp
           url: https://zh-hans.tld-list.com/
@@ -966,6 +1018,10 @@
         - title: Human Benchmark
           logo: humanbenchmark.webp
           url: https://humanbenchmark.com/
+        - title: 在线转盘
+          logo: wheelpage.webp
+          url: https://wheelpage.com/zh/
+          description: 免费自定义随机选择和决策
         - title: Favicon.im
           logo: favicon.im.webp
           url: https://favicon.im/zh/
@@ -974,6 +1030,14 @@
           logo: wificard.io.webp
           url: https://wificard.io/
           description: 为你的WiFi制作二维码以扫码连接/打印
+        - title: ezgif
+          url: https://ezgif.com
+          logo: ezgif.webp
+          description: 简单的在线GIF制作器和工具集，用于基本的动画GIF编辑
+        - title: 文件快递柜
+          logo: filecodebox.webp
+          url: https://share.lanol.cn/#/
+          description: 匿名口令分享文本/文件
 - taxonomy: 政府部门         
   icon: fa-solid fa-user-tie
   links:
