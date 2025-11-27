@@ -934,10 +934,10 @@
           logo: ipw.cn.webp
           url: https://ipw.cn/
           description: IPv6测试|IPv6网站检测|IP地址查询
-        - title: Chaip.org
-          logo: chaip.org.webp
-          url: https://www.chaip.org/
-          description: 全方位查询上网IP
+        - title: IPpure
+          logo: ippure.webp
+          url: https://ippure.com/
+          description: IP地址信息和纯净度检测
         - title: W.is 
           logo: wis.webp
           url: https://w.is/
@@ -1038,6 +1038,10 @@
           logo: filecodebox.webp
           url: https://share.lanol.cn/#/
           description: 匿名口令分享文本/文件
+        - title: AirPortal
+          logo: airportal.webp
+          url: https://www.airportal.cn/
+          description: 空投快传
 - taxonomy: 政府部门         
   icon: fa-solid fa-user-tie
   links:
