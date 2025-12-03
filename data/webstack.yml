@@ -805,18 +805,21 @@
   list:
     - term: 云服务器
       links:
-        - title: Vmiss
-          logo: vmiss.webp
-          url: https://www.vmiss.com/
-        - title: CloudCone
-          logo: cloudcone.webp
-          url: https://cloudcone.com/
         - title: RackNerd
           logo: racknerd.webp
           url: https://www.racknerd.com/
+        - title: CloudCone
+          logo: cloudcone.webp
+          url: https://cloudcone.com/
+        - title: CometVPS
+          logo: comet.webp
+          url: https://cometvps.com/
         - title: Oracle Cloud
           logo: oracle.webp
           url: https://www.oracle.com/cloud/sign-in.html
+        - title: Vmiss
+          logo: vmiss.webp
+          url: https://www.vmiss.com/
     - term: 技术服务
       links:
         - title: Cloudflare
@@ -954,6 +957,10 @@
           logo: nazhumi.webp
           url: https://www.nazhumi.com/
           description: 一站式比较域名后缀及服务商价格
+        - title: NameBeta
+          logo: namebeta.webp
+          url: https://namebeta.com/zh
+          description: 域名注册比价&可用性检查
 - taxonomy: 工具资源
   icon: fa-regular fa-folder-open
   list: 
