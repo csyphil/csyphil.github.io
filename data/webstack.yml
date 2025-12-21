@@ -253,10 +253,10 @@
       logo: chatgpt.webp
       url: https://chatgpt.com/
       description: 满足您各种需求的AI助手
-    - title: 豆包
-      logo: doubao.webp
-      url: https://www.doubao.com/chat/
-      description: 抖音旗下AI智能助手
+    - title: Gemini
+      logo: gemini.webp
+      url: https://gemini.google.com/
+      description: 轻松对话，获取创意灵感
     - title: 千问
       logo: tongyi.webp
       url: https://www.qianwen.com/
@@ -265,6 +265,10 @@
       logo: deepseek.webp
       url: https://chat.deepseek.com/
       description: 探索未至之境
+    - title: 豆包
+      logo: doubao.webp
+      url: https://www.doubao.com/chat/
+      description: 抖音旗下AI智能助手
     - title: 智谱清言
       logo: zpqy.webp
       url: https://chatglm.cn/
@@ -273,22 +277,18 @@
       logo: kimi.webp
       url: https://kimi.moonshot.cn/
       description: 帮你看更大的世界
-    - title: 腾讯元宝
-      logo: yuanbao.webp
-      url: https://yuanbao.tencent.com/
-      description: 轻松工作，多点生活
     - title: 通义万相
       logo: tongyi.webp
       url: https://tongyi.aliyun.com/wan/
       description: 一个不断进化的人工智能艺术创作大模型
+    - title: 腾讯元宝
+      logo: yuanbao.webp
+      url: https://yuanbao.tencent.com/
+      description: 轻松工作，多点生活
     - title: 秘塔AI搜索
       logo: mita.webp
       url: https://metaso.cn/
       description: 没有广告，直达结果
-    - title: 秘塔写作猫
-      logo: mita.webp
-      url: https://xiezuocat.com/
-      description: AI写作，文章自成
     - title: 文心一言
       logo: wenxin.webp
       url: https://yiyan.baidu.com/
@@ -305,10 +305,10 @@
       logo: canva.webp
       url: https://www.canva.cn/
       description: 一句话生成海报、PPT、视频、漫画、头像等千万模板
-    - title: Grammarly
-      logo: grammarly.webp
-      url: https://www.grammarly.com/
-      description: 免费的AI写作助手
+    - title: 秘塔写作猫
+      logo: mita.webp
+      url: https://xiezuocat.com/
+      description: AI写作，文章自成
     - title: 即梦AI
       logo: jimengai.webp
       url: https://jimeng.jianying.com/
@@ -329,10 +329,6 @@
       logo: aibot.webp
       url: https://ai-bot.cn/
       description: 700+ AI工具集合官网
-    - title: Gemini
-      logo: gemini.webp
-      url: https://gemini.google.com/
-      description: 轻松对话，获取创意灵感
     - title: Claude
       logo: claude.webp
       url: https://claude.ai/
@@ -361,6 +357,10 @@
       logo: suno.webp
       url: https://suno.com/home
       description: AI开启音乐梦想之旅
+    - title: Grammarly
+      logo: grammarly.webp
+      url: https://www.grammarly.com/
+      description: 免费的AI写作助手
 - taxonomy: 影音视听
   icon: fa-solid fa-photo-film
   links:
@@ -964,6 +964,14 @@
           logo: namebeta.webp
           url: https://namebeta.com/zh
           description: 域名注册比价&可用性检查
+        - title: IPLark
+          logo: iplark.webp
+          url: https://iplark.com/
+          description: 查看本机IP地址-我的IP归属地
+        - title: IP2LOCATION
+          logo: ip2location.webp
+          url: https://ip2location.com/
+          description: IP Address to IP Location and Proxy Infomation
 - taxonomy: 工具资源
   icon: fa-regular fa-folder-open
   list: 
@@ -1052,6 +1060,22 @@
           logo: airportal.webp
           url: https://www.airportal.cn/
           description: 空投快传
+        - title: PairDrop
+          logo: pairdrop.webp
+          url: https://pairdrop.net/
+          description: 最简单的跨设备传输方案
+        - title: LanDrop
+          logo: landrop.webp
+          url: https://landrop.app/
+          description: 跨平台局域网文件传输工具
+        - title: LocalSend 
+          logo: localsend.webp
+          url: https://localsend.org/zh-CN
+          description: 面向所有人的开源跨平台文件共享
+        - title: PP直连
+          logo: ppzhilian.webp
+          url: https://www.ppzhilian.com/
+          description: 无缝直连，传输与共享
 - taxonomy: 政府部门         
   icon: fa-solid fa-user-tie
   links:
