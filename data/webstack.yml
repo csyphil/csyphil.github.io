@@ -127,10 +127,6 @@
       logo: binance.webp
       url: https://www.binance.com/zh-CN
       description: 全球最值得信赖的加密货币买卖和投资平台
-    - title: Bitget
-      logo: bitget.webp
-      url: https://www.bitget.com/zh-CN
-      description: 领先的加密货币交易平台
     - title: 欧易(OKX)
       logo: okx.webp
       url: https://www.okx.com/zh-hans
@@ -139,6 +135,10 @@
       logo: bybit.webp
       url: https://www.bybit.com/zh-MY/
       description: 买卖交易BTC和非主流币
+    - title: Bitget
+      logo: bitget.webp
+      url: https://www.bitget.com/zh-CN
+      description: 领先的加密货币交易平台
     - title: Kraken
       logo: kraken.webp
       url: https://www.kraken.com/zh-cn
