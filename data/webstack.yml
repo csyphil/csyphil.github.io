@@ -139,10 +139,30 @@
       logo: bitget.webp
       url: https://www.bitget.com/zh-CN
       description: 领先的加密货币交易平台
+    - title: Backpack
+      logo: backpack.webp
+      url: https://backpack.exchange/
+      description: 数字货币交易所&钱包 | 合规性极强
+    - title: CoinGecko 
+      logo: coingecko.webp
+      url: https://www.coingecko.com/zh
+      description: 加密货币实时行情：价格、走势图和市值排名
     - title: CoinMarketCap
       logo: cmc.webp
       url: https://coinmarketcap.com/zh/
       description: 数字货币行情
+    - title: ODaily星球日报
+      logo: odaily.webp
+      url: https://www.odaily.news/zh-CN
+      description: 专业区块链与加密货币新闻、行情分析与投资资讯平台
+    - title: PANews 
+      logo: panews.webp
+      url: https://www.panewslab.com/zh
+      description: 你的Web3信息官
+    - title: TradingView
+      logo: tradingview.webp
+      url: https://cn.tradingview.com/
+      description: 追踪所有市场
     - title: ACWiFi
       logo: acwifi.webp
       url: https://www.acwifi.net/
