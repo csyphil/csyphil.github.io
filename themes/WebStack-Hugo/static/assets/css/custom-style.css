@@ -112,3 +112,19 @@ footer.main-footer .footer-text a:hover {
 #search-bg {
     background-color: #1b1d1f; /* 设置搜索框背景颜色与主体一致 */
 }
+/* 极致轻量：只做图标占位优化，不改动网页结构 */
+.url-img img {
+    width: 64px !important;
+    height: 64px !important;
+    aspect-ratio: 1 / 1; 
+    object-fit: contain;
+    /* 告诉浏览器提前预留空间，防止图标加载时页面跳动 */
+    background-color: rgba(0,0,0,0.02); 
+    border-radius: 8px;
+}
+
+/* 优化一言的显示稳定性，防止文字弹出时撑开高度 */
+.quote-content {
+    min-height: 1.5em; 
+    contain: layout;
+}
