@@ -1,4 +1,4 @@
-baseURL               = "https://csyphil.github.io"
+baseURL               = "https://www.csy.cx/"
 languageCode          = "zh-CN"
 title                 = "夕岚导航"
 theme                 = "WebStack-Hugo"
