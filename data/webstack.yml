@@ -269,14 +269,14 @@
 - taxonomy: 人工智能
   icon: fa-solid fa-robot
   links: 
-    - title: ChatGPT
-      logo: chatgpt.webp
-      url: https://chatgpt.com/
-      description: 满足您各种需求的AI助手
     - title: Gemini
       logo: gemini.webp
       url: https://gemini.google.com/
       description: 轻松对话，获取创意灵感
+    - title: ChatGPT
+      logo: chatgpt.webp
+      url: https://chatgpt.com/
+      description: 满足您各种需求的AI助手
     - title: 千问
       logo: tongyi.webp
       url: https://www.qianwen.com/
@@ -511,10 +511,6 @@
       logo: szairport.webp
       url: https://www.szairport.com/
       description: 从心出发，连通世界
-    - title: 飞猪旅行
-      logo: fliggy.webp
-      url: https://www.fliggy.com/
-      description: 比梦想走更远
     - title: 携程旅行
       logo: ctrip.webp
       url: https://www.ctrip.com/
@@ -523,6 +519,10 @@
       logo: ly.webp
       url: https://www.ly.com/
       description: 再出发，就同程
+    - title: 飞猪旅行
+      logo: fliggy.webp
+      url: https://www.fliggy.com/
+      description: 比梦想走更远
     - title: 去哪儿旅行
       logo: qunar.webp
       url: https://flight.qunar.com/
