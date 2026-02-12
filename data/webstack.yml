@@ -828,15 +828,9 @@
         - title: RackNerd
           logo: racknerd.webp
           url: https://www.racknerd.com/
-        - title: CloudCone
-          logo: cloudcone.webp
-          url: https://cloudcone.com/
         - title: Wawo
           logo: wawo.webp
-          url: https://wawo.wiki/  
-        - title: CometVPS
-          logo: comet.webp
-          url: https://cometvps.com/
+          url: https://wawo.wiki/ 
         - title: Oracle Cloud
           logo: oracle.webp
           url: https://www.oracle.com/cloud/sign-in.html
