@@ -542,14 +542,6 @@
       logo: iCloudMail.webp
       url: https://www.icloud.com/mail
       description: 由Apple提供的私密、安全且个性化的电子邮件服务
-    - title: Proton Mail
-      logo: protonmail.webp
-      url: https://protonmail.com/zh-Hans/
-      description: 保护您隐私的安全电子邮件
-    - title: Tuta Mail
-      logo: tutamail.webp
-      url: https://app.tuta.com/mail/
-      description: 最佳电子邮件服务：端到端加密且无广告
     - title: 电信189邮箱
       logo: 189mail.webp
       url: https://mail.189.cn/
