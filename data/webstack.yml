@@ -281,14 +281,22 @@
       logo: tongyi.webp
       url: https://www.qianwen.com/
       description: 阿里推出的一个不断进化的AI大模型
-    - title: DeepSeek
-      logo: deepseek.webp
-      url: https://chat.deepseek.com/
-      description: 探索未至之境
+    - title: 通义万相
+      logo: tongyi.webp
+      url: https://tongyi.aliyun.com/wan/
+      description: 一个不断进化的人工智能艺术创作大模型
+    - title: 通义法睿
+      logo: tongyi.webp
+      url: https://tongyi.aliyun.com/farui/chat
+      description: 让法律事务更快、更准、更智能
     - title: 豆包
       logo: doubao.webp
       url: https://www.doubao.com/chat/
       description: 抖音旗下AI智能助手
+    - title: DeepSeek
+      logo: deepseek.webp
+      url: https://chat.deepseek.com/
+      description: 探索未至之境
     - title: 智谱清言
       logo: zpqy.webp
       url: https://chatglm.cn/
@@ -297,38 +305,10 @@
       logo: kimi.webp
       url: https://kimi.moonshot.cn/
       description: 帮你看更大的世界
-    - title: 通义万相
-      logo: tongyi.webp
-      url: https://tongyi.aliyun.com/wan/
-      description: 一个不断进化的人工智能艺术创作大模型
-    - title: 腾讯元宝
-      logo: yuanbao.webp
-      url: https://yuanbao.tencent.com/
-      description: 轻松工作，多点生活
-    - title: 秘塔AI搜索
-      logo: mita.webp
-      url: https://metaso.cn/
-      description: 没有广告，直达结果
-    - title: 文心一言
-      logo: wenxin.webp
-      url: https://yiyan.baidu.com/
-      description: 百度推出的AI大模型
-    - title: 讯飞星火
-      logo: xfxh.webp
-      url: https://xinghuo.xfyun.cn/
-      description: 讯飞星火认知大模型-AI大语言模型——星火大模型——科大讯飞
-    - title: 通义法睿
-      logo: tongyi.webp
-      url: https://tongyi.aliyun.com/farui/chat
-      description: 让法律事务更快、更准、更智能
     - title: Canva可画
       logo: canva.webp
       url: https://www.canva.cn/
       description: 一句话生成海报、PPT、视频、漫画、头像等千万模板
-    - title: 秘塔写作猫
-      logo: mita.webp
-      url: https://xiezuocat.com/
-      description: AI写作，文章自成
     - title: 即梦AI
       logo: jimengai.webp
       url: https://jimeng.jianying.com/
