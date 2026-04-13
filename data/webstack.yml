@@ -922,14 +922,14 @@
           logo: ip125.com.webp
           url: https://ip125.com/
           description: 查询我的IP地址|国内外IP查询|WebRTC Leak Test……
-        - title: IP查询(ipw.cn)
-          logo: ipw.cn.webp
-          url: https://ipw.cn/
-          description: IPv6测试|IPv6网站检测|IP地址查询
         - title: IPpure
           logo: ippure.webp
           url: https://ippure.com/
           description: IP地址信息和纯净度检测
+        - title: IPLark
+          logo: iplark.webp
+          url: https://iplark.com/
+          description: 查看本机IP地址-我的IP归属地
         - title: W.is 
           logo: wis.webp
           url: https://w.is/
@@ -950,14 +950,6 @@
           logo: namebeta.webp
           url: https://namebeta.com/zh
           description: 域名注册比价&可用性检查
-        - title: IPLark
-          logo: iplark.webp
-          url: https://iplark.com/
-          description: 查看本机IP地址-我的IP归属地
-        - title: IP2LOCATION
-          logo: ip2location.webp
-          url: https://ip2location.com/
-          description: IP Address to IP Location and Proxy Infomation
 - taxonomy: 工具资源
   icon: fa-regular fa-folder-open
   list: 
@@ -1120,6 +1112,26 @@
       logo: paypal.webp
       url: https://www.paypal.com/c2/home
       description: 安全海淘国际支付平台
+    - title: Wise
+      logo: wise.webp
+      url: https://wise.com/
+      description: 随时随地，汇无国界
+    - title: N26
+      logo: n26.webp
+      url: https://n26.com/en-eu
+      description: 第一家让你爱上的银行
+    - title: iFAST
+      logo: ifast.webp
+      url: https://www.ifastgb.com/zh/home
+      description: 连接您与世界的英国数字银行
+    - title: NEXO
+      logo: nexo.webp
+      url: https://nexo.com/zh
+      description: 赚息、借款、消费。 一站式尽在 Nexo。
+    - title: ZA Bank
+      logo: za.webp
+      url: https://bank.za.group/
+      description: 香港第一数字银行
     - title: 工商银行
       logo: icbc.webp
       url: https://www.icbc.com.cn/icbc/
