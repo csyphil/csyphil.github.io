@@ -139,10 +139,10 @@
       logo: bitget.webp
       url: https://www.bitget.com/zh-CN
       description: 领先的加密货币交易平台
-    - title: Backpack
-      logo: backpack.webp
-      url: https://backpack.exchange/
-      description: 数字货币交易所&钱包
+    - title: Hyperliquid
+      logo: hyperliquid.webp
+      url: https://app.hyperliquid.xyz/trade
+      description: 一个完全链上的开放金融系统
     - title: CoinGecko 
       logo: coingecko.webp
       url: https://www.coingecko.com/zh
