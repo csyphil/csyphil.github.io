@@ -565,10 +565,6 @@
       logo: jianguoyun.webp
       url: https://www.jianguoyun.com/
       description: 坚果云官网
-    - title: OneDrive
-      logo: OneDrive.webp
-      url: https://onedrive.live.com/
-      description: 通过OneDrive安全地保存和共享重要内容
     - title: iCloud 
       logo: iCloud.webp
       url: https://www.icloud.com/
@@ -577,6 +573,10 @@
       logo: gdrive.webp
       url: https://drive.google.com/
       description: 随时随地从任何设备安全访问文件
+    - title: OneDrive
+      logo: OneDrive.webp
+      url: https://onedrive.live.com/
+      description: 通过OneDrive安全地保存和共享重要内容
     - title: 天翼云盘
       logo: tydisk.webp
       url: https://cloud.189.cn/
@@ -839,14 +839,14 @@
           logo: dynadot.webp
           url: https://www.dynadot.com/zh/
           description: 超级域名交易平台
-        - title: Namecheap
-          logo: namecheap.webp
-          url: https://www.namecheap.com/
-          description: 为您提供经济实惠的域名与托管服务
         - title: Spaceship
           logo: spaceship.webp
           url: https://www.spaceship.com/zh/
           description: 为开发者和创作者打造的强大工具
+        - title: Namecheap
+          logo: namecheap.webp
+          url: https://www.namecheap.com/
+          description: 为您提供经济实惠的域名与托管服务
         - title: Porkbun
           logo: porkbun.webp
           url: https://porkbun.com/
