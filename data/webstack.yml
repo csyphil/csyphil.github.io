@@ -123,6 +123,29 @@
       logo: bxm.webp
       url: https://tool.browser.qq.com/
       description: 腾讯在线工具箱平台
+    - title: ACWiFi
+      logo: acwifi.webp
+      url: https://www.acwifi.net/
+      description: 路由器技术分享交流
+    - title: 驾考宝典
+      logo: jkbd.webp
+      url: https://shenzhen.jiakaobaodian.com/
+      description: 驾照考试，就用驾考宝典！
+    - title: 今日热榜
+      logo: tophub.webp
+      url: https://tophub.today/
+      description: 追踪全网热点，简单高效阅读
+    - title: 盘搜VIP
+      logo: pansou.webp
+      url: https://www.pansou.vip/
+      description: 人工亲测精选的网盘搜索工具导航
+    - title: 记灵在线工具
+      logo: jl.webp
+      url: https://remeins.com/
+      description: 更专注于发现工具的实用性
+- taxonomy: 加密货币
+  icon: fa-brands fa-btc
+  links:
     - title: 币安(Binance)
       logo: binance.webp
       url: https://www.binance.com/zh-CN
@@ -163,26 +186,6 @@
       logo: tradingview.webp
       url: https://cn.tradingview.com/
       description: 追踪所有市场
-    - title: ACWiFi
-      logo: acwifi.webp
-      url: https://www.acwifi.net/
-      description: 路由器技术分享交流
-    - title: 驾考宝典
-      logo: jkbd.webp
-      url: https://shenzhen.jiakaobaodian.com/
-      description: 驾照考试，就用驾考宝典！
-    - title: 今日热榜
-      logo: tophub.webp
-      url: https://tophub.today/
-      description: 追踪全网热点，简单高效阅读
-    - title: 盘搜VIP
-      logo: pansou.webp
-      url: https://www.pansou.vip/
-      description: 人工亲测精选的网盘搜索工具导航
-    - title: 记灵在线工具
-      logo: jl.webp
-      url: https://remeins.com/
-      description: 更专注于发现工具的实用性
 - taxonomy: 社媒平台
   icon: fa-regular fa-comments
   links:
@@ -267,7 +270,7 @@
       url: https://www.reddit.com/
       description: 尽情探索任何事物
 - taxonomy: 人工智能
-  icon: fa-solid fa-robot
+  icon: fa-brands fa-openai
   links: 
     - title: Gemini
       logo: gemini.webp
