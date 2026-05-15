@@ -166,6 +166,14 @@
       logo: hyperliquid.webp
       url: https://app.hyperliquid.xyz/trade
       description: 一个完全链上的开放金融系统
+    - title: Jupiter
+      logo: jupiter.webp
+      url: https://jup.ag/
+      description: Solana链上的交易聚合器
+    - title: Polymarket
+      logo: polymarket.webp
+      url: https://polymarket.com/zh
+      description: 全球最大的预测市场
     - title: CoinGecko 
       logo: coingecko.webp
       url: https://www.coingecko.com/zh
@@ -270,7 +278,7 @@
       url: https://www.reddit.com/
       description: 尽情探索任何事物
 - taxonomy: 人工智能
-  icon: fa-brands fa-openai
+  icon: fa-solid fa-robot
   links: 
     - title: Gemini
       logo: gemini.webp
