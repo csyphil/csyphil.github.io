@@ -308,10 +308,10 @@
       logo: deepseek.webp
       url: https://chat.deepseek.com/
       description: 探索未至之境
-    - title: 智谱清言
-      logo: zpqy.webp
-      url: https://chatglm.cn/
-      description: 连接人与知识
+    - title: 腾讯元宝
+      logo: txyb.webp
+      url: https://yuanbao.tencent.com/
+      description: 腾讯旗下全能AI助手
     - title: Kimi.ai
       logo: kimi.webp
       url: https://kimi.moonshot.cn/
@@ -356,9 +356,9 @@
       logo: perplexity.webp
       url: https://www.perplexity.ai/
       description: 知识开始的地方
-    - title: Sora
-      logo: sora.webp
-      url: https://sora.com/explore
+    - title: Sora2
+      logo: sora2.webp
+      url: https://sora2.com/zh
       description: Sora是一个可以根据文本指令创建现实和富有想象力的场景的AI模型
     - title: Midjourney
       logo: midjourney.webp
@@ -533,14 +533,14 @@
       logo: iCloudMail.webp
       url: https://www.icloud.com/mail
       description: 由Apple提供的私密、安全且个性化的电子邮件服务
-    - title: 电信189邮箱
-      logo: 189mail.webp
-      url: https://mail.189.cn/
       description: 爱简单 
     - title: 移动139邮箱
       logo: 139mail.webp
       url: https://mail.10086.cn/
       description: 手机号就是邮箱号
+    - title: 电信189邮箱
+      logo: 189mail.webp
+      url: https://mail.189.cn/
     - title: 10Mins Mail
       logo: mail.webp
       url: https://10minutemail.com/?lang=zh
@@ -588,15 +588,14 @@
       logo: OneDrive.webp
       url: https://onedrive.live.com/
       description: 通过OneDrive安全地保存和共享重要内容
-    - title: 天翼云盘
-      logo: tydisk.webp
-      url: https://cloud.189.cn/
-      description: 家庭云|网盘|文件备份|资源分享
     - title: 中国移动云盘
       logo: yddisk.webp
       url: https://yun.139.com/
       description: 不限速免流量的云盘
-
+    - title: 天翼云盘
+      logo: tydisk.webp
+      url: https://cloud.189.cn/
+      description: 家庭云|网盘|文件备份|资源分享
 - taxonomy: 工作办公
   icon: fa-solid fa-briefcase
   list:
