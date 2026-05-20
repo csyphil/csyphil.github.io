@@ -533,7 +533,6 @@
       logo: iCloudMail.webp
       url: https://www.icloud.com/mail
       description: 由Apple提供的私密、安全且个性化的电子邮件服务
-      description: 爱简单 
     - title: 移动139邮箱
       logo: 139mail.webp
       url: https://mail.10086.cn/
@@ -541,6 +540,7 @@
     - title: 电信189邮箱
       logo: 189mail.webp
       url: https://mail.189.cn/
+      description: 爱简单 
     - title: 10Mins Mail
       logo: mail.webp
       url: https://10minutemail.com/?lang=zh
