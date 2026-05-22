@@ -521,6 +521,10 @@
 - taxonomy: 电子邮箱
   icon: fa-solid fa-at
   links: 
+    - title: 163网易免费邮
+      logo: 163.webp
+      url: https://mail.163.com/
+      description: 你的专业电子邮局
     - title: Outlook
       logo: outlook.webp
       url: https://www.outlook.com/
@@ -533,6 +537,10 @@
       logo: iCloudMail.webp
       url: https://www.icloud.com/mail
       description: 由Apple提供的私密、安全且个性化的电子邮件服务
+    - title: Proton Mail
+      logo: protonmail.webp
+      url: https://mail.proton.me/
+      description: 安全电子邮件，保护您的隐私
     - title: 移动139邮箱
       logo: 139mail.webp
       url: https://mail.10086.cn/
