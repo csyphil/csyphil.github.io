@@ -174,6 +174,18 @@
       logo: polymarket.webp
       url: https://polymarket.com/zh
       description: 全球最大的预测市场
+    - title: N26
+      logo: n26.webp
+      url: https://n26.com/en-eu
+      description: 第一家让你爱上的银行
+    - title: iFAST
+      logo: ifast.webp
+      url: https://www.ifastgb.com/zh/home
+      description: 连接您与世界的英国数字银行
+    - title: NEXO
+      logo: nexo.webp
+      url: https://nexo.com/zh
+      description: 赚息、借款、消费。 一站式尽在 Nexo。
     - title: CoinGecko 
       logo: coingecko.webp
       url: https://www.coingecko.com/zh
@@ -645,10 +657,6 @@
           logo: liepin.webp
           url: https://www.liepin.com/city-sz/
           description: 要涨薪，就用猎聘聊
-        - title: 拉勾招聘
-          logo: lagou.webp
-          url: https://www.lagou.com/shenzhen/
-          description: 上拉勾招聘，专业的互联网招聘网站
     - term: 文档笔记
       links:
         - title: 腾讯文档
@@ -1118,34 +1126,14 @@
       logo: mybank.webp
       url: https://www.mybank.cn/
       description: 网商银行，无微不至
-    - title: 微信支付
-      logo: wechatpay.webp
-      url: https://pay.weixin.qq.com/
-      description: 微信支付，不止支付
-    - title: 微众银行
-      logo: webank.webp
-      url: https://www.webank.com/
-      description: 我们，让更好发生
-    - title: PayPal
-      logo: paypal.webp
-      url: https://www.paypal.com/c2/home
-      description: 安全海淘国际支付平台
     - title: Wise
       logo: wise.webp
       url: https://wise.com/
       description: 随时随地，汇无国界
-    - title: N26
-      logo: n26.webp
-      url: https://n26.com/en-eu
-      description: 第一家让你爱上的银行
-    - title: iFAST
-      logo: ifast.webp
-      url: https://www.ifastgb.com/zh/home
-      description: 连接您与世界的英国数字银行
-    - title: NEXO
-      logo: nexo.webp
-      url: https://nexo.com/zh
-      description: 赚息、借款、消费。 一站式尽在 Nexo。
+    - title: PayPal
+      logo: paypal.webp
+      url: https://www.paypal.com/c2/home
+      description: 安全海淘国际支付平台
     - title: ZA Bank
       logo: za.webp
       url: https://bank.za.group/
