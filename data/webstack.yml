@@ -166,6 +166,14 @@
       logo: hyperliquid.webp
       url: https://app.hyperliquid.xyz/trade
       description: 一个完全链上的开放金融系统
+    - title: Kraken
+      logo: kraken.webp
+      url: https://www.kraken.com/zh-cn
+      description: 安全的买入和卖出加密货币
+    - title: Neverless
+      logo: neverless.webp
+      url: https://neverless.com/zh
+      description: 唯一一个零手续费且拥有最优市场价格的平台
     - title: Jupiter
       logo: jupiter.webp
       url: https://jup.ag/
@@ -174,6 +182,10 @@
       logo: polymarket.webp
       url: https://polymarket.com/zh
       description: 全球最大的预测市场
+    - title: NEXO
+      logo: nexo.webp
+      url: https://nexo.com/zh
+      description: 赚息、借款、消费。 一站式尽在 Nexo。
     - title: N26
       logo: n26.webp
       url: https://n26.com/en-eu
@@ -182,10 +194,6 @@
       logo: ifast.webp
       url: https://www.ifastgb.com/zh/home
       description: 连接您与世界的英国数字银行
-    - title: NEXO
-      logo: nexo.webp
-      url: https://nexo.com/zh
-      description: 赚息、借款、消费。 一站式尽在 Nexo。
     - title: CoinGecko 
       logo: coingecko.webp
       url: https://www.coingecko.com/zh
@@ -198,14 +206,6 @@
       logo: odaily.webp
       url: https://www.odaily.news/zh-CN
       description: 专业区块链与加密货币新闻、行情分析与投资资讯平台
-    - title: PANews 
-      logo: panews.webp
-      url: https://www.panewslab.com/zh
-      description: 你的Web3信息官
-    - title: TradingView
-      logo: tradingview.webp
-      url: https://cn.tradingview.com/
-      description: 追踪所有市场
 - taxonomy: 社媒平台
   icon: fa-regular fa-comments
   links:
@@ -657,6 +657,10 @@
           logo: liepin.webp
           url: https://www.liepin.com/city-sz/
           description: 要涨薪，就用猎聘聊
+        - title: 鱼泡招聘
+          logo: yupao.webp
+          url: https://www.yupao.com/
+          description: 
     - term: 文档笔记
       links:
         - title: 腾讯文档
@@ -1076,10 +1080,6 @@
           logo: localsend.webp
           url: https://localsend.org/zh-CN
           description: 面向所有人的开源跨平台文件共享
-        - title: PP直连
-          logo: ppzhilian.webp
-          url: https://www.ppzhilian.com/
-          description: 无缝直连，传输与共享
 - taxonomy: 政府部门         
   icon: fa-solid fa-user-tie
   links:
