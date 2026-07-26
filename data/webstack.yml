@@ -115,14 +115,13 @@
       logo: epic.webp
       url: https://store.epicgames.com/zh-CN/
       description: Epic游戏商城
+    - title: OP.GG
+      logo: op.gg.webp
+      url: https://op.gg/zh-cn
     - title: NGA玩家社区
       logo: nga.webp
       url: https://bbs.nga.cn/
       description: 精英玩家俱乐部
-    - title: 快捷键备忘录
-      logo: hotkey.webp
-      url: https://hotkeycheatsheet.com/zh
-      description: 通过提供常用快捷键的快速访问来帮助用户提高生产力
     - title: 盘搜VIP
       logo: pansou.webp
       url: https://www.pansou.vip/
@@ -168,7 +167,7 @@
       description: 安全的买入和卖出加密货币
     - title: Neverless
       logo: neverless.webp
-      url: https://neverless.com/zh
+      url: https://neverless.com/zh-Hans
       description: 唯一一个零手续费且拥有最优市场价格的平台
     - title: Jupiter
       logo: jupiter.webp
@@ -774,10 +773,10 @@
       logo: all2all.webp
       url: https://www.alltoall.net/
       description: 200+免费的在线格式转换工具
-    - title: 太美工具网
-      logo: tiomg.webp
-      url: https://tiomg.org/
-      description: 免费在线图片、PDF、开发者工具
+    - title: Sejda-在线PDF编辑器
+      logo: sejda.webp
+      url: https://www.sejda.com/zh/pdf-editor
+      description: 免费编辑 PDF 文件. 填写并签名 PDF
     - title: 123工具网
       logo: 123apps.webp
       url: https://123apps.com/cn/
@@ -970,7 +969,7 @@
           description: 全球Whois查询
         - title: TLD-LIST
           logo: tld-list.webp
-          url: https://zh-hans.tld-list.com/
+          url: https://tld-list.com/zh-hans
           description: 比较所有顶级域名的价格
         - title: 哪煮米
           logo: nazhumi.webp
@@ -1033,10 +1032,6 @@
         - title: 转发点赞生成器
           logo: akarin.dev.webp
           url: https://akarin.dev/WechatMomentScreenshot/
-        - title: 阅后即焚
-          logo: yhjf.webp
-          url: https://sesme.lylares.com/
-          description: 可输入文字图片emoji
         - title: 周报生成器
           logo: weeklyreport.webp
           url: https://weeklyreport.avemaria.fun/zh
