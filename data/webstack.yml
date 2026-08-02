@@ -115,6 +115,10 @@
       logo: epic.webp
       url: https://store.epicgames.com/zh-CN/
       description: Epic游戏商城
+    - title: LOL攻略中心
+      logo: lol.webp
+      url: https://101.qq.com/#/hero-rank-fight
+      description: 英雄联盟攻略中心
     - title: OP.GG
       logo: op.gg.webp
       url: https://op.gg/zh-cn
@@ -138,7 +142,7 @@
       logo: jl.webp
       url: https://remeins.com/
       description: 更专注于发现工具的实用性
-- taxonomy: 加密货币
+- taxonomy: 金融交易
   icon: fa-brands fa-btc
   links:
     - title: 币安(Binance)
@@ -165,10 +169,6 @@
       logo: kraken.webp
       url: https://www.kraken.com/zh-cn
       description: 安全的买入和卖出加密货币
-    - title: Neverless
-      logo: neverless.webp
-      url: https://neverless.com/zh-Hans
-      description: 唯一一个零手续费且拥有最优市场价格的平台
     - title: Jupiter
       logo: jupiter.webp
       url: https://jup.ag/
