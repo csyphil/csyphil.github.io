@@ -142,65 +142,6 @@
       logo: jl.webp
       url: https://remeins.com/
       description: 更专注于发现工具的实用性
-- taxonomy: 金融交易
-  icon: fa-brands fa-btc
-  links:
-    - title: 币安(Binance)
-      logo: binance.webp
-      url: https://www.binance.com/zh-CN
-      description: 全球最值得信赖的加密货币买卖和投资平台
-    - title: 欧易(OKX)
-      logo: okx.webp
-      url: https://www.okx.com/zh-hans
-      description: 全球领先的比特币交易平台
-    - title: Bybit
-      logo: bybit.webp
-      url: https://www.bybit.com/zh-MY/
-      description: 买卖交易BTC和非主流币
-    - title: Bitget
-      logo: bitget.webp
-      url: https://www.bitget.com/zh-CN
-      description: 领先的加密货币交易平台
-    - title: Hyperliquid
-      logo: hyperliquid.webp
-      url: https://app.hyperliquid.xyz/trade
-      description: 一个完全链上的开放金融系统
-    - title: Kraken
-      logo: kraken.webp
-      url: https://www.kraken.com/zh-cn
-      description: 安全的买入和卖出加密货币
-    - title: Jupiter
-      logo: jupiter.webp
-      url: https://jup.ag/
-      description: Solana链上的交易聚合器
-    - title: Polymarket
-      logo: polymarket.webp
-      url: https://polymarket.com/zh
-      description: 全球最大的预测市场
-    - title: NEXO
-      logo: nexo.webp
-      url: https://nexo.com/zh
-      description: 赚息、借款、消费。 一站式尽在 Nexo。
-    - title: N26
-      logo: n26.webp
-      url: https://n26.com/en-eu
-      description: 第一家让你爱上的银行
-    - title: iFAST
-      logo: ifast.webp
-      url: https://www.ifastgb.com/zh/home
-      description: 连接您与世界的英国数字银行
-    - title: CoinGecko 
-      logo: coingecko.webp
-      url: https://www.coingecko.com/zh
-      description: 加密货币实时行情：价格、走势图和市值排名
-    - title: CoinMarketCap
-      logo: cmc.webp
-      url: https://coinmarketcap.com/zh/
-      description: 数字货币行情
-    - title: ODaily星球日报
-      logo: odaily.webp
-      url: https://www.odaily.news/zh-CN
-      description: 专业区块链与加密货币新闻、行情分析与投资资讯平台
 - taxonomy: 社媒平台
   icon: fa-regular fa-comments
   links:
@@ -379,6 +320,65 @@
       logo: grammarly.webp
       url: https://www.grammarly.com/
       description: 免费的AI写作助手
+- taxonomy: 金融交易
+  icon: fa-brands fa-btc
+  links:
+    - title: 币安(Binance)
+      logo: binance.webp
+      url: https://www.binance.com/zh-CN
+      description: 全球最值得信赖的加密货币买卖和投资平台
+    - title: 欧易(OKX)
+      logo: okx.webp
+      url: https://www.okx.com/zh-hans
+      description: 全球领先的比特币交易平台
+    - title: Bybit
+      logo: bybit.webp
+      url: https://www.bybit.com/zh-MY/
+      description: 买卖交易BTC和非主流币
+    - title: Bitget
+      logo: bitget.webp
+      url: https://www.bitget.com/zh-CN
+      description: 领先的加密货币交易平台
+    - title: Hyperliquid
+      logo: hyperliquid.webp
+      url: https://app.hyperliquid.xyz/trade
+      description: 一个完全链上的开放金融系统
+    - title: Kraken
+      logo: kraken.webp
+      url: https://www.kraken.com/zh-cn
+      description: 安全的买入和卖出加密货币
+    - title: Jupiter
+      logo: jupiter.webp
+      url: https://jup.ag/
+      description: Solana链上的交易聚合器
+    - title: Polymarket
+      logo: polymarket.webp
+      url: https://polymarket.com/zh
+      description: 全球最大的预测市场
+    - title: NEXO
+      logo: nexo.webp
+      url: https://nexo.com/zh
+      description: 赚息、借款、消费。 一站式尽在 Nexo。
+    - title: N26
+      logo: n26.webp
+      url: https://n26.com/en-eu
+      description: 第一家让你爱上的银行
+    - title: iFAST
+      logo: ifast.webp
+      url: https://www.ifastgb.com/zh/home
+      description: 连接您与世界的英国数字银行
+    - title: CoinGecko 
+      logo: coingecko.webp
+      url: https://www.coingecko.com/zh
+      description: 加密货币实时行情：价格、走势图和市值排名
+    - title: CoinMarketCap
+      logo: cmc.webp
+      url: https://coinmarketcap.com/zh/
+      description: 数字货币行情
+    - title: ODaily星球日报
+      logo: odaily.webp
+      url: https://www.odaily.news/zh-CN
+      description: 专业区块链与加密货币新闻、行情分析与投资资讯平台
 - taxonomy: 影音视听
   icon: fa-solid fa-photo-film
   links:
