@@ -75,10 +75,10 @@
       logo: flyert.webp
       url: https://www.flyert.com/
       description: 享此刻·享未来
-    - title: IP111.cn
-      logo: linshi.webp
-      url: https://ip111.cn/
-      description: 全方位查询你的IP
+    - title: SKK IP查询
+      logo: ipskk.webp
+      url: https://ip.skk.moe/
+      description: IP地址、连通性、CDN、DNS查询
     - title: IT之家
       logo: ithome.webp
       url: https://www.ithome.com/
@@ -347,14 +347,6 @@
       logo: kraken.webp
       url: https://www.kraken.com/zh-cn
       description: 安全的买入和卖出加密货币
-    - title: Jupiter
-      logo: jupiter.webp
-      url: https://jup.ag/
-      description: Solana链上的交易聚合器
-    - title: Polymarket
-      logo: polymarket.webp
-      url: https://polymarket.com/zh
-      description: 全球最大的预测市场
     - title: NEXO
       logo: nexo.webp
       url: https://nexo.com/zh
@@ -362,7 +354,7 @@
     - title: N26
       logo: n26.webp
       url: https://n26.com/en-eu
-      description: 第一家让你爱上的银行
+      description: 第一家让你爱上的德国银行
     - title: iFAST
       logo: ifast.webp
       url: https://www.ifastgb.com/zh/home
@@ -371,6 +363,14 @@
       logo: za.webp
       url: https://bank.za.group/
       description: 香港第一数字银行
+    - title: Jupiter
+      logo: jupiter.webp
+      url: https://jup.ag/
+      description: Solana链上的交易聚合器
+    - title: Polymarket
+      logo: polymarket.webp
+      url: https://polymarket.com/zh
+      description: 全球最大的预测市场
     - title: CoinGecko 
       logo: coingecko.webp
       url: https://www.coingecko.com/zh
@@ -931,10 +931,10 @@
           logo: ipaddress.webp
           url: https://www.ipaddress.com/
           description: What's my IP ？
-        - title: SKK IP查询
-          logo: ipskk.webp
-          url: https://ip.skk.moe/
-          description: IP地址、连通性、CDN、DNS查询
+        - title: IP111.cn
+          logo: linshi.webp
+          url: https://ip111.cn/
+          description: 全方位查询你的IP
         - title: DNS Leak Test
           logo: dnsleaktest.webp
           url: https://browserleaks.com/dns
@@ -1136,7 +1136,7 @@
     - title: 汇丰香港
       logo: hsbc.webp
       url: https://www.hsbc.com.hk/zh-cn/
-      description: 我带着离开的决心，只为了更辉煌的归来
+      description: 环球金融，地方智慧
     - title: 工商银行
       logo: icbc.webp
       url: https://www.icbc.com.cn/icbc/
