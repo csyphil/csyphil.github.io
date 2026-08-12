@@ -228,14 +228,14 @@
 - taxonomy: 人工智能
   icon: fa-solid fa-robot
   links: 
-    - title: Gemini
-      logo: gemini.webp
-      url: https://gemini.google.com/
-      description: 轻松对话，获取创意灵感
     - title: ChatGPT
       logo: chatgpt.webp
       url: https://chatgpt.com/
       description: 满足您各种需求的AI助手
+    - title: Gemini
+      logo: gemini.webp
+      url: https://gemini.google.com/
+      description: 轻松对话，获取创意灵感
     - title: 千问
       logo: tongyi.webp
       url: https://www.qianwen.com/
@@ -367,6 +367,10 @@
       logo: ifast.webp
       url: https://www.ifastgb.com/zh/home
       description: 连接您与世界的英国数字银行
+    - title: 众安银行
+      logo: za.webp
+      url: https://bank.za.group/
+      description: 香港第一数字银行
     - title: CoinGecko 
       logo: coingecko.webp
       url: https://www.coingecko.com/zh
@@ -540,14 +544,14 @@
       logo: outlook.webp
       url: https://www.outlook.com/
       description: 来自Microsoft的个人免费邮件和日历
-    - title: Yahoo Mail
-      logo: yahoo.webp
-      url: https://mail.yahoo.com/
-      description: 体验一流的Yahoo邮箱
     - title: iCloud Mail
       logo: iCloudMail.webp
       url: https://www.icloud.com/mail
       description: 由Apple提供的私密、安全且个性化的电子邮件服务
+    - title: Yahoo Mail
+      logo: yahoo.webp
+      url: https://mail.yahoo.com/
+      description: 体验一流的Yahoo邮箱
     - title: Proton Mail
       logo: protonmail.webp
       url: https://mail.proton.me/
@@ -852,10 +856,10 @@
           logo: netlify.webp
           url: https://www.netlify.com/
           description: 把所有东西整合在一起
-        - title: Who.cx
-          logo: linshi.webp
-          url: https://who.cx/
-          description: Whois查询
+        - title: tian.hu
+          logo: tianhu.webp
+          url: https://tian.hu/
+          description: 全球Whois查询
         - title: Downdetector
           logo: downdetector.webp
           url: https://downdetector.com/
@@ -963,10 +967,10 @@
           logo: wis.webp
           url: https://w.is/
           description: Whois Lookup Tool 
-        - title: tian.hu
-          logo: tianhu.webp
-          url: https://tian.hu/
-          description: 全球Whois查询
+        - title: Who.cx
+          logo: linshi.webp
+          url: https://who.cx/
+          description: Whois查询
         - title: TLD-LIST
           logo: tld-list.webp
           url: https://tld-list.com/zh-hans
@@ -1129,10 +1133,10 @@
       logo: paypal.webp
       url: https://www.paypal.com/c2/home
       description: 安全海淘国际支付平台
-    - title: ZA Bank
-      logo: za.webp
-      url: https://bank.za.group/
-      description: 香港第一数字银行
+    - title: 汇丰香港
+      logo: hsbc.webp
+      url: https://www.hsbc.com.hk/zh-cn/
+      description: 我带着离开的决心，只为了更辉煌的归来
     - title: 工商银行
       logo: icbc.webp
       url: https://www.icbc.com.cn/icbc/
