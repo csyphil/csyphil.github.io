@@ -5,11 +5,7 @@ var theme = {"order":"asc","formpostion":"top","defaultclass":"io-grey-mode","ne
 </script>
 <script type='text/javascript' src='{{ relURL "assets/js/popper.min.js" }}' id='popper-js'></script>
 <script type='text/javascript' src='{{ relURL "assets/js/bootstrap.min-4.3.1.js" }}' id='bootstrap-js'></script>
-{{ if $.Site.Params.expandSidebar }}
-<script type='text/javascript' src='{{ relURL "assets/js/app-anim.js" }}' id='appanim-js'></script>
-{{ else }}
 <script type='text/javascript' src='{{ relURL "assets/js/app-mini.js" }}' id='appmini-js'></script>
-{{ end }}
 <script>
     $(document).ready(() => {
         const $body = $('body');
