@@ -18,7 +18,6 @@ var theme = {"order":"asc","formpostion":"top","defaultclass":"io-grey-mode","ne
     
         // 初始化
         autoSwitchMode();
-        hideWelcomeMessage();
         updateMode();
     
         // 点击按钮切换模式
@@ -42,14 +41,6 @@ var theme = {"order":"asc","formpostion":"top","defaultclass":"io-grey-mode","ne
                 }, 500, 'swing');
             }
         });
-
-        // 无ajax标签页点击处理
-        $(document).on('click', 'a.tab-noajax', (ev) => {
-            const $target = $(ev.currentTarget);
-            const url = $target.data('link');
-            const $tabMove = $target.closest('.d-flex.flex-fill.flex-tab').find('.btn-move.tab-move');
-            $tabMove.toggle(!!url).attr('href', url);
-        });
     
         // 更新模式相关的样式和元素
         function updateMode() {
@@ -72,15 +63,6 @@ var theme = {"order":"asc","formpostion":"top","defaultclass":"io-grey-mode","ne
             const isNightMode = currentHour >= 18 || currentHour < 6;
             $body.toggleClass('io-black-mode', isNightMode).toggleClass('io-grey-mode', !isNightMode);
             updateMode();
-        }
-    
-        // 隐藏欢迎消息
-        function hideWelcomeMessage() {
-            const $loading = $('#loading');
-            $loading.addClass('close');
-            requestAnimationFrame(() => {
-                setTimeout(() => $loading.remove(), 600);
-            });
         }
     });
 </script>    
