@@ -486,12 +486,6 @@ footer.main-footer{padding:20px 30px;margin-top:0px}
 .slider-menu-father{border-radius:100px;overflow:hidden}
 .media-title-bg:before{content:"";position:absolute;left:0;height:80px;right:0;bottom:0;background-image:linear-gradient(to top,rgba(0,0,0,.5) 20%,transparent 80%)}
 .external{padding-right:5px}
-.nav-login-user{position: relative;}
-.nav-login-user .user-ico img{width:28px;height:28px;border-radius:100%}
-.nav-login-user .header-user{position: absolute;opacity: 0;width: 400px;right: -30px;visibility: hidden;transition:.3s;}
-.nav-login-user:hover .header-user{opacity:1;visibility: visible;}
-.user-card-top img{width:46px;height:46px;border-radius:100%}
-.nav-login-user .card-top{padding-bottom:10px;border-bottom:1px dashed #cecece}
 .fancybox-slide--iframe .fancybox-content{max-width:1280px;margin:0}
 .fancybox-slide--iframe.fancybox-slide{padding:44px 0}
 .fancybox-toolbar{right:calc(50% - 22px);top:22px}
@@ -877,18 +871,6 @@ input.nav-link:disabled,input.nav-link[readonly]{background-color:transparent;op
 .tougao-form img{max-width:100%} 
 #alert_placeholder .alert{display:inline-block}
 #tougaocategorg{padding-left:8px}
-.slider_menu[sliderTab]{position:relative;display:inline-block}
-.slider_menu[sliderTab]>.menu{position:relative;white-space:nowrap;margin:0;text-align:center;display:inline-block;background:rgba(0,0,0,.1);border-radius:100px;padding:5px}
-.slider_menu[sliderTab] .anchor{background:#f1404b;border-radius:100px;width:60px;height:40px;opacity:0;-webkit-transition:.25s;transition:.25s}
-.slider_menu[sliderTab]>.menu>li{display:inline-block;cursor:pointer}
-.slider_menu[sliderTab]>.menu>li{display:inline-block;cursor:pointer}
-.slider_menu[sliderTab]>.menu>li.next,.slider_menu[sliderTab]>.menu>li.prev,.slider_menu[sliderTab]>.menu>li>.sub-menu{display:none}
-.slider_menu[sliderTab]>.menu>li>a{display:block;text-decoration:none;position:relative;color:#888;height:40px;line-height:40px;text-align:center;font-size:14px;padding:0 16px;-webkit-transition:.25s;transition:.25s}
-.slider_menu[sliderTab]>.menu>li>a:hover{color:#fff}
-.slider_menu[sliderTab]>.menu>li>a.active{color:#fff}
-.slider_menu[sliderTab] ul:hover li:not(.hover) a.active{color:#888!important;/*background:#fff;border-radius:100px*/}
-.slider_menu.mini_tab[sliderTab]>.menu>li>a{height:28px;line-height:28px;padding:0 12px}
-.slider_menu.mini_tab[sliderTab]>.menu{padding:3px}
 .nav-pills.menu .nav-link.active,.nav-pills.menu .show>.nav-link{background:none} 
 .checkbox-custom{position:relative;padding:0 15px 0 25px;margin-bottom:7px;margin-top:0;display:inline-block}
 .checkbox-custom input[type="checkbox"]{opacity:0;position:absolute;cursor:pointer;z-index:2;margin:-6px 0 0 0;top:50%;left:3px}
