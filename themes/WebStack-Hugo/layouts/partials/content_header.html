@@ -25,7 +25,7 @@
                         </div>
 
                         <ul class="navbar-nav site-menu" style="margin-right: 16px;">
-                        {{ range .Site.Data.headers }}
+                        {{ range hugo.Data.headers }}
                             <li {{ if .list }}class="menu-item-has-children"{{ end }}>
                                 <a href="{{ .link }}">
                                     <i class="{{ .icon }} fa-lg mr-2"></i>
