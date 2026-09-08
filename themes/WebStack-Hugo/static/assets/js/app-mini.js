@@ -53,12 +53,9 @@
             }
         }
     }
- 
-
     $('#sidebar-switch').on('click',function(){
         $('#sidebar').removeClass('mini-sidebar');
     }); 
- 
     // Trigger Resizable Function
     var isMin = false,
         isMobileMin = false;
@@ -110,7 +107,6 @@
     //菜单栏最小化
     $('#mini-button').on('click',function(){
         trigger_lsm_mini(false);
-
     });
     function trigger_lsm_mini(isNoAnim){
         if ($('.header-mini-btn input[type="checkbox"]').prop("checked")) {
