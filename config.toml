@@ -1,5 +1,5 @@
 baseURL               = "https://www.csy.cx/"
-languageCode          = "zh-CN"
+locale                = "zh-CN"
 title                 = "夕岚导航"
 theme                 = "WebStack-Hugo"
 preserveTaxonomyNames = true

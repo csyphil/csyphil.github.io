@@ -91,7 +91,7 @@
                     <div class="sidebar-scroll">
                         <div class="sidebar-menu-inner">
                             <ul>
-                                {{ range .Site.Data.webstack }}
+                                {{ range hugo.Data.webstack }}
                                     {{ if .list }}
                                     <li class="sidebar-item">
                                         <a href="#{{ range first 1 .list }}{{ md5 .term }}{{ end }}" class="smooth change-href" data-change="#{{ range first 1 .list }}{{ md5 .term }}{{ end }}">    
