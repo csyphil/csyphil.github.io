@@ -1,7 +1,7 @@
 ---
 
 - taxonomy: 常用推荐
-  icon: fa-regular fa-star
+  icon: fa-solid fa-star
   links: 
     - title: GitHub
       logo: github.webp
@@ -246,7 +246,7 @@
       url: https://www.canva.cn/
       description: 一句话生成海报、PPT、视频、漫画、头像等千万模板
 - taxonomy: 社媒平台
-  icon: fa-regular fa-comments
+  icon: fa-solid fa-comments
   links:
     - title: 抖音
       logo: douyin.webp   
@@ -329,7 +329,7 @@
       url: https://www.reddit.com/
       description: 尽情探索任何事物
 - taxonomy: 金融交易
-  icon: fa-brands fa-btc
+  icon: fa-solid fa-bitcoin-sign
   links:
     - title: 币安(Binance)
       logo: binance.webp
@@ -585,7 +585,7 @@
       url: https://vmail.dev/
       description: 虚拟临时邮箱
 - taxonomy: 网络云盘
-  icon: fa-brands fa-google-drive
+  icon: fa-solid fa-hard-drive
   links:
     - title: 百度云盘
       logo: bddisk.webp
@@ -751,7 +751,7 @@
           logo: linshi.webp
           url: https://www.superbed.cn/
 - taxonomy: 文件处理
-  icon: fa-regular fa-file
+  icon: fa-solid fa-file
   links:
     - title: Squoosh(图片处理)
       logo: squoosh.webp
@@ -992,7 +992,7 @@
           url: https://namebeta.com/zh
           description: 域名注册比价&可用性检查
 - taxonomy: 工具资源
-  icon: fa-regular fa-folder-open
+  icon: fa-solid fa-folder-open
   list: 
     - term: 软件资源
       links:
@@ -1123,7 +1123,7 @@
       logo: gjtjj.webp
       url: https://www.stats.gov.cn/
 - taxonomy: 支付银行
-  icon: fa-regular fa-credit-card
+  icon: fa-solid fa-credit-card
   links:
     - title: 支付宝
       logo: alipay.webp
