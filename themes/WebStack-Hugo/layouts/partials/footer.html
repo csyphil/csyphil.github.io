@@ -24,12 +24,37 @@ var theme = {"order":"asc","formpostion":"top","defaultclass":"io-grey-mode","ne
         // 点击按钮切换模式
         $modeToggle.on('click', () => toggleMode());
     
-        // 点击平滑滚动
-        $(document).on('click', 'a.smooth', (ev) => {
+        // 平滑滚动与侧边栏锚点导航
+        $(document).on('click', 'a.smooth', function(ev) {
+            const href = $(this).attr('href');
+
+            if (!href || href.charAt(0) !== '#') {
+                return;
+            }
+
             ev.preventDefault();
-            smoothScroll($(ev.currentTarget).attr('href'));
+
+            const target = document.getElementById(href.substring(1));
+
+            if (target) {
+                $('html, body').animate({
+                    scrollTop: $(target).offset().top - 90
+                }, 500, 'swing');
+            }
+
+            // 点击子分类时同步侧边栏菜单状态
+            if (!$(this).hasClass('change-href')) {
+                const menu = $('a[href="' + href + '"]').not(this).first();
+
+                if (menu.length) {
+                    menu.click();
+                    if (typeof toTarget === 'function') {
+                        toTarget(menu.parent().parent(), true, true);
+                    }
+                }
+            }
         });
-    
+
         // 无ajax标签页点击处理
         $(document).on('click', 'a.tab-noajax', (ev) => {
             const $target = $(ev.currentTarget);
@@ -59,15 +84,6 @@ var theme = {"order":"asc","formpostion":"top","defaultclass":"io-grey-mode","ne
             const isNightMode = currentHour >= 18 || currentHour < 6;
             $body.toggleClass('io-black-mode', isNightMode).toggleClass('io-grey-mode', !isNightMode);
             updateMode();
-        }
-    
-        // 平滑滚动函数
-        function smoothScroll(target) {
-            const $target = $(target);
-            if ($target.length) {
-                const offset = $target.offset().top - 90;
-                $('html, body').animate({ scrollTop: offset }, 500, 'swing');
-            }
         }
     
         // 隐藏欢迎消息
