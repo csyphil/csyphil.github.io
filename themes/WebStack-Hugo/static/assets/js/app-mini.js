@@ -286,6 +286,16 @@
         //$(this).children('.dropdown-menu').removeClass('show');
     });
 })(jQuery);
+function isURL(URL){
+    var str=URL;
+    var Expression=/http(s)?:\/\/([\w-]+\.)+[\w-]+(\/[\w- .\/?%&=]*)?/;
+    var objExp=new RegExp(Expression);
+    if(objExp.test(str)==true){
+        return true;
+    }else{
+        return false;
+    }
+}
 function isPC() {
     let u = navigator.userAgent;
     let Agents = ["Android", "iPhone", "webOS", "BlackBerry", "SymbianOS", "Windows Phone", "iPad", "iPod"];
