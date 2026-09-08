@@ -1,7 +1,5 @@
 (function($){ 
     $(document).ready(function(){
-        // 侧栏菜单初始状态设置
-        if(theme.minNav != '1')trigger_resizable(true);
         // 搜索模块
         intoSearch();
         // 粘性页脚
