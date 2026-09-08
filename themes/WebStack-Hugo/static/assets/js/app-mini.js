@@ -10,11 +10,6 @@
         if(isPC()){ $('[data-toggle="tooltip"]').tooltip({trigger: 'hover'}); }else{ $('.qr-img[data-toggle="tooltip"]').tooltip({trigger: 'hover'}); }
         // 初始化tab滑块
         intoSlider();
-        // 初始化theiaStickySidebar
-        $('.sidebar').theiaStickySidebar({
-            additionalMarginTop: 90,
-            additionalMarginBottom: 20
-        });
     });
     // Enable/Disable Resizable Event
     var wid = 0;
