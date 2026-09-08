@@ -24,10 +24,10 @@ var theme = {"order":"asc","formpostion":"top","defaultclass":"io-grey-mode","ne
         // 点击按钮切换模式
         $modeToggle.on('click', () => toggleMode());
     
+
         // 平滑滚动与侧边栏锚点导航
         $(document).on('click', 'a.smooth', function(ev) {
             const href = $(this).attr('href');
-
             if (!href || href.charAt(0) !== '#') {
                 return;
             }
@@ -37,21 +37,9 @@ var theme = {"order":"asc","formpostion":"top","defaultclass":"io-grey-mode","ne
             const target = document.getElementById(href.substring(1));
 
             if (target) {
-                $('html, body').animate({
+                $('html, body').stop().animate({
                     scrollTop: $(target).offset().top - 90
                 }, 500, 'swing');
-            }
-
-            // 点击子分类时同步侧边栏菜单状态
-            if (!$(this).hasClass('change-href')) {
-                const menu = $('a[href="' + href + '"]').not(this).first();
-
-                if (menu.length) {
-                    menu.click();
-                    if (typeof toTarget === 'function') {
-                        toTarget(menu.parent().parent(), true, true);
-                    }
-                }
             }
         });
 
