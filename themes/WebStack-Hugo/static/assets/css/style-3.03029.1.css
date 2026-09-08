@@ -441,7 +441,13 @@ footer.main-footer{padding:20px 30px;margin-top:0px}
 .s-type-list .tile-lg{color:#fff;width:3pc;height:3pc;font-size:1.25rem;line-height:3rem;border-radius:.3rem;display:block;margin:auto}
 .s-type:hover .s-type-list{display:block}
 .type-text{position:absolute;left:0;width:75px;padding-left:9pt;font-size:1pc;line-height:31px}
-.type-text:after{content:"\e793";font-family:"iconfont";font-size:12px;margin:0 0 0 10px}
+.type-text:after{
+    content:"\f078";
+    font-family:"Font Awesome 7 Free";
+    font-weight:900;
+    font-size:12px;
+    margin:0 0 0 10px;
+}
 .search-type{white-space:nowrap;margin:0}.search-type label{margin:0}
 .search-type li{display:inline-block}
 .search-type li label{display:inline-block;padding:0 11px;font-size:14px;line-height:31px;border-radius:3px 3px 0 0;cursor:pointer}
