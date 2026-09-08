@@ -16,14 +16,6 @@
             additionalMarginBottom: 20
         });
     });
-    $(".panel-body.single img").each(function(i) {
-        if (!this.parentNode.href) {
-            if(theme.lazyload)
-                $(this).wrap("<a href='" + $(this).data('src') + "' data-fancybox='fancybox' data-caption='" + this.alt + "'></a>")
-            else
-                $(this).wrap("<a href='" + this.src + "' data-fancybox='fancybox' data-caption='" + this.alt + "'></a>")
-        }
-    })
     // Enable/Disable Resizable Event
     var wid = 0;
     $(window).resize(function() {
