@@ -121,7 +121,7 @@
     </h4>
     <div class="friendlink text-xs card">
         <div class="card-body"> 
-	    {{ range .Site.Data.friendlinks }}
+	    {{ range hugo.Data.friendlinks }}
 	    <a href="{{ .url }}" title="{{ .description }}" target="_blank">{{ .title }}</a>
 	    {{ end }}
         </div>
