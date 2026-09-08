@@ -22,18 +22,18 @@
                                     <div class="url-img mr-2 d-flex align-items-center justify-content-center">
                                         {{ if findRE "http.*?(.|\n)*?" .logo }}
 					    {{ if $.Site.Params.defaultLogo }}
-					    <img class="lazy" src="{{ .logo }}" data-src="{{ .logo }}"
+					    <img   src="{{ .logo }}" 
                                                 onerror="javascript:this.src='{{ $.Site.Params.defaultLogo }}'" alt="{{ .title }}">
 					    {{ else }}
-                                            <img class="lazy" src="{{ .logo }}" data-src="{{ .logo }}"
+                                            <img   src="{{ .logo }}" 
                                                 onerror="javascript:this.src='{{ .logo }}'" alt="{{ .title }}">
 					    {{ end }}
                                         {{ else }}
 					    {{ if $.Site.Params.defaultLogo }}
-                                            <img class="lazy" src="{{ $.Site.Params.logosPath }}/{{ .logo }}" data-src="{{ $.Site.Params.logosPath }}/{{ .logo }}"
+                                            <img   src="{{ $.Site.Params.logosPath }}/{{ .logo }}" 
                                                 onerror="javascript:this.src='{{ $.Site.Params.defaultLogo }}'" alt="{{ .title }}">
 					    {{ else }}
-                                            <img class="lazy" src="{{ $.Site.Params.logosPath }}/{{ .logo }}" data-src="{{ $.Site.Params.logosPath }}/{{ .logo }}"
+                                            <img   src="{{ $.Site.Params.logosPath }}/{{ .logo }}" 
                                                 onerror="javascript:this.src='{{ $.Site.Params.logosPath }}/{{ .logo }}'" alt="{{ .title }}">
 					    {{ end }}
                                         {{ end }}
@@ -79,18 +79,18 @@
                                     <div class="url-img mr-2 d-flex align-items-center justify-content-center">
                                         {{ if findRE "http.*?(.|\n)*?" .logo }}
 					    {{ if $.Site.Params.defaultLogo }}
-					    <img class="lazy" src="{{ .logo }}" data-src="{{ .logo }}"
+					    <img   src="{{ .logo }}" 
                                                 onerror="javascript:this.src='{{ $.Site.Params.defaultLogo }}'" alt="{{ .title }}">
 					    {{ else }}
-                                            <img class="lazy" src="{{ .logo }}" data-src="{{ .logo }}"
+                                            <img   src="{{ .logo }}" 
                                                 onerror="javascript:this.src='{{ .logo }}'" alt="{{ .title }}">
 					    {{ end }}
                                         {{ else }}
 					    {{ if $.Site.Params.defaultLogo }}
-                                            <img class="lazy" src="{{ $.Site.Params.logosPath }}/{{ .logo }}" data-src="{{ $.Site.Params.logosPath }}/{{ .logo }}"
+                                            <img   src="{{ $.Site.Params.logosPath }}/{{ .logo }}" 
                                                 onerror="javascript:this.src='{{ $.Site.Params.defaultLogo }}'" alt="{{ .title }}">
 					    {{ else }}
-                                            <img class="lazy" src="{{ $.Site.Params.logosPath }}/{{ .logo }}" data-src="{{ $.Site.Params.logosPath }}/{{ .logo }}"
+                                            <img   src="{{ $.Site.Params.logosPath }}/{{ .logo }}" 
                                                 onerror="javascript:this.src='{{ $.Site.Params.logosPath }}/{{ .logo }}'" alt="{{ .title }}">
 					    {{ end }}
                                         {{ end }}
