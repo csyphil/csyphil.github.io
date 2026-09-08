@@ -105,7 +105,7 @@ a>i.sidebar-more{transform:scale(.8)}
 .header-mini-btn{height:74px;width:40px}
 .header-mini-btn svg{margin:0 -20px;height:74px}
 .header-mini-btn input[type="checkbox"]{display:none}
-.header-mini-btn path{fill:none;stroke:#888;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;--length:24;--offset:-38;stroke-dasharray:var(--length) var(--total-length);transition:all .5s cubic-bezier(.645,.045,.355,1),stroke .2s ease}
+.header-mini-btn path{fill:none;stroke:#888;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;--length:24;--offset:-38;stroke-dasharray:var(--length) var(--total-length);stroke-dashoffset:var(--offset);transition:all .5s cubic-bezier(.645,.045,.355,1),stroke .2s ease}
 .header-mini-btn circle{fill:#fff3;opacity:0;transition:opacity .3s;cursor:pointer}
 .header-mini-btn label{display:block;top:0;right:0}
 .header-mini-btn label circle:hover{opacity:1}
