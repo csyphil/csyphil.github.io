@@ -142,6 +142,109 @@
       logo: jl.webp
       url: https://remeins.com/
       description: 更专注于发现工具的实用性
+- taxonomy: 人工智能
+  icon: fa-solid fa-robot
+  links: 
+    - title: ChatGPT
+      logo: chatgpt.webp
+      url: https://chatgpt.com/
+      description: 满足您各种需求的AI助手
+    - title: Gemini
+      logo: gemini.webp
+      url: https://gemini.google.com/
+      description: 轻松对话，获取创意灵感
+    - title: Grok
+      logo: grok.webp
+      url: https://grok.com/
+      description: 用于理解宇宙的对话式人工智能
+    - title: Microsoft Copilot
+      logo: copilot.webp
+      url: https://copilot.microsoft.com/
+      description: 您的AI日常伴侣
+    - title: Claude
+      logo: claude.webp
+      url: https://claude.ai/
+      description: 放大你的想法
+    - title: 豆包
+      logo: doubao.webp
+      url: https://www.doubao.com/chat/
+      description: 字节跳动旗下AI智能助手
+    - title: DeepSeek
+      logo: deepseek.webp
+      url: https://chat.deepseek.com/
+      description: 探索未至之境
+    - title: 千问
+      logo: tongyi.webp
+      url: https://www.qianwen.com/
+      description: 阿里AI助手
+    - title: 通义万相
+      logo: tongyi.webp
+      url: https://tongyi.aliyun.com/wan/
+      description: 领先的AI视频与图像生成模型
+    - title: 通义法睿
+      logo: tongyi.webp
+      url: https://farui.aliyun.com/farui/v1
+      description: 安全可信的法律助手
+    - title: 腾讯元宝
+      logo: txyb.webp
+      url: https://yuanbao.tencent.com/
+      description: 腾讯旗下全能AI助手
+    - title: Kimi.ai
+      logo: kimi.webp
+      url: https://kimi.moonshot.cn/
+      description: 帮你看更大的世界
+    - title: 清言
+      logo: qingyan.webp
+      url: https://chatglm.cn/
+      description: 让想象力化为生产力
+    - title: 文心
+      logo: wenxin.webp
+      url: https://wenxin.baidu.com/
+      description: 办公学习一站解决
+    - title: 秘塔AI搜索
+      logo: mitaso.webp
+      url: https://metaso.cn/
+      description: 没有广告，直达结果
+    - title: 即梦AI
+      logo: jimengai.webp
+      url: https://jimeng.jianying.com/
+      description: 字节旗下AI绘图 视频（含图生动画） 海报 音乐 数字人 智能画布 故事创作
+    - title: 可灵AI
+      logo: klingai.webp
+      url: https://app.klingai.com/cn/
+      description: 快手旗下新一代创意生产力平台，提供视频、图片生成与编辑能力
+    - title: 海螺AI
+      logo: hailuoai.webp
+      url: https://hailuoai.com/
+      description: AI文本转视频 音乐
+    - title: AI工具箱导航
+      logo: amz123.webp
+      url: https://www.amz123.com/ai
+      description: 国内外AI工具导航合集
+    - title: AI工具集
+      logo: aibot.webp
+      url: https://ai-bot.cn/
+      description: 700+ AI工具集合官网
+    - title: Sora2
+      logo: sora2.webp
+      url: https://sora2.com/zh
+      description: Sora是一个可以根据文本指令创建现实和富有想象力的场景的AI模型
+    - title: Midjourney
+      logo: midjourney.webp
+      url: https://www.midjourney.com/home
+      description: 释放你的想象力，用AI绘制无限可能
+    - title: Suno
+      logo: suno.webp
+      url: https://suno.com/home
+      description: AI开启音乐梦想之旅
+    - title: Grammarly
+      logo: grammarly.webp
+      url: https://www.grammarly.com/
+      description: 免费的AI写作助手
+    - title: Canva可画
+      logo: canva.webp
+      url: https://www.canva.cn/
+      description: 一句话生成海报、PPT、视频、漫画、头像等千万模板
 - taxonomy: 社媒平台
   icon: fa-regular fa-comments
   links:
@@ -225,109 +328,6 @@
       logo: reddit.webp
       url: https://www.reddit.com/
       description: 尽情探索任何事物
-- taxonomy: 人工智能
-  icon: fa-solid fa-robot
-  links: 
-    - title: ChatGPT
-      logo: chatgpt.webp
-      url: https://chatgpt.com/
-      description: 满足您各种需求的AI助手
-    - title: Gemini
-      logo: gemini.webp
-      url: https://gemini.google.com/
-      description: 轻松对话，获取创意灵感
-    - title: Grok
-      logo: grok.webp
-      url: https://grok.com/
-      description: 用于理解宇宙的对话式人工智能
-    - title: Microsoft Copilot
-      logo: copilot.webp
-      url: https://copilot.microsoft.com/
-      description: 您的AI日常伴侣
-    - title: Claude
-      logo: claude.webp
-      url: https://claude.ai/
-      description: 放大你的想法
-    - title: 豆包
-      logo: doubao.webp
-      url: https://www.doubao.com/chat/
-      description: 抖音旗下AI智能助手
-    - title: DeepSeek
-      logo: deepseek.webp
-      url: https://chat.deepseek.com/
-      description: 探索未至之境
-    - title: 千问
-      logo: tongyi.webp
-      url: https://www.qianwen.com/
-      description: 阿里推出的一个不断进化的AI大模型
-    - title: 通义万相
-      logo: tongyi.webp
-      url: https://tongyi.aliyun.com/wan/
-      description: 一个不断进化的人工智能艺术创作大模型
-    - title: 通义法睿
-      logo: tongyi.webp
-      url: https://farui.aliyun.com/farui/v1
-      description: 让法律事务更快、更准、更智能
-    - title: 腾讯元宝
-      logo: txyb.webp
-      url: https://yuanbao.tencent.com/
-      description: 腾讯旗下全能AI助手
-    - title: Kimi.ai
-      logo: kimi.webp
-      url: https://kimi.moonshot.cn/
-      description: 帮你看更大的世界
-    - title: 智谱清言
-      logo: qingyan.webp
-      url: https://chatglm.cn/
-      description: 让想象力化为生产力
-    - title: 文心
-      logo: wenxin.webp
-      url: https://wenxin.baidu.com/
-      description: 你的智能伙伴
-    - title: 秘塔AI搜索
-      logo: mitaso.webp
-      url: https://metaso.cn/
-      description: 没有广告，直达结果
-    - title: 即梦AI
-      logo: jimengai.webp
-      url: https://jimeng.jianying.com/
-      description: 字节旗下AI绘图 视频（含图生动画） 海报 音乐 数字人 智能画布 故事创作
-    - title: 可灵AI
-      logo: klingai.webp
-      url: https://app.klingai.com/cn/
-      description: 快手旗下新一代创意生产力平台，提供视频、图片生成与编辑能力
-    - title: 海螺AI
-      logo: hailuoai.webp
-      url: https://hailuoai.com/
-      description: AI文本转视频 音乐
-    - title: AI工具箱导航
-      logo: amz123.webp
-      url: https://www.amz123.com/ai
-      description: 国内外AI工具导航合集
-    - title: AI工具集
-      logo: aibot.webp
-      url: https://ai-bot.cn/
-      description: 700+ AI工具集合官网
-    - title: Sora2
-      logo: sora2.webp
-      url: https://sora2.com/zh
-      description: Sora是一个可以根据文本指令创建现实和富有想象力的场景的AI模型
-    - title: Midjourney
-      logo: midjourney.webp
-      url: https://www.midjourney.com/home
-      description: 释放你的想象力，用AI绘制无限可能
-    - title: Suno
-      logo: suno.webp
-      url: https://suno.com/home
-      description: AI开启音乐梦想之旅
-    - title: Grammarly
-      logo: grammarly.webp
-      url: https://www.grammarly.com/
-      description: 免费的AI写作助手
-    - title: Canva可画
-      logo: canva.webp
-      url: https://www.canva.cn/
-      description: 一句话生成海报、PPT、视频、漫画、头像等千万模板
 - taxonomy: 金融交易
   icon: fa-brands fa-btc
   links:
