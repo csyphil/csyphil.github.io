@@ -41,7 +41,9 @@ var theme = {"order":"asc","formpostion":"top","defaultclass":"io-grey-mode","ne
         // 更新模式相关的样式和元素
         function updateMode() {
             const isNightMode = $body.hasClass('io-black-mode');
-            $modeIcon.removeClass('icon-night icon-light').addClass(isNightMode ? 'icon-night' : 'icon-light');
+            $modeIcon
+            .removeClass('fa-moon fa-sun')
+            .addClass(isNightMode ? 'fa-sun' : 'fa-moon');
         }
     
         // 切换模式（夜间模式和白天模式）
