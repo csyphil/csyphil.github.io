@@ -402,6 +402,7 @@ footer.main-footer{padding:20px 30px;margin-top:0px}
 .big-header-banner:not(.header-bg) .header-mini-btn path{stroke:#eee}
 .big-header-banner:not(.header-bg) .page-header .navbar-nav>li>a:hover,.big-header-banner:not(.header-bg) .navbar-menu a:not(.dropdown-item):hover{color:#fff;}
 .big-header-banner:not(.header-bg) .header-mini-btn label:hover path{stroke:#fff}
+.header-big{position:relative;margin-top:-75px;padding-top:30px;padding-bottom:60px}
 .post-top{padding-bottom:10px}
 .header-big.css-color{background-size:400%;background-position:0% 100%;-webkit-animation:gradient 7.5s ease-in-out infinite;animation:gradient 7.5s ease-in-out infinite}
 @-webkit-keyframes gradient{50%{background-position:100% 0}
@@ -435,7 +436,8 @@ footer.main-footer{padding:20px 30px;margin-top:0px}
 /*.header-big .search-smart-tips{top:100px}*/
 .header-big:not(.no-bg) .text-muted,.header-big:not(.no-bg) .search-type .menu-item a,.header-big:not(.no-bg) .big-title .h1{color:#fff!important} 
 .header-big .search-type li.menu-item{padding:5px 10px 0px 10px}
-@media screen and (min-width:768px){.header-big{padding-top:80px;padding-bottom:110px}
+@media screen and (min-width:768px){
+.header-big{padding-top:80px;padding-bottom:110px}
 .post-top{padding-bottom:20px}
 .header-big.no-bg{padding-bottom:20px}
 .header-big .search-type li label,.header-big .search-type li.menu-item{padding:5px 20px}
