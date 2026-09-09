@@ -24,7 +24,7 @@ var theme = {
     
         // 打开搜索弹窗后自动聚焦
         $('#search-modal').on('shown.bs.modal', function(){
-            $('#search-text').focus();
+            $(this).find('.search-key').first().focus();
         });
 
         // 按 / 打开搜索并自动聚焦
@@ -37,7 +37,7 @@ var theme = {
                 $('#search-modal').modal('show');
             }
         });
-        
+
         // 平滑滚动与侧边栏锚点导航
         $(document).on('click', 'a.smooth', function(ev) {
             const href = $(this).attr('href');
