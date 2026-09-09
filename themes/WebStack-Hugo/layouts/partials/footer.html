@@ -24,18 +24,33 @@ var theme = {
     
         // 打开搜索弹窗后自动聚焦
         $('#search-modal').on('shown.bs.modal', function(){
-            $(this).find('.search-key').first().focus();
+            $('#m_search-text').focus();
         });
 
-        // 按 / 打开搜索并自动聚焦
+        // 按 / 根据顶部搜索框是否可见选择搜索入口
         $(document).on('keydown', function(ev){
             if(
-                ev.key === '/' &&
-                !$(ev.target).is('input, textarea, select, [contenteditable="true"]')
+                ev.key !== '/' ||
+                $(ev.target).is('input, textarea, select, [contenteditable="true"]')
             ){
-                ev.preventDefault();
-                $('#search-modal').modal('show');
+                return;
             }
+
+            ev.preventDefault();
+
+            const search = document.getElementById('search-text');
+
+            if(search){
+                const rect = search.getBoundingClientRect();
+                const center = rect.top + rect.height / 2;
+
+                if(center >= 0 && center <= window.innerHeight){
+                    search.focus();
+                    return;
+                }
+            }
+
+            $('#search-modal').modal('show');
         });
 
         // 平滑滚动与侧边栏锚点导航
