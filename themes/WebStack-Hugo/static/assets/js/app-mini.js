@@ -34,7 +34,6 @@
 
     function stickFooter(){
         $('.main-footer').attr('style','');
-
         if($('.main-footer').hasClass('text-xs')){
             var win_height = $(window).height(),
                 footer_height = $('.main-footer').outerHeight(true),
@@ -99,6 +98,7 @@
             $('.sidebar-item.sidebar-show').removeClass('sidebar-show');
             $('.sidebar-menu ul').removeAttr('style');
             $('.sidebar-nav').addClass('mini-sidebar');
+
             $('.sidebar-nav .change-href').each(function(){
                 $(this).attr('href',$(this).data('change'));
             });
@@ -164,7 +164,7 @@
             $(".s-type-list [data-id="+window.localStorage.getItem("searchlistmenu")+"]").addClass('active');
         }
 
-        toTarget($(".s-type-list.big"),false,false);
+        toTarget($(".s-type-list.big"));
 
         $('.hide-type-list .s-current').removeClass("s-current");
         $('.hide-type-list input:radio[name="type"]:checked').parents(".search-group").addClass("s-current");
@@ -194,7 +194,7 @@
         parent.find('.search-group').removeClass("s-current");
         parent.find('#'+$(this).attr("for")).parents(".search-group").addClass("s-current");
 
-        toTarget($(this).parents(".s-type-list"),false,false);
+        toTarget($(this).parents(".s-type-list"));
     });
 
     $('.hide-type-list .search-group input').on('click',function(){
@@ -231,28 +231,20 @@
 
 })(jQuery);
 
-function toTarget(menu,padding,isMult){
+function toTarget(menu){
     var slider = menu.children(".anchor");
     var target = menu.children(".hover").first();
 
-    if(!target || target.length == 0){
-        target = isMult ? menu.find('.active').parent() : menu.find('.active');
+    if(target.length == 0){
+        target = menu.find('.active');
     }
 
     if(target.length > 0){
-        if(padding){
-            slider.css({
-                left:target.position().left + target.scrollLeft() + "px",
-                width:target.outerWidth() + "px",
-                opacity:"1"
-            });
-        }else{
-            slider.css({
-                left:target.position().left + target.scrollLeft() + (target.outerWidth()/4) + "px",
-                width:target.outerWidth()/2 + "px",
-                opacity:"1"
-            });
-        }
+        slider.css({
+            left:target.position().left + target.scrollLeft() + (target.outerWidth()/4) + "px",
+            width:target.outerWidth()/2 + "px",
+            opacity:"1"
+        });
     }else{
         slider.css({
             opacity:"0"
