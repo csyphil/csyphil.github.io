@@ -22,7 +22,22 @@ var theme = {
         // 点击按钮切换模式
         $modeToggle.on('click', () => toggleMode());
     
+        // 打开搜索弹窗后自动聚焦
+        $('#search-modal').on('shown.bs.modal', function(){
+            $('#search-text').focus();
+        });
 
+        // 按 / 打开搜索并自动聚焦
+        $(document).on('keydown', function(ev){
+            if(
+                ev.key === '/' &&
+                !$(ev.target).is('input, textarea, select, [contenteditable="true"]')
+            ){
+                ev.preventDefault();
+                $('#search-modal').modal('show');
+            }
+        });
+        
         // 平滑滚动与侧边栏锚点导航
         $(document).on('click', 'a.smooth', function(ev) {
             const href = $(this).attr('href');
