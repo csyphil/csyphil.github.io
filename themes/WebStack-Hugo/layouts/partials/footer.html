@@ -14,20 +14,27 @@ var theme = {
         const $body = $('body');
         const $modeToggle = $('#mode-toggle');
         const $modeIcon = $modeToggle.find('.mode-ico');
-    
+
         // 初始化
         autoSwitchMode();
         updateMode();
-    
+
         // 点击按钮切换模式
         $modeToggle.on('click', () => toggleMode());
-    
+
+        // 记录顶部搜索框是否已经被使用过
+        let topSearchUsed = false;
+
+        $('#search-text').on('focus', function(){
+            topSearchUsed = true;
+        });
+
         // 打开搜索弹窗后自动聚焦
         $('#search-modal').on('shown.bs.modal', function(){
             $('#m_search-text').focus();
         });
 
-        // 按 / 根据顶部搜索框是否可见选择搜索入口
+        // 按 / 根据顶部搜索框使用状态选择搜索入口
         $(document).on('keydown', function(ev){
             if(
                 ev.key !== '/' ||
@@ -40,16 +47,31 @@ var theme = {
 
             const search = document.getElementById('search-text');
 
-            if(search){
-                const rect = search.getBoundingClientRect();
-                const center = rect.top + rect.height / 2;
-
-                if(center >= 0 && center <= window.innerHeight){
-                    search.focus();
-                    return;
-                }
+            if(!search){
+                $('#search-modal').modal('show');
+                return;
             }
 
+            // 顶部搜索框之前已经使用过：回到顶部并重新聚焦
+            if(topSearchUsed){
+                $('html, body').stop().animate({
+                    scrollTop: 0
+                }, 300, 'swing', function(){
+                    search.focus();
+                });
+                return;
+            }
+
+            // 第一次使用 /：顶部搜索框在视口内时直接聚焦
+            const rect = search.getBoundingClientRect();
+            const center = rect.top + rect.height / 2;
+
+            if(center >= 0 && center <= window.innerHeight){
+                search.focus();
+                return;
+            }
+
+            // 第一次使用 /，但已经下滑：打开搜索弹窗
             $('#search-modal').modal('show');
         });
 
@@ -63,14 +85,13 @@ var theme = {
             ev.preventDefault();
 
             const target = document.getElementById(href.substring(1));
-
             if (target) {
                 $('html, body').stop().animate({
                     scrollTop: $(target).offset().top - 90
                 }, 500, 'swing');
             }
         });
-    
+
         // 更新模式相关的样式和元素
         function updateMode() {
             const isNightMode = $body.hasClass('io-black-mode');
@@ -78,14 +99,14 @@ var theme = {
             .removeClass('fa-moon fa-sun')
             .addClass(isNightMode ? 'fa-sun' : 'fa-moon');
         }
-    
+
         // 切换模式（夜间模式和白天模式）
         function toggleMode() {
             const isNightMode = !$body.hasClass('io-black-mode');
             $body.toggleClass('io-black-mode', isNightMode).toggleClass('io-grey-mode', !isNightMode);
             updateMode();
         }
-    
+
         // 自动切换模式函数
         function autoSwitchMode() {
             const currentHour = new Date().getHours();
@@ -94,5 +115,5 @@ var theme = {
             updateMode();
         }
     });
-</script>    
+</script>
 </html>
