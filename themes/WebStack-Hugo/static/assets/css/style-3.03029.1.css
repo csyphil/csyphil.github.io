@@ -525,11 +525,6 @@ th,td{border:1px solid rgba(136,136,136,.3);padding:8px 12px}
 .icon-fw{text-align:center;width:1.25em}
 .icon-spin{-webkit-animation:icon-spin 2s infinite linear;animation:icon-spin 2s infinite linear}
 
-@media screen and (max-width:575.98px){
-.shape-10{right:12%;width:100px}
-.shape-11{right:14%;width:100px}
-}
-
 @-webkit-keyframes icon-spin{0%{-webkit-transform:rotate(0deg);transform:rotate(0deg)}
 100%{-webkit-transform:rotate(359deg);transform:rotate(359deg)}
 }@keyframes icon-spin{0%{-webkit-transform:rotate(0deg);transform:rotate(0deg)}
@@ -610,7 +605,7 @@ th,td{border:1px solid rgba(136,136,136,.3);padding:8px 12px}
 .io-black-mode .logo-dark{display:initial!important}
 .io-black-mode .btn-move{color:#989da1!important}
 .io-black-mode #add-new-sites button.close{color:#989da1}
-.io-black-mode .bg-light,.io-black-mode .manage-sites .sites-card,.io-black-mode .admin-sites .sites-card{background:#363738!important}
+.io-black-mode .bg-light,.io-black-mode .manage-sites .sites-card{background:#363738!important}
 .io-black-mode .border-light{border-color:#363738!important}
 .io-black-mode .bg-white{background:#2c2e2f!important}
 .io-black-mode .sidebar-nav .top-menu .sub-menu{background-color:rgba(3,4,6,.1)}
@@ -633,17 +628,9 @@ th,td{border:1px solid rgba(136,136,136,.3);padding:8px 12px}
 .io-black-mode #footer-tools .btn{color:#aaa;background:#363738}
 .io-black-mode #footer-tools .btn:hover{color:#fff}
 .io-black-mode a:not(.btn):hover{color:#fff}
-.io-black-mode .down-content .statement:before{background:#1b1d1f;box-shadow:0 10px #1b1d1f,0 20px #1b1d1f}
-.io-black-mode .down-content .statement{border-color:#1b1d1f;background:rgba(0,0,0,.1)}
 .io-black-mode .navbar-collapse ul li ul,.io-black-mode .dropdown-menu{background:#3D4044;box-shadow:0 10px 30px -10px rgba(0,0,0,.5)}
-.io-black-mode .down-content .card-signup{box-shadow:0 16px 24px 2px rgba(0,0,0,.14),0 6px 30px 5px rgba(0,0,0,.12),0 8px 10px -5px rgba(0,0,0,.2)}
 .io-black-mode .btn-light{color:#b2b8be!important;background-color:#363738!important;border-color:transparent!important}
 .io-black-mode .btn-light:hover{background-color:#313234!important}
-.io-black-mode .tool-actions .btn-light{color:#b2b8be!important;background-color:rgba(24,25,26,.5)!important;border-color:transparent!important}
-.io-black-mode .tool-actions .btn-light:hover{background-color:rgba(14,15,16,.8)!important}
-.io-black-mode .background-fx{opacity:.3}
-.io-black-mode .background-fx .shape-11{opacity:.5}
-.io-black-mode .background-fx .shape-10{opacity:.1}
 .io-black-mode .ioch-code-highlight{background-color:#151619;border:0}
 .io-black-mode :not(pre) > code[class*="language-"],.io-black-mode pre[class*="language-"]{background-color:rgba(0,0,0,.15)}
 .io-black-mode .ioch-code-highlight .io-btn-copy{border:1px solid rgba(255,255,255,.5)}
