@@ -413,11 +413,7 @@ footer.main-footer{padding:20px 30px;margin-top:0px}
 .overflow-x-auto{overflow-x:auto;overflow-y:unset}
 .overflow-y-auto{overflow-y:auto;overflow-x:unset}
 .slider-menu-father{border-radius:100px;overflow:hidden}
-.media-title-bg:before{content:"";position:absolute;left:0;height:80px;right:0;bottom:0;background-image:linear-gradient(to top,rgba(0,0,0,.5) 20%,transparent 80%)}
 .external{padding-right:5px}
-.fancybox-slide--iframe .fancybox-content{max-width:1280px;margin:0}
-.fancybox-slide--iframe.fancybox-slide{padding:44px 0}
-.fancybox-toolbar{right:calc(50% - 22px);top:22px}
 .big-header-banner .page-header{color:#fff;background:rgba(255,255,255,0);box-shadow:none;transition:color .3s,background-color .3s}
 .big-header-banner.header-bg .page-header{color:initial;backdrop-filter: blur(10px);background:rgba(255,255,255,.7)}
 .big-header-banner:not(.header-bg) .page-header .navbar-nav>li>a,.big-header-banner:not(.header-bg) .navbar-menu a:not(.dropdown-item){color:#eee;}
@@ -643,14 +639,3 @@ th,td{border:1px solid rgba(136,136,136,.3);padding:8px 12px}
 .io-black-mode .ioch-code-highlight{background-color:#151619;border:0}
 .io-black-mode :not(pre) > code[class*="language-"],.io-black-mode pre[class*="language-"]{background-color:rgba(0,0,0,.15)}
 .io-black-mode .ioch-code-highlight .io-btn-copy{border:1px solid rgba(255,255,255,.5)}
-/*--------------------------------------------------------------
-## webkit scrollbar style
---------------------------------------------------------------*/
-/*@media only screen and (min-device-width:768px){
-::-webkit-scrollbar-thumb{background-color:rgba(130,130,130,.1);-webkit-border-radius:4px;border-radius:4px}
-::-webkit-scrollbar-thumb:hover{background-color:#f1404b;-webkit-border-radius:4px;border-radius:4px}
-::-webkit-scrollbar{width:5px;height:5px} 
-::-webkit-scrollbar-thumb:active{background-color:#f1404b;-webkit-border-radius:4px;border-radius:4px}
-::-webkit-scrollbar-corner{background:rgba(0,0,0,0);border-radius:0 0 8px 0}
-::-webkit-scrollbar-button{background-color:rgba(0,0,0,0);height:2px;width:2px}
-}*/
