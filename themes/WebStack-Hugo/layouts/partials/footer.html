@@ -52,13 +52,14 @@ var theme = {
                 return;
             }
 
-            // 顶部搜索框之前已经使用过：回到顶部并重新聚焦
+            // 顶部搜索框之前已经使用过：直接回到顶部并聚焦
             if(topSearchUsed){
-                $('html, body').stop().animate({
-                    scrollTop: 0
-                }, 300, 'swing', function(){
+                $('html, body').stop().scrollTop(0);
+
+                requestAnimationFrame(function(){
                     search.focus();
                 });
+
                 return;
             }
 
