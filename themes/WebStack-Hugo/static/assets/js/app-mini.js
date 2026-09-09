@@ -15,9 +15,7 @@
     });
     function go_resize() {
         stickFooter(); 
-        //if(theme.minNav != '1'){
             trigger_resizable(false);
-        //}
     }
     //返回顶部
     $(window).scroll(function () {
