@@ -42,52 +42,6 @@ body,html{font-size:14px;}
 /*搜索部分背景样式*/
 .header-big.css-color{background-size:unset;background-position:unset;animation:unset;}
 
-/*搜索热词样式调整*/
-.search-hot-text{
-    position: absolute;
-    z-index: 100;
-    width: 100%;
-    border-radius: 0 0 10px 10px;
-    background: #FFF;
-    box-shadow: 0px 4px 5px 0px #cccccc94;
-    overflow: hidden;
-}
-.search-hot-text ul{
-    margin: 0;
-    padding: 5px 0;
-}
-.search-hot-text ul li{
-    line-height: 30px;
-    font-size: 14px;
-    padding: 0px 25px;
-    color: #777;
-    cursor: pointer;
-}
-.io-black-mode .search-hot-text ul li{
-    color: #fff;
-}    
-.search-hot-text ul li.current{
-    background: #f1f1f1;
-    color: #2196f3;
-}
-.search-hot-text ul li:hover{
-    background: #f1f1f1;
-    color: #2196f3;
-    cursor: pointer;
-}
-.search-hot-text ul li span{
-    display: inline-block;
-    width: 20px;
-    height: 20px;
-    font-size: 12px;
-    line-height: 20px;
-    text-align: center;
-    background: #e5e5e5;
-    margin-right: 10px;
-    border-radius: 10px;
-    color: #999;
-}
-
 footer.main-footer .footer-text {
     text-align: center;
 }
@@ -97,10 +51,6 @@ footer.main-footer .footer-text a {
 footer.main-footer .footer-text a:hover {
     color: red;
 }
-
-/*About页面*/
-/* .panel .panel-body a {color: #007bff;}
-.panel .panel-body a:hover {color: #979898;} */
 
 /*网格背景*/
 .io-grey-mode .page-container .grid-bg {
