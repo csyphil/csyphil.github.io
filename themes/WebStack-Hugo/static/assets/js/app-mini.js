@@ -47,10 +47,6 @@
         }
     }
 
-    $('#sidebar-switch').on('click',function(){
-        $('#sidebar').removeClass('mini-sidebar');
-    });
-
     var isMin = false;
 
     function trigger_resizable(isNoAnim){
