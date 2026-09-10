@@ -585,7 +585,7 @@
       url: https://vmail.dev/
       description: 虚拟临时邮箱
 - taxonomy: 网络云盘
-  icon: fa-solid fa-hard-drive
+  icon: fa-solid fa-cloud-arrow-down
   links:
     - title: 百度云盘
       logo: bddisk.webp
