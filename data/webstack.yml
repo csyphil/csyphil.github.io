@@ -177,14 +177,6 @@
       logo: tongyi.webp
       url: https://www.qianwen.com/
       description: 阿里AI助手
-    - title: 万相
-      logo: tongyi.webp
-      url: https://tongyi.aliyun.com/wan/
-      description: 领先的AI视频与图像生成模型
-    - title: 法睿
-      logo: tongyi.webp
-      url: https://farui.aliyun.com/farui/v1
-      description: 安全可信的法律助手
     - title: 元宝
       logo: txyb.webp
       url: https://yuanbao.tencent.com/
@@ -205,6 +197,14 @@
       logo: mitaso.webp
       url: https://metaso.cn/
       description: 没有广告，直达结果
+    - title: AI工具箱导航
+      logo: amz123.webp
+      url: https://www.amz123.com/ai
+      description: 国内外AI工具导航合集
+    - title: AI工具集
+      logo: aibot.webp
+      url: https://ai-bot.cn/
+      description: 700+ AI工具集合官网
     - title: 即梦AI
       logo: jimengai.webp
       url: https://jimeng.jianying.com/
@@ -217,18 +217,18 @@
       logo: hailuoai.webp
       url: https://hailuoai.com/
       description: AI文本转视频 音乐
-    - title: AI工具箱导航
-      logo: amz123.webp
-      url: https://www.amz123.com/ai
-      description: 国内外AI工具导航合集
-    - title: AI工具集
-      logo: aibot.webp
-      url: https://ai-bot.cn/
-      description: 700+ AI工具集合官网
+    - title: 万相
+      logo: tongyi.webp
+      url: https://tongyi.aliyun.com/wan/
+      description: 领先的AI视频与图像生成模型
     - title: Sora2
       logo: sora2.webp
       url: https://sora2.com/zh
       description: Sora是一个可以根据文本指令创建现实和富有想象力的场景的AI模型
+    - title: 法睿
+      logo: tongyi.webp
+      url: https://farui.aliyun.com/farui/v1
+      description: 安全可信的法律助手
     - title: Midjourney
       logo: midjourney.webp
       url: https://www.midjourney.com/home
@@ -833,7 +833,7 @@
       logo: aconvert.webp
       url: https://www.aconvert.com/cn/
       description: 在线转换文档、图片、视频、音频文件
-- taxonomy: 网站服务
+- taxonomy: 网络服务
   icon: fa-solid fa-server
   list:
     - term: 云服务器
