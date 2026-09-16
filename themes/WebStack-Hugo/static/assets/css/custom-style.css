@@ -78,3 +78,35 @@ footer.main-footer .footer-text a:hover {
     display: block;
     contain: layout;
 }
+
+/* 黑夜模式优化 */
+.io-black-mode {
+    background-color: #0b0b0b;
+}
+
+.io-black-mode,
+.io-black-mode a:not(.btn),
+.io-black-mode .button>a {
+    color: #f2f2f2;
+}
+
+.io-black-mode p,
+.io-black-mode input.nav-link {
+    color: #c4c4c4;
+}
+
+.io-black-mode .text-gray {
+    color: #e0e0e0;
+}
+
+.io-black-mode .bg-white {
+    background-color: #151515 !important;
+}
+
+.io-black-mode .modal-content,
+.io-black-mode .card,
+.io-black-mode #search-text,
+.io-black-mode .search-type input:checked+label,
+.io-black-mode .search-type input:hover+label {
+    background-color: #151515;
+}
