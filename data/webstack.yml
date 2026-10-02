@@ -704,22 +704,10 @@
           url: https://www.ypppt.com/
           logo: ypppt.webp
           description: 高质量的模版，而且还有PPT图表，PPT背景图等资源
-        - title: 比格PPT
-          url: http://www.tretars.com/
-          logo: tretars.webp
-          description: 网络上最好的免费PPT模型素材
-        - title: PPT超级市场
-          logo: pptcjsc.webp
-          url: https://www.pptsupermarket.com/
-          description: PPT模板免费下载，最新PPT成品搜索
         - title: AboutPPT导航
           logo: aboutppt.webp
           url: https://www.aboutppt.com/
           description: 演示设计网址导航
-        - title: 5百丁简历
-          url: https://www.500d.me/
-          logo: 500d.webp
-          description: 中国领先的PPT简历模板共享平台
         - title: PPT资源导航
           logo: hippter.webp
           url: https://www.hippter.com/
@@ -732,10 +720,6 @@
           logo: 1ppt.webp
           url: https://www.1ppt.com/
           description: 第一PPT
-        - title: 办公资源网
-          logo: bangongziyuan.webp
-          url: https://www.bangongziyuan.com/
-          description: 海量办公素材可供下载
         - title: 稿定设计
           url: https://www.gaoding.com
           logo: gaoding.webp
@@ -746,7 +730,7 @@
           description: 会打字就能用
         - title: 路过图床
           logo: imgse.webp
-          url: https://imgse.com/
+          url: https://imgchr.com/
         - title: 聚合图床
           logo: linshi.webp
           url: https://www.superbed.cn/
@@ -892,10 +876,10 @@
           logo: porkbun.webp
           url: https://porkbun.com/
           description: 一种奇妙而满足的体验
-        - title: Freenom
-          logo: freenom.webp
-          url: https://my.freenom.com/clientarea.php?action=domains
-          description: 每个人的域名
+        - title: Censys Search
+          logo: censys.webp
+          url: https://search.censys.io/
+          description: 全网IP端口扫描报告
         - title: Ping.pe
           logo: ping.webp
           url: https://ping.pe
@@ -920,10 +904,6 @@
           logo: fast.com.webp
           url: https://fast.com/
           description: 网速测试
-        - title: Censys Search
-          logo: censys.webp
-          url: https://search.censys.io/
-          description: 全网IP端口扫描报告
         - title: Greasy Fork
           logo: greasyfork.webp
           url: https://greasyfork.org/zh-CN
@@ -939,10 +919,14 @@
           logo: ipaddress.webp
           url: https://www.ipaddress.com/
           description: What's my IP ？
-        - title: IP111.cn
-          logo: linshi.webp
-          url: https://ip111.cn/
-          description: 全方位查询你的IP
+        - title: IP125.COM 
+          logo: ip125.com.webp
+          url: https://ip125.com/
+          description: 查询我的IP地址|国内外IP查询|WebRTC Leak Test……
+        - title: IPSuper
+          logo: ipsuper.webp
+          url: https://ipsuper.com/
+          description: IP风险信息聚合查询
         - title: DNS Leak Test
           logo: dnsleaktest.webp
           url: https://browserleaks.com/dns
@@ -959,10 +943,10 @@
           logo: ping0.cc.webp
           url: https://ping0.cc/
           description: 高精度IP地址归属地查询-IP风控值查询-原生IP查询……
-        - title: IP125.COM 
-          logo: ip125.com.webp
-          url: https://ip125.com/
-          description: 查询我的IP地址|国内外IP查询|WebRTC Leak Test……
+        - title: IPCheck.ing 
+          logo: ipcheck.webp
+          url: https://ipcheck.ing/
+          description: 查看我的IP地址及归属地
         - title: IPpure
           logo: ippure.webp
           url: https://ippure.com/
